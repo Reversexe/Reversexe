@@ -18,8 +18,8 @@ _<mark style="color:yellow;">**HP:**</mark>_ _These motherboards should be unloc
 
 ***
 
-{% content-ref url="../../vgk-valorant-etc/permanent-spoof/normal-permanent-spoof.md" %}
-[normal-permanent-spoof.md](../../vgk-valorant-etc/permanent-spoof/normal-permanent-spoof.md)
+{% content-ref url="normal-permanent-spoof.md" %}
+[normal-permanent-spoof.md](normal-permanent-spoof.md)
 {% endcontent-ref %}
 
 {% content-ref url="asus-perm-spoof/" %}
