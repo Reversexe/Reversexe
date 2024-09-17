@@ -8,7 +8,7 @@ description: Instructions for the standard permanent spoof.
 
 ### <mark style="color:red;background-color:red;">**MAKE SURE TO REMOVE ANY 'USB' ON YOUR PC CONNECTED!**</mark>
 
-* <mark style="background-color:blue;">**Watch:**</mark> [https://youtu.be/YTzI4MqdHZE](https://youtu.be/YTzI4MqdHZE)
+* <mark style="background-color:blue;">**Watch:**</mark> [https://youtu.be/T3xT7iWVXXc](https://youtu.be/T3xT7iWVXXc)
 * _**A like, subscribe, & comment would be..**_ _<mark style="color:yellow;">**verse-tacular!**</mark> ❤️_
 
 ### <mark style="color:purple;">**WATCH THIS VIDEO AFTER:**</mark>** (NETWORK UNFLAGGING)**
