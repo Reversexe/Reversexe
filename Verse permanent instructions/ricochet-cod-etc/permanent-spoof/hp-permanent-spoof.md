@@ -57,7 +57,7 @@ This process of '**unlocking**' the motherboard has to be done **ONCE**. You do 
 
 ### <mark style="color:red;background-color:red;">**MAKE SURE TO REMOVE ANY 'USB' ON YOUR PC CONNECTED!**</mark>
 
-* <mark style="background-color:blue;">**Watch:**</mark> [https://youtu.be/T3xT7iWVXXc](https://youtu.be/T3xT7iWVXXc)
+* <mark style="background-color:blue;">**Watch:**</mark> [**VERSE TUTORIAL VIDEO HERE**](https://bit.ly/instructions-video)
 * _**A like, subscribe, & comment would be..**_ _<mark style="color:yellow;">**verse-tacular!**</mark> ❤️_
 
 ### <mark style="color:purple;">**WATCH THIS VIDEO AFTER:**</mark>** (NETWORK UNFLAGGING)**
