@@ -53,12 +53,20 @@ The reason this reinstallation is recommended, especially for people with a lot 
 
 </div>
 
+{% hint style="danger" %}
+**NOTE:** When reinstalling Windows, most modern systems will automatically detect and install basic Ethernet drivers, so your connection will work fine right after the installation. \
+\
+_<mark style="background-color:red;">**However, in certain cases, you might need to manually download and install network drivers:**</mark>_ \
+\
+_**Prebuilt PCs:** Make sure to download your network drivers (LAN) from your corresponding motherboard model. So for example "Asus B550 Network drivers" on Google, and put them in the USB drive._
+{% endhint %}
+
 ***
 
-> <mark style="color:green;">**\[2]**</mark> <mark style="background-color:green;">**Once done, and the USB looks similar like the screenshot above, restart PC and boot into BIOS.**</mark>\
+> <mark style="color:green;">**\[2]**</mark> <mark style="background-color:green;">Once done, and the USB looks similar like the screenshot above, restart PC and boot into BIOS.</mark>\
 > _**HOW TO **<mark style="color:green;">**EASILY**</mark>** BOOT INTO BIOS**:_ [_https://youtu.be/mb9X9\_NNxuo?si_](https://youtu.be/mb9X9\_NNxuo?si=reDxO\_Dcnu5e8aFJ)
 
-> <mark style="color:green;">**\[3]**</mark> <mark style="background-color:green;">**Disable CSM, & Enable "RAID" in BIOS.**</mark>\
+> <mark style="color:green;">**\[3]**</mark> <mark style="background-color:green;">Disable CSM, & Enable "RAID" in BIOS.</mark>\
 > _**Advanced > Integrated peripherals (or) Storage Configuration**_\
 > _**SATA Mode > "RAID" / NVME Mode > "RAID",**** **<mark style="color:red;">**Save and Exit BIOS, then get back into it again.**</mark>_
 
@@ -66,7 +74,7 @@ The reason this reinstallation is recommended, especially for people with a lot 
 
 ***
 
-* **The installation process starts, **<mark style="color:red;background-color:red;">**AND MAKE AN OFFLINE ACCOUNT**</mark>
+* **The installation process starts | **<mark style="color:red;background-color:red;">**MAKE AN OFFLINE ACCOUNT**</mark>
 
 <figure><img src="../../.gitbook/assets/Offline acc.webp" alt=""><figcaption></figcaption></figure>
 
