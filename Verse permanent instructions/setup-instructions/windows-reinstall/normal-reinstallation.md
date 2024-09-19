@@ -42,7 +42,7 @@ Believe in the process. It may seem challenging at first with all the images and
 {% hint style="danger" %}
 **NOTE:** When reinstalling Windows, most modern systems will automatically detect and install basic Ethernet drivers, so your connection will work fine right after the installation. \
 \
-_<mark style="color:red;">**However, in certain cases, you might need to manually download and install network drivers:**</mark>_\
+_<mark style="color:red;background-color:red;">**However, in certain cases, you might need to manually download and install network drivers:**</mark>_\
 \
 _**Prebuilt PCs:** Make sure to download your network drivers (LAN) from your corresponding motherboard model. So for example "Asus B550 Network drivers" on Google, and put them in the USB drive._
 {% endhint %}
