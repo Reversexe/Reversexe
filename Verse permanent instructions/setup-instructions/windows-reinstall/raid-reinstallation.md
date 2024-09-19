@@ -44,8 +44,8 @@ The reason this reinstallation is recommended, especially for people with a lot 
 
 ***
 
-> <mark style="color:green;">**\[1]**</mark> **AMD RAID FILES:** [<mark style="color:blue;">**DOWNLOAD RAID FILES**</mark>](https://shorturl.at/2Rhf1) <mark style="color:blue;background-color:blue;">**<- Put files on the USB.**</mark>\
-> _MAKE SURE TO <mark style="background-color:red;">**REMEMBER**</mark> YOUR DISK SERIALS. **MAKE A PHOTO OF THEM ON YOUR PHONE.**_
+<mark style="color:green;">**\[1]**</mark> **AMD RAID FILES:** [<mark style="color:blue;">**DOWNLOAD RAID FILES**</mark>](https://shorturl.at/2Rhf1) <mark style="color:blue;background-color:blue;">**<- Put files on the USB.**</mark>\
+_MAKE SURE TO <mark style="background-color:red;">**REMEMBER**</mark> YOUR DISK SERIALS. **MAKE A PHOTO OF THEM ON YOUR PHONE.**_
 
 ### <mark style="background-color:green;">**YOUR USB SHOULD LOOK SIMILAR LIKE THIS SCREENSHOT:**</mark>
 
@@ -65,14 +65,16 @@ _**Prebuilt PCs:** Make sure to download your network drivers (LAN) from your co
 
 ***
 
-> <mark style="color:green;">**\[2]**</mark> Once done, and the USB looks similar like the screenshot, restart PC and boot into BIOS.\
-> _**HOW TO **<mark style="color:green;">**EASILY**</mark>** BOOT INTO BIOS**:_ [_https://youtu.be/mb9X9\_NNxuo?si_](https://youtu.be/mb9X9\_NNxuo?si=reDxO\_Dcnu5e8aFJ)
-
-> <mark style="color:green;">**\[3]**</mark> Disable CSM, & Enable "RAID" in BIOS.\
-> _**Advanced > Integrated peripherals (or) Storage Configuration**_\
-> _**SATA Mode > "RAID" / NVME Mode > "RAID",**** **<mark style="color:red;">**Save and Exit BIOS, then get back into it again.**</mark>_
-
-> <mark style="color:green;">**\[4]**</mark>** Follow:** [https://streamable.com/9o2zci](https://streamable.com/9o2zci) (Install Windows 10 **Pro version**)_._
+<mark style="background-color:green;">**\[2] Once done, and the USB looks similar to the screenshot, restart PC and boot into BIO**</mark><mark style="background-color:green;">S.</mark>\
+_HOW TO <mark style="color:green;">EASILY</mark> BOOT INTO BIOS:_ [_https://youtu.be/mb9X9\_NNxuo?si_](https://youtu.be/mb9X9\_NNxuo?si=reDxO\_Dcnu5e8aFJ)\
+\
+\
+<mark style="background-color:green;">**\[3]**</mark> <mark style="background-color:green;"></mark><mark style="background-color:green;">Disable CSM, & Enable "RAID" in BIOS.</mark>\
+_**Advanced > Integrated peripherals (or) Storage Configuration**_\
+_**SATA Mode > "RAID" / NVME Mode > "RAID" | **<mark style="color:red;">**SAVE & EXIT BIOS, Then get back into BIOS again.**</mark>_\
+\
+\
+<mark style="color:green;">**\[4]**</mark>** Follow** [https://streamable.com/9o2zci](https://streamable.com/9o2zci) (Install Windows 10 **Pro version**)_._
 
 ***
 
