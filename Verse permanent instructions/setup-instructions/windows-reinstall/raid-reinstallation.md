@@ -68,11 +68,9 @@ _**Prebuilt PCs:** Make sure to download your network drivers (LAN) from your co
 <mark style="background-color:green;">**\[2] Once done, and the USB looks similar to the screenshot, restart PC and boot into BIO**</mark><mark style="background-color:green;">S.</mark>\
 _HOW TO <mark style="color:green;">EASILY</mark> BOOT INTO BIOS:_ [_https://youtu.be/mb9X9\_NNxuo?si_](https://youtu.be/mb9X9\_NNxuo?si=reDxO\_Dcnu5e8aFJ)\
 \
-\
-<mark style="background-color:green;">**\[3]**</mark> <mark style="background-color:green;"></mark><mark style="background-color:green;">Disable CSM, & Enable "RAID" in BIOS.</mark>\
-_**Advanced > Integrated peripherals (or) Storage Configuration**_\
-_**SATA Mode > "RAID" / NVME Mode > "RAID" | **<mark style="color:red;">**SAVE & EXIT BIOS, Then get back into BIOS again.**</mark>_\
-\
+<mark style="background-color:green;">**\[3] Disable CSM, & Enable "RAID" in BIOS.**</mark>\
+_Advanced > Integrated peripherals (or) Storage Configuration_\
+_SATA Mode > "RAID" / NVME Mode > "RAID" **| **<mark style="color:red;">**SAVE & EXIT BIOS, Then get back into BIOS again.**</mark>_\
 \
 <mark style="color:green;">**\[4]**</mark>** Follow** [https://streamable.com/9o2zci](https://streamable.com/9o2zci) (Install Windows 10 **Pro version**)_._
 
