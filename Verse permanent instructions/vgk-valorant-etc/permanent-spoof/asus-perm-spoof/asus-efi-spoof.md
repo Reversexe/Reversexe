@@ -9,12 +9,17 @@ description: Instructions for Asus EFI Spoof for Valorant.
 1. Follow this video: [**https://streamable.com/k653am**](https://streamable.com/k653am)\
    <mark style="background-color:purple;">Download</mark> [<mark style="background-color:purple;">**Chrome Sound Booster**</mark>](https://chromewebstore.google.com/detail/volume-booster/ejkiikneibegknkgimmihdpcbcedgmpo) <mark style="background-color:purple;">if u can't hear the voice well 🔊</mark>&#x20;
 2. Select **A/D/E/F** in Verse Loader, and run it! <mark style="background-color:red;">**No Files will be shown inside the drive. That's fine!**</mark>
-3. Open <mark style="color:blue;">**Powershell**</mark> as admin, write `[Guid]::newGuid()`and see the results.
-4. **Make a picture of the GUID with ur phone**, we might need it later on (not always).
-5. **Boot into BIOS** like u did before with TPM and [BIOS Configurations](../../../setup-instructions/bios-configurations.md#go-to-bios-and-follow-the-steps). (Restart + SHIFT)
-6. Go to Boot > Secure Boot > OS Type **\[Windows]** & Secure Boot mode **\[Custom]**\
+
+{% hint style="info" %}
+**Please choose the drive letter assigned to ur partition.** So not all 4, but the letter of ur partition.
+{% endhint %}
+
+4. Open <mark style="color:blue;">**Powershell**</mark> as admin, write `[Guid]::newGuid()`and see the results.
+5. **Make a picture of the GUID with ur phone**, we might need it later on (not always).
+6. **Boot into BIOS** like u did before with TPM and [BIOS Configurations](../../../setup-instructions/bios-configurations.md#go-to-bios-and-follow-the-steps). (Restart + SHIFT)
+7. Go to Boot > Secure Boot > OS Type **\[Windows]** & Secure Boot mode **\[Custom]**\
    Secure boot mode can be found under "**Boot configuration"** <mark style="background-color:red;">**(Don't have it? That's fine!)**</mark>
-7. Ensure all Default keys are installed. If it shows **"0"** at all, click **"Install Default Keys".**
+8. Ensure all Default keys are installed. If it shows **"0"** at all, click **"Install Default Keys".**
 
 <div align="left">
 

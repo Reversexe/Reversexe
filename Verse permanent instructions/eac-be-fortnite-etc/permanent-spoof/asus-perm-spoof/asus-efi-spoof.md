@@ -27,7 +27,7 @@ _**HOW TO **<mark style="color:green;">**EASILY**</mark>** BOOT INTO BIOS**:_ [_
 
 ***
 
-4. Click save and exit bios again, we are done now. **You will boot EFI spoofed.**
+4. Click '**save and exit'** bios again, we are done now. **You will boot EFI spoofed.**
 
 {% hint style="warning" %}
 _**Note: This process is important for Asus users.** You would **ALWAYS** have to boot Windows from the A/D/E/F Partition. You cannot play your game without it. Sadly, there is no other way for this, other than buying a new non-Asus motherboard. **(TIP: Never buy Asus again. It's dogshit for spoofing**!)_

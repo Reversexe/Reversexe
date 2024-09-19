@@ -10,7 +10,7 @@ description: Instructions for the Asus permanent spoof.
 <mark style="color:red;">**ASUS EFI SPOOF INSTRUCTIONS:**</mark> \
 **MAKE SURE TO RUN 'PERMANENT SPOOF' FIRST.** \
 \
-When u click on **'Asus Spoof'** ur redirected to another page with **'Asus EFI Spoof'. Make sure to run Permanent Spoof first**, continue with the ENTIRE video, and at the end, close the video, do the network unflagging video down below, and then [**\[CONTINUE TO ASUS EFI SPOOF INSTRUCTIONS\].**](asus-efi-spoof.md)
+When u click on **'Asus Spoof'** ur redirected to another page with **'Asus EFI Spoof'. Make sure to run Permanent Spoof first**, continue with the ENTIRE video, and at the end, close the video, do the network unflagging video down below, and then **\[**[**CONTINUE TO ASUS EFI SPOOF INSTRUCTIONS\].**](asus-efi-spoof.md)
 {% endhint %}
 
 ### <mark style="color:red;background-color:red;">**MAKE SURE TO REMOVE ANY 'USB' ON YOUR PC CONNECTED!**</mark>
