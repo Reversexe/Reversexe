@@ -5,7 +5,7 @@ description: Reinstall Windows without RAID.
 # Normal reinstallation
 
 {% hint style="warning" %}
-**Reinstalling Windows with a USB is **<mark style="color:red;">**HIGHLY**</mark>** recommended. This is to ensure the disk bans are gone.**\
+<mark style="background-color:orange;">**Reinstalling Windows with a USB is HIGHLY recommended. This is to ensure the disk bans are gone.**</mark>\
 \
 🌟 **Easiness**: <mark style="color:green;">**8/10 VERY EASY**</mark>** | Takes max 15 Minutes.**\
 \
