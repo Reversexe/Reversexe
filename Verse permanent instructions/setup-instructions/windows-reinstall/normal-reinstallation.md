@@ -91,9 +91,9 @@ _**Prebuilt PCs:** Make sure to download your network drivers (LAN) from your co
 13. Write `select disk 'X'` (X = Disk number) then write `clean` for ALL disks, besides ur USB.
 
 {% hint style="danger" %}
-**For example,** most people have one disk. Then write '**select disk 1**' and then '**clean**'. Incase u have two drives, ur gonna 'select disk 2' as well, and write 'clean' and so forth for all disks.\
+**For example,** most people have one disk. Then write '**select disk 1**' and then '**clean**'. In case u have two drives, ur gonna 'select disk 2' as well, and write 'clean' and so forth for all disks.\
 \
-Flash drives (USB) usually have a smaller size compared to internal hard drives or SSDs, and likely the last drive listed! **DO NOT CLEAN YOUR FLASH DRIVE (USB)!** <mark style="color:red;">**Unsure?**</mark> <mark style="color:red;">**Please open a ticket so we can help**</mark>**.**
+Flash drives (USB) usually have a smaller size compared to internal hard drives or SSDs, and are likely the last drive listed! **DO NOT CLEAN YOUR FLASH DRIVE (USB)!** <mark style="color:red;background-color:red;">**Still Unsure? Please contact us.**</mark>
 {% endhint %}
 
 Now it should output: <mark style="color:green;">**'Succeeded in cleaning the disk'**</mark> or something related to <mark style="color:green;">**'success'**</mark>
