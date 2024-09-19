@@ -8,7 +8,7 @@ description: Instructions for Asus EFI Spoof for Valorant.
 
 1. Follow this video: [**https://streamable.com/k653am**](https://streamable.com/k653am)\
    <mark style="background-color:purple;">Download</mark> [<mark style="background-color:purple;">**Chrome Sound Booster**</mark>](https://chromewebstore.google.com/detail/volume-booster/ejkiikneibegknkgimmihdpcbcedgmpo) <mark style="background-color:purple;">if u can't hear the voice well 🔊</mark>&#x20;
-2. Select **A/D/E/F** in Verse Loader, and run it! <mark style="background-color:red;">**No Files will be shown inside the drive. That's fine!**</mark>
+2. Select either **A/D/E/F** in loader, and run it! <mark style="background-color:red;">**No Files will be shown inside the drive. That's fine!**</mark>
 3. Now set up **(A/D/E/F)** Partition as **Boot priority #1** and **Windows Boot Manager as #2.**
 
 <mark style="background-color:red;">**The Partition should be called "UEFI OS" / "UEFI Partition 1". (UEFI ALWAYS)**</mark>\
