@@ -13,6 +13,10 @@ description: Instructions for the Asus permanent spoof.
 When u click on **'Asus Spoof'** ur redirected to another page with **'Asus EFI Spoof'. Make sure to run Permanent Spoof first**, continue with the ENTIRE video, and at the end, close the video, do the network unflagging video down below, and then [**\[CONTINUE TO ASUS EFI SPOOF INSTRUCTIONS\].**](asus-efi-spoof.md)
 {% endhint %}
 
+{% hint style="success" %}
+**Cannot use EFI for some reason?** _For example, some people use EFI cheats, or EFI does not work for you, besides the fact that it is **HIGHLY** recommended to use EFI, we have another 'Backup Asus Spoof' option available. <mark style="background-color:blue;">**Verse Loader > Miscellaneous > Asus Backup Spoof.**</mark> (Just one click spoof, restart & done)_
+{% endhint %}
+
 ### <mark style="color:red;background-color:red;">**MAKE SURE TO REMOVE ANY 'USB' ON YOUR PC CONNECTED!**</mark>
 
 * <mark style="background-color:blue;">**Watch:**</mark> [**VERSE TUTORIAL VIDEO HERE**](https://bit.ly/instructions-video)
