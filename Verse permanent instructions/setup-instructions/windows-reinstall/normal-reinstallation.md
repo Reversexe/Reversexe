@@ -5,7 +5,7 @@ description: Reinstall Windows without RAID.
 # Normal reinstallation
 
 {% hint style="warning" %}
-Reinstalling Windows with a USB is <mark style="color:red;">**HIGHLY**</mark> recommended. This is to ensure the disk bans are gone.\
+_**Reinstalling Windows with a USB is **<mark style="color:red;">**HIGHLY**</mark>** recommended. This is to ensure the disk bans are gone.**_\
 \
 🌟 **Easiness**: <mark style="color:green;">**8/10 VERY EASY**</mark>** | Takes max 15 Minutes.**\
 \
@@ -14,7 +14,7 @@ Reinstalling Windows with a USB is <mark style="color:red;">**HIGHLY**</mark> re
 
 <details>
 
-<summary><mark style="color:red;"><strong>I DONT HAVE A USB /</strong></mark><strong>/ IT LOOKS HARD!</strong></summary>
+<summary><mark style="color:red;"><strong>I DONT HAVE A USB</strong></mark><strong> // IT LOOKS HARD!</strong></summary>
 
 Believe in the process. It may seem challenging at first with all the images and information, but trust us, it's much simpler than it looks! We encourage you to give it a try. If you need assistance, don't hesitate to contact us in the Discord — we're here to help.\
 \
@@ -31,12 +31,11 @@ Believe in the process. It may seem challenging at first with all the images and
 1. Download Media Creation Tool above, click **"Download Now"**
 2. Open the **Media Creation Tool as an administrator**
 3. Select **Create Installation media (USB Flash drive)**
+4. Use all the recommended options & continue & wait for it to finish.
 
 <figure><img src="../../.gitbook/assets/flashdrive.png" alt=""><figcaption></figcaption></figure>
 
-4. Use all the recommended options & continue & wait for it to finish.
-
-### <mark style="color:blue;background-color:blue;">**YOUR USB CONTENTS LOOK LIKE THIS NOW**</mark>
+### <mark style="color:blue;background-color:blue;">**YOUR USB CONTENTS LOOK LIKE THIS NOW:**</mark>
 
 {% hint style="danger" %}
 **NOTE:** When reinstalling Windows, most modern systems will automatically detect and install basic Ethernet drivers, so your connection will work fine right after the installation. \
@@ -48,6 +47,8 @@ _**Prebuilt PCs:** Make sure to download your network drivers from your correspo
 
 <figure><img src="../../.gitbook/assets/USB insides.png" alt=""><figcaption></figcaption></figure>
 
+***
+
 5. Hold **SHIFT,** and click **Restart and keep holding SHIFT!**
 
 <div align="left">
@@ -56,11 +57,11 @@ _**Prebuilt PCs:** Make sure to download your network drivers from your correspo
 
 </div>
 
-6. Select **Use a device** and select the USB _<mark style="background-color:blue;">(Known as "Flash Drive")</mark>_
+6. Select **Use a device** and select the USB _<mark style="background-color:blue;">**(Known as "Flash Drive")**</mark>_
 
 <figure><img src="../../.gitbook/assets/select.webp" alt=""><figcaption></figcaption></figure>
 
-7. Select **Windows 10 Pro** <mark style="color:red;">**(IMPORTANT!)**</mark>
+7. Select **Windows 10 Pro** <mark style="color:red;background-color:red;">**(IMPORTANT!)**</mark>
 
 <div align="left">
 
