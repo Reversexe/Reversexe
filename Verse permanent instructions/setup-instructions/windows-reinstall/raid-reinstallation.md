@@ -47,7 +47,7 @@ The reason this reinstallation is recommended, especially for people with a lot 
 > <mark style="color:green;">**\[1]**</mark> **AMD RAID FILES:** [<mark style="color:blue;">**DOWNLOAD RAID FILES**</mark>](https://shorturl.at/2Rhf1) <mark style="color:blue;background-color:blue;">**<- Put files on the USB.**</mark>\
 > _MAKE SURE TO <mark style="background-color:red;">**REMEMBER**</mark> YOUR DISK SERIALS. **MAKE A PHOTO OF THEM ON YOUR PHONE.**_
 
-### <mark style="background-color:green;">**THIS IS HOW YOUR USB CONTENTS SHOULD LOOK NOW:**</mark>
+### <mark style="background-color:green;">**YOUR USB SHOULD LOOK SIMILAR LIKE THIS SCREENSHOT:**</mark>
 
 <div align="left">
 
