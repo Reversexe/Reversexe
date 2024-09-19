@@ -9,7 +9,7 @@ Reinstalling Windows with a USB is <mark style="color:red;">**HIGHLY**</mark> re
 \
 🌟 **Easiness**: <mark style="color:green;">**8/10 VERY EASY**</mark>** | Takes max 15 Minutes.**\
 \
-<mark style="color:yellow;">**Am I Disk Banned? Here’s How to Tell:**</mark> If many spoofers haven’t worked for you and you've faced multiple bans on the same PC, it's likely to be disk banned. In this case, we recommend reinstalling using a USB following this guide.
+<mark style="color:yellow;">**Am I Disk Banned? Here’s How to Tell:**</mark> If many spoofers haven’t worked for you and you've faced multiple bans on the same PC, it's likely to be disk banned. In this case, we recommend reinstalling using a USB.
 {% endhint %}
 
 <details>
@@ -24,7 +24,7 @@ Believe in the process. It may seem challenging at first with all the images and
 
 </details>
 
-### REINSTALL WINDOWS WITH USB (AND BYPASS DISK BAN)
+### <mark style="color:blue;">REINSTALL WINDOWS WITH USB</mark> (AND BYPASS DISK BAN)
 
 {% embed url="https://www.microsoft.com/en-us/software-download/windows10" %}
 
