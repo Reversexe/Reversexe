@@ -5,7 +5,7 @@ description: Reinstall Windows without RAID.
 # Normal reinstallation
 
 {% hint style="warning" %}
-_**Reinstalling Windows with a USB is **<mark style="color:red;">**HIGHLY**</mark>** recommended. This is to ensure the disk bans are gone.**_\
+**Reinstalling Windows with a USB is **<mark style="color:red;">**HIGHLY**</mark>** recommended. This is to ensure the disk bans are gone.**\
 \
 🌟 **Easiness**: <mark style="color:green;">**8/10 VERY EASY**</mark>** | Takes max 15 Minutes.**\
 \
@@ -42,7 +42,7 @@ Believe in the process. It may seem challenging at first with all the images and
 \
 _**However, in certain cases, you might need to manually download and install network drivers:**_\
 \
-_**Prebuilt PCs:** Make sure to download your network drivers from your corresponding motherboard. So for example "Asus B550 Network drivers" on Google._
+_**Prebuilt PCs:** Make sure to download your network drivers from your corresponding motherboard. So for example "Asus B550 Network drivers" on Google, and put them in the USB drive._
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/USB insides.png" alt=""><figcaption></figcaption></figure>
