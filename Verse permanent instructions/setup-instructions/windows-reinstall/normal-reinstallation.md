@@ -37,6 +37,8 @@ Believe in the process. It may seem challenging at first with all the images and
 
 ### <mark style="color:blue;background-color:blue;">**YOUR USB CONTENTS LOOK LIKE THIS NOW:**</mark>
 
+<figure><img src="../../.gitbook/assets/USB insides.png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="danger" %}
 **NOTE:** When reinstalling Windows, most modern systems will automatically detect and install basic Ethernet drivers, so your connection will work fine right after the installation. \
 \
@@ -44,8 +46,6 @@ _<mark style="color:red;">**However, in certain cases, you might need to manuall
 \
 _**Prebuilt PCs:** Make sure to download your network drivers (LAN) from your corresponding motherboard model. So for example "Asus B550 Network drivers" on Google, and put them in the USB drive._
 {% endhint %}
-
-<figure><img src="../../.gitbook/assets/USB insides.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -132,3 +132,5 @@ Now it should output: <mark style="color:green;">**'Succeeded in cleaning the di
 \
 3\. Install: [https://aka.ms/vs/17/release/vc\_redist.x64.exe ](https://aka.ms/vs/17/release/vc\_redist.x64.exe)to prevent errors.
 {% endhint %}
+
+***
