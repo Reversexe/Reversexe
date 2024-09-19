@@ -63,7 +63,7 @@ _**Prebuilt PCs:** Make sure to download your network drivers (LAN) from your co
 
 ***
 
-> <mark style="color:green;">**\[2]**</mark> <mark style="background-color:green;">Once done, and the USB looks similar like the screenshot above, restart PC and boot into BIOS.</mark>\
+> <mark style="color:green;">**\[2]**</mark> <mark style="background-color:green;">Once done, and the USB looks similar like the screenshot, restart PC and boot into BIOS.</mark>\
 > _**HOW TO **<mark style="color:green;">**EASILY**</mark>** BOOT INTO BIOS**:_ [_https://youtu.be/mb9X9\_NNxuo?si_](https://youtu.be/mb9X9\_NNxuo?si=reDxO\_Dcnu5e8aFJ)
 
 > <mark style="color:green;">**\[3]**</mark> <mark style="background-color:green;">Disable CSM, & Enable "RAID" in BIOS.</mark>\
