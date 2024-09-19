@@ -21,7 +21,7 @@ description: Works for AMD, not Intel (unless u know what ur doing).
 
 The reason this reinstallation is recommended, especially for people with a lot of HWID bans on their PC, is because this reinstallation method changes your SSD/NVMe serials as well. This is an important factor and almost **a 99% guaranteed successful spoof.**\
 \
-<mark style="color:red;">**Reminder, this is for AMD ONLY, Unless u know what ur doing on Intel.**</mark>
+<mark style="color:red;background-color:red;">**Reminder: this is for AMD ONLY, Unless u know what ur doing on Intel.**</mark>
 
 </details>
 
@@ -42,11 +42,10 @@ The reason this reinstallation is recommended, especially for people with a lot 
 
 </div>
 
-> <mark style="color:green;">**\[1]**</mark> **AMD RAID FILES:** [<mark style="color:blue;">**DOWNLOAD RAID FILES**</mark>](https://shorturl.at/kQTU9) <mark style="color:blue;background-color:blue;">**<- Put files on the USB**</mark>\
-> _MAKE SURE TO <mark style="background-color:red;">**REMEMBER**</mark> YOUR DISK SERIALS. **MAKE A PHOTO OF THEM ON YOUR PHONE.**_\
-> _**`wmic diskdrive get serialnumber`**** ****in**** **<mark style="color:green;">**ADMIN CMD**</mark>_
+> <mark style="color:green;">**\[1]**</mark> **AMD RAID FILES:** [<mark style="color:blue;">**DOWNLOAD RAID FILES**</mark>](https://shorturl.at/2Rhf1) <mark style="color:blue;background-color:blue;">**<- Put files on the USB.**</mark>\
+> _MAKE SURE TO <mark style="background-color:red;">**REMEMBER**</mark> YOUR DISK SERIALS. **MAKE A PHOTO OF THEM ON YOUR PHONE.**_
 
-### **THIS IS HOW YOUR USB CONTENTS SHOULD LOOK NOW:**
+### <mark style="background-color:green;">**THIS IS HOW YOUR USB CONTENTS SHOULD LOOK NOW:**</mark>
 
 <div align="left">
 
@@ -56,14 +55,14 @@ The reason this reinstallation is recommended, especially for people with a lot 
 
 ***
 
-> <mark style="color:green;">**\[2]**</mark> Once done, and the USB looks like the screenshot above, restart PC and boot into BIOS.\
+> <mark style="color:green;">**\[2]**</mark> <mark style="background-color:green;">**Once done, and the USB looks similar like the screenshot above, restart PC and boot into BIOS.**</mark>\
 > _**HOW TO **<mark style="color:green;">**EASILY**</mark>** BOOT INTO BIOS**:_ [_https://youtu.be/mb9X9\_NNxuo?si_](https://youtu.be/mb9X9\_NNxuo?si=reDxO\_Dcnu5e8aFJ)
 
-> <mark style="color:green;">**\[3]**</mark> Disable CSM, & Enable "RAID" in BIOS.\
+> <mark style="color:green;">**\[3]**</mark> <mark style="background-color:green;">**Disable CSM, & Enable "RAID" in BIOS.**</mark>\
 > _**Advanced > Integrated peripherals (or) Storage Configuration**_\
 > _**SATA Mode > "RAID" / NVME Mode > "RAID",**** **<mark style="color:red;">**Save and Exit BIOS, then get back into it again.**</mark>_
 
-> <mark style="color:green;">**\[4]**</mark>** Follow:** [https://streamable.com/9o2zci](https://streamable.com/9o2zci) (Install Windows 10 **PRO version**)_._
+> <mark style="color:green;">**\[4]**</mark>** Follow:** [https://streamable.com/9o2zci](https://streamable.com/9o2zci) (Install Windows 10 **Pro version**)_._
 
 ***
 
@@ -91,6 +90,6 @@ The reason this reinstallation is recommended, especially for people with a lot 
 
 ### WHEN YOU ARE ON <mark style="color:blue;">WINDOWS:</mark>
 
-> <mark style="color:green;">**\[5]**</mark> On new windows, check SSD/NVMe serial and it will be changed! Compare with old serial.
+> <mark style="color:green;">**\[5]**</mark>** On new windows,** check SSD/NVMe serial and it will be changed! Compare with old serial.
 
 ***
