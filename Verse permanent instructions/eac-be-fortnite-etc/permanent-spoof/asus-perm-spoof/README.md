@@ -51,7 +51,7 @@ _CHECK THE MAC-CHECKER, IF ALL MACS CHANGED._
 {% endtabs %}
 
 {% hint style="success" %}
-_**TIP:** Mac-Adress not changed? Use "WIFI MAC SPOOFER" in **miscellaneous** tab._\
+_**TIP:** Mac-Adress not changed? Use "**WIFI MAC SPOOFER**" in the **miscellaneous** tab._\
 _Still not changed? **Then follow this:**_ [_**https://streamable.com/p2xfby**_](https://streamable.com/p2xfby)
 {% endhint %}
 

@@ -7,7 +7,7 @@ description: Instructions for the Asus permanent spoof.
 ## FOLLOW THE TUTORIAL VIDEO:
 
 {% hint style="danger" %}
-<mark style="color:red;">**ASUS EFI SPOOF INSTRUCTIONS:**</mark>\
+<mark style="color:red;background-color:red;">**ASUS EFI SPOOF INSTRUCTIONS:**</mark>\
 **MAKE SURE TO RUN 'PERMANENT SPOOF' FIRST.**\
 \
 When u click on **'Asus Spoof'** ur redirected to another page with **'Asus EFI Spoof'. Make sure to run Permanent Spoof first**, continue with the ENTIRE video, and at the end, close the video, do the network unflagging video down below, and then [**\[CONTINUE TO ASUS EFI SPOOF INSTRUCTIONS\].**](asus-efi-spoof.md)
@@ -45,7 +45,7 @@ _CHECK THE MAC-CHECKER, IF ALL MACS CHANGED._
 {% endtabs %}
 
 {% hint style="success" %}
-_**TIP:** Mac-Adress not changed? Use "WIFI MAC SPOOFER" in the **miscellaneous** tab._\
+_**TIP:** Mac-Adress not changed? Use "**WIFI MAC SPOOFER**" in the **miscellaneous** tab._\
 _**Still not changed?** Then follow this:_ [_https://streamable.com/p2xfby_](https://streamable.com/p2xfby)
 {% endhint %}
 
