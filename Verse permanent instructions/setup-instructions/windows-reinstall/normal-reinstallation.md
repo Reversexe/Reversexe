@@ -16,11 +16,11 @@ Reinstalling Windows with a USB is <mark style="color:red;">**HIGHLY**</mark> re
 
 <summary><mark style="color:red;"><strong>I DONT HAVE A USB / IT LOOKS DIFFICULT!</strong></mark><strong> HELP ME</strong></summary>
 
-Believe in the process. It 'looks' difficult because you might've been overwhelmed by all the pictures and information. Believe us<mark style="color:green;">**, IT'S FUCKING EASY.**</mark> We would recommend you to at least attempt it. If you need support, please reach out to us, and we will help you.\
+Believe in the process. It may seem challenging at first with all the images and information, but trust us, it's much simpler than it looks! We encourage you to give it a try. If you need assistance, don't hesitate to contact us — we're here to help.\
 \
-<mark style="color:red;">**You don't have a USB to Reinstall with?**</mark> Most cost **$5**, and it's recommended to get one.\
+<mark style="color:red;">**Don't have a USB to reinstall with?**</mark> Most cost **$5**, and it's recommended to get one.\
 \
-**In case u don't want to do so:** [https://youtu.be/23GvVWXt6KU](https://youtu.be/23GvVWXt6KU) follow this tutorial video. This reinstallation method works fine for 90% of people as well.
+<mark style="color:yellow;">**Otherwise:**</mark>** Reinstall Windows by settings** > remove everything > Cloud download > <mark style="color:blue;">**Change settings**</mark> > Clean data <mark style="color:green;">\[YES]</mark> / Delete files from all drives <mark style="color:green;">\[YES]</mark> / Download Windows <mark style="color:green;">\[YES]</mark> > Confirm & next.
 
 </details>
 
