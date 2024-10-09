@@ -27,30 +27,7 @@ _This is the most simple bypass. <mark style="color:red;">**This bypass will not
 
 <details>
 
-<summary><mark style="background-color:red;"><strong>#2 TPM BYPASS (PERMANENT) // DOWN RIGHT NOW</strong></mark></summary>
-
-\
-**#1** Make sure TPM is <mark style="color:green;">**ENABLED**</mark> & "_Ready for use_" within tpm.msc\
-\
-**#2** Download: <mark style="color:red;background-color:red;">**// DOWN RIGHT NOW, USE TEMP BYPASS**</mark> (TPM Loader)\
-\
-**#3** Request a License key for this Loader (**#2**). <mark style="color:yellow;">**Open a ticket for it.**</mark>\
-\
-**#4** Login with the given License key, and click **"LOAD TPM"**\
-\
-**#5** Check tpm.msc and it should be 'failed/corrupted'\
-\
-**#6** Open Valorant, the bypass is permanent.\
-\
-_<mark style="color:red;">**IF YOU ARE GOING TO PLAY ANY OTHER GAMES SUCH AS CALL OF DUTY, FORTNITE, OR RUST, PLEASE LOGIN AGAIN AND CLICK 'UNLOAD TPM'**</mark>_\
-\
-_<mark style="color:yellow;">**LICENSE KEY IS LIFETIME!!**</mark>_
-
-</details>
-
-<details>
-
-<summary><mark style="background-color:blue;"><strong>#3 TPM BYPASS (TEMPORARILY)</strong></mark></summary>
+<summary><mark style="background-color:blue;"><strong>#2 TPM BYPASS (TEMPORARILY)</strong></mark></summary>
 
 \
 **#1** Make sure TPM is <mark style="color:green;">**ENABLED**</mark> & "_Ready for use_" within tpm.msc\
@@ -77,34 +54,7 @@ _<mark style="color:yellow;">**LICENSE KEY IS LIFETIME!!**</mark>_
 
 <details>
 
-<summary><mark style="background-color:blue;"><strong>#4 TPM BYPASS (TEMPORARILY - IF 3 DIDN'T WORK)</strong></mark></summary>
-
-\
-<mark style="color:red;">**Please use this TPM Bypass if ALL the other ones (1/2/3) did not work.**</mark>\
-\
-**#1** Make sure TPM is <mark style="color:green;">**ENABLED**</mark> & "_Ready for use_" within tpm.msc\
-\
-**#2** Download: [**https://shorturl.at/CXlpK**](https://shorturl.at/CXlpK) (TPM Temp Loader - Backup).\
-\
-**#3** Check TPM Serials (TPM Module Information) & save them. Then run **TPM.exe**\
-\
-**#4** Request a License key for this Loader (**#4)**. <mark style="color:yellow;">**Open a ticket for it.**</mark>\
-\
-**#5** Login with the given License key, and select **"SPOOF TPM"**\
-\
-**#6** Check if TPM serials **\[6]** have been changed.\
-\
-**#7** Open Valorant, the bypass is temporary. \
-\
-_<mark style="color:red;">**MAKE SURE TO RUN THIS EVERYTIME BEFORE YOU PLAY VALORANT!!**</mark>_ \
-\
-_<mark style="color:yellow;">**LICENSE KEY IS LIFETIME!!**</mark>_
-
-</details>
-
-<details>
-
-<summary><mark style="color:green;background-color:green;"><strong>#5 TPM BYPASS (BEST CHOICE/PERMANENT)</strong></mark></summary>
+<summary><mark style="color:green;background-color:green;"><strong>#3 TPM BYPASS (BEST CHOICE/PERMANENT)</strong></mark></summary>
 
 \
 **#1** Purchase a new TPM Chip <mark style="background-color:blue;">**(Make sure fTPM is disabled in BIOS before installation)**</mark>\
