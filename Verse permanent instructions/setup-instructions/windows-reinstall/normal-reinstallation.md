@@ -1,6 +1,6 @@
 ---
-description: Reinstall Windows without RAID.
 icon: circle-small
+description: Reinstall Windows without RAID.
 ---
 
 # Normal reinstallation
@@ -10,18 +10,18 @@ icon: circle-small
 \
 🌟 **Easiness**: <mark style="color:green;">**8/10 VERY EASY**</mark>** | Takes max 15 Minutes.**\
 \
-<mark style="color:yellow;">**Am I Disk Banned? Here’s How to Tell:**</mark> If many spoofers haven’t worked for you and you've faced multiple bans on the same PC, it's likely to be disk banned. In this case, we recommend reinstalling using a USB.
+<mark style="color:yellow;">**Am I Disk Banned? Here’s How to Tell:**</mark> _If many spoofers haven’t worked for you and you've faced multiple bans on the same PC, it's likely to be disk-banned. In this case, we recommend reinstalling using a USB._
 {% endhint %}
 
 <details>
 
-<summary><mark style="color:red;"><strong>I DONT HAVE A USB</strong></mark><strong> // IT LOOKS HARD!</strong></summary>
+<summary><mark style="color:red;"><strong>I DONT HAVE A USB</strong></mark><strong> | IT LOOKS TOO HARD FOR ME!</strong></summary>
 
 Believe in the process. It may seem challenging at first with all the images and information, but trust us, it's much simpler than it looks! We encourage you to give it a try. If you need assistance, don't hesitate to contact us in the Discord — we're here to help.\
 \
-<mark style="color:red;">**Don't have a USB to reinstall with?**</mark> Most cost **$5**, and it's recommended to get one.\
+<mark style="color:red;background-color:red;">**Don't have a USB to reinstall with?**</mark> Most cost **$5**, and it's recommended to get one.\
 \
-<mark style="color:yellow;">**Otherwise:**</mark>** Reinstall Windows by settings** > remove everything > Cloud download > <mark style="color:blue;">**Change settings**</mark> > Clean data <mark style="color:green;">\[YES]</mark> / Delete files from all drives <mark style="color:green;">\[YES]</mark> / Download Windows <mark style="color:green;">\[YES]</mark> > Confirm & next and wait. This could take 4 to 5 hours.
+**Otherwise;** **Reinstall Windows by settings** > remove everything > Cloud download > <mark style="color:blue;">**Change settings**</mark> > Clean data <mark style="color:green;">\[YES]</mark> / Delete files from all drives <mark style="color:green;">\[YES]</mark> / Download Windows <mark style="color:green;">\[YES]</mark> > Confirm & next and wait. This could take 4 to 5 hours.
 
 </details>
 
