@@ -42,8 +42,8 @@ For an Ethernet connection, we can permanently spoof your MAC address. However, 
 \
 <mark style="color:yellow;">**IF YOU'RE USING WIFI, AND CAN NOT USE ETHERNET, NO ISSUES:**</mark>\
 `1.` Please attempt to get on an Ethernet connection, since it is important for the spoof.\
-`2.` If u cannot, use our "WIFI MAC SPOOFER" on the Miscellaneous tab in the Verse loader.\
-`3.` Purchase a new Wi-Fi Adapter/USB if applicable if ur using that on ur PC.
+`2.` If u can't, use our "WIFI MAC SPOOFER" on the Miscellaneous tab in the Verse loader.\
+`3.` Purchase a new Wi-Fi Adapter/USB (if applicable) if ur using that on ur PC.
 
 </details>
 
@@ -56,6 +56,6 @@ For an Ethernet connection, we can permanently spoof your MAC address. However, 
 > **ASROCK:** ADVANCED > CHIPSET CONFIGURATION > WIFI (WLAN) & BLUETOOTH <mark style="color:red;">**\[DISABLED]**</mark>
 
 \
-**SAVE & EXIT OUT OF BIOS. MAC-CHECKER SHOULD BE " N/A HARDWARE" AT MAC ADDRESS**
+**SAVE & EXIT OUT OF BIOS. MAC-CHECKER SHOULD BE " **<mark style="color:green;">**N/A HARDWARE**</mark>**" AT MAC ADDRESS.**
 
 ***
