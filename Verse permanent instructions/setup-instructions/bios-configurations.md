@@ -1,5 +1,5 @@
 ---
-description: Instructions on settings within BIOS
+description: Instructions on settings within BIOS.
 ---
 
 # 2️⃣ BIOS Configurations

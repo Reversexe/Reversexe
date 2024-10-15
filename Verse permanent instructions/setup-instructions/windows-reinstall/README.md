@@ -5,7 +5,7 @@ description: Windows reinstallation instructions.
 # 1️⃣ Windows reinstall
 
 {% hint style="success" %}
-**INFO:** _There are 2 reinstallation methods. Choose which one fits the best in your situation._\
+**INFO:** There are 2 reinstallation methods. Choose which one fits the best in your situation.\
 \
 _FOR <mark style="color:red;">**VALORANT**</mark>, MAKE SURE TO_ [_**FLASH YOUR BIOS**_](flashing-bios-val.md) _BEFORE YOU REINSTALL WINDOWS!_ \
 _<mark style="color:red;">**MAKE SURE VANGUARD IS UNINSTALLED.**</mark>** ****(FLASHING BIOS = ONLY FOR VALORANT)**_

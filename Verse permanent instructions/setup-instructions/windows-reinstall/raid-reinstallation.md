@@ -1,11 +1,11 @@
 ---
 icon: circle-small
-description: Works for AMD, not Intel (unless u know what ur doing).
+description: RAID reinstallation instructions.
 ---
 
 # RAID Reinstallation
 
-## <mark style="color:purple;">REQUIREMENTS:</mark>
+## <mark style="color:purple;background-color:purple;">REQUIREMENTS:</mark>
 
 1. A USB with 8GB of storage space (32GB Max)
 2. A little bit of handiness, and a little knowledge about PCs

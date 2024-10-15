@@ -1,5 +1,5 @@
 ---
-description: Instructions for Perm Verse.
+description: Download the Verse Loader.
 ---
 
 # 3️⃣ Verse Download

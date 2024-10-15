@@ -1,6 +1,6 @@
 ---
 icon: circle-small
-description: Reinstall Windows without RAID.
+description: Normal reinstallation instructions.
 ---
 
 # Normal reinstallation
