@@ -56,6 +56,6 @@ For an Ethernet connection, we can permanently spoof your MAC address. However, 
 > **ASROCK:** ADVANCED > CHIPSET CONFIGURATION > WIFI (WLAN) & BLUETOOTH <mark style="color:red;">**\[DISABLED]**</mark>
 
 \
-**SAVE & EXIT OUT OF BIOS. MAC-CHECKER SHOULD BE " **<mark style="color:green;">**N/A HARDWARE**</mark>**" AT MAC ADDRESS.**
+**SAVE & EXIT OUT OF BIOS. MAC-CHECKER SHOULD BE "**<mark style="color:green;">**N/A HARDWARE**</mark>**" AT MAC ADDRESS.**
 
 ***
