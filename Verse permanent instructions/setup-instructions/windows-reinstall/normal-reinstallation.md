@@ -10,7 +10,7 @@ description: Reinstall Windows without RAID.
 \
 🌟 **Easiness**: <mark style="color:green;">**8/10 VERY EASY**</mark>** | Takes max 15 Minutes.**\
 \
-_<mark style="color:yellow;">**Am I Disk Banned? Here’s How to Tell:**</mark> If many spoofers haven’t worked for you and you've faced multiple bans on the same PC, it's likely to be disk-banned. In this case, we recommend reinstalling using a USB._
+<mark style="color:yellow;">**Am I Disk Banned? Here’s How to Tell:**</mark> If many spoofers haven’t worked for you and you've faced multiple bans on the same PC, it's likely to be disk-banned. In this case, we recommend reinstalling using a USB.
 {% endhint %}
 
 <details>
@@ -43,9 +43,9 @@ Believe in the process. It may seem challenging at first with all the images and
 {% hint style="danger" %}
 **NOTE:** When reinstalling Windows, most modern systems will automatically detect and install basic Ethernet drivers, so ur connection will work fine right after the installation. \
 \
-_<mark style="color:red;background-color:red;">**However, in certain cases it might be needed to manually download and install network drivers:**</mark>_\
+<mark style="color:red;background-color:red;">**However, in certain cases it might be needed to manually download and install network drivers:**</mark>\
 \
-_Make sure to download your network drivers (LAN) from your corresponding motherboard model. So for example "Asus B550 Network drivers" on Google, and put them in the USB drive. You can skip this step, but this is just a precaution._
+Make sure to download your network drivers (LAN) from your corresponding motherboard model. So for example "Asus B550 Network drivers" on Google, and put them in the USB drive. You can skip this step, since this is just a precaution, but there is a small risk.
 {% endhint %}
 
 ***
