@@ -10,7 +10,7 @@ description: Reinstall Windows without RAID.
 \
 🌟 **Easiness**: <mark style="color:green;">**8/10 VERY EASY**</mark>** | Takes max 15 Minutes.**\
 \
-<mark style="color:yellow;">**Am I Disk Banned? Here’s How to Tell:**</mark> _If many spoofers haven’t worked for you and you've faced multiple bans on the same PC, it's likely to be disk-banned. In this case, we recommend reinstalling using a USB._
+_<mark style="color:yellow;">**Am I Disk Banned? Here’s How to Tell:**</mark> If many spoofers haven’t worked for you and you've faced multiple bans on the same PC, it's likely to be disk-banned. In this case, we recommend reinstalling using a USB._
 {% endhint %}
 
 <details>
@@ -25,7 +25,7 @@ Believe in the process. It may seem challenging at first with all the images and
 
 </details>
 
-### <mark style="color:blue;">REINSTALL WINDOWS WITH USB</mark> (AND BYPASS DISK BAN)
+### <mark style="color:blue;">REINSTALL WINDOWS WITH A USB</mark> (AND BYPASS DISK BAN)
 
 {% embed url="https://www.microsoft.com/en-us/software-download/windows10" %}
 
@@ -41,11 +41,11 @@ Believe in the process. It may seem challenging at first with all the images and
 <figure><img src="../../.gitbook/assets/USB insides.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
-**NOTE:** When reinstalling Windows, most modern systems will automatically detect and install basic Ethernet drivers, so your connection will work fine right after the installation. \
+**NOTE:** When reinstalling Windows, most modern systems will automatically detect and install basic Ethernet drivers, so ur connection will work fine right after the installation. \
 \
-_<mark style="color:red;background-color:red;">**However, in certain cases, you might need to manually download and install network drivers:**</mark>_\
+_<mark style="color:red;background-color:red;">**However, in certain cases it might be needed to manually download and install network drivers:**</mark>_\
 \
-_**Prebuilt PCs:** Make sure to download your network drivers (LAN) from your corresponding motherboard model. So for example "Asus B550 Network drivers" on Google, and put them in the USB drive._
+_Make sure to download your network drivers (LAN) from your corresponding motherboard model. So for example "Asus B550 Network drivers" on Google, and put them in the USB drive. You can skip this step, but this is just a precaution._
 {% endhint %}
 
 ***
