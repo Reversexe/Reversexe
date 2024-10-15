@@ -45,7 +45,7 @@ Believe in the process. It may seem challenging at first with all the images and
 \
 <mark style="color:red;background-color:red;">**However, in certain cases it might be needed to manually download and install network drivers:**</mark>\
 \
-Make sure to download your network drivers (LAN) from your corresponding motherboard model. So for example "Asus B550 Network drivers" on Google, and put them in the USB drive. You can skip this step, since this is just a precaution, but there is a small risk.
+Make sure to download your network drivers (LAN) from your corresponding motherboard model. So for example "Asus B550 Network drivers" on Google, and put them in the USB drive. You can skip this step since this is just a precaution, but there is a small risk of no connection after reinstallation.
 {% endhint %}
 
 ***

@@ -1,6 +1,6 @@
 ---
-description: Works for AMD, not Intel (unless u know what ur doing).
 icon: circle-small
+description: Works for AMD, not Intel (unless u know what ur doing).
 ---
 
 # RAID Reinstallation
@@ -57,11 +57,11 @@ _MAKE SURE TO <mark style="background-color:red;">**REMEMBER**</mark> YOUR DISK 
 </div>
 
 {% hint style="danger" %}
-**NOTE:** When reinstalling Windows, most modern systems will automatically detect and install basic Ethernet drivers, so your connection will work fine right after the installation. \
+**NOTE:** When reinstalling Windows, most modern systems will automatically detect and install basic Ethernet drivers, so ur connection will work fine right after the installation. \
 \
-_<mark style="background-color:red;">**However, in certain cases, you might need to manually download and install network drivers:**</mark>_ \
+<mark style="color:red;background-color:red;">**However, in certain cases it might be needed to manually download and install network drivers:**</mark>\
 \
-_**Prebuilt PCs:** Make sure to download your network drivers (LAN) from your corresponding motherboard model. So for example "Asus B550 Network drivers" on Google, and put them in the USB drive._
+Make sure to download your network drivers (LAN) from your corresponding motherboard model. So for example "Asus B550 Network drivers" on Google, and put them in the USB drive. You can skip this step since this is just a precaution, but there is a small risk of no connection after reinstallation.
 {% endhint %}
 
 ***
