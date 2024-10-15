@@ -33,8 +33,8 @@ _<mark style="color:yellow;">**HP:**</mark>_ _These motherboards should be unloc
 ***
 
 {% hint style="success" %}
-_**TIP:** Mac-Adress not changed? Use "WIFI MAC SPOOFER" in the **miscellaneous** tab._\
-_**Still not changed?** Then follow this:_ [_https://streamable.com/p2xfby_](https://streamable.com/p2xfby)
+**TIP:** Mac-Adress not changed? Use "WIFI MAC SPOOFER" in the **miscellaneous** tab.\
+<mark style="color:red;">**Still not changed?**</mark> Then follow this: [https://streamable.com/p2xfby](https://streamable.com/p2xfby)
 {% endhint %}
 
 {% content-ref url="../../fixes-issues/serials-not-changing.md" %}

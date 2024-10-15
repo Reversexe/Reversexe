@@ -33,8 +33,8 @@ description: Permanent spoof instructions.
 ***
 
 {% hint style="success" %}
-_**TIP: Mac-Adress not changed?** Use "WIFI MAC SPOOFER" in the **miscellaneous** tab._\
-_<mark style="color:red;">**Still not changed?**</mark>_ _Then follow this video:_ [_https://streamable.com/p2xfby_](https://streamable.com/p2xfby)
+**TIP: Mac-Adress not changed?** Use "WIFI MAC SPOOFER" in the **miscellaneous** tab.\
+<mark style="color:red;">**Still not changed?**</mark> Then follow this video: [https://streamable.com/p2xfby](https://streamable.com/p2xfby)
 {% endhint %}
 
 {% content-ref url="../../fixes-issues/serials-not-changing.md" %}
