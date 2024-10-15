@@ -1,5 +1,6 @@
 ---
-description: Instructions how to fix BSOD.
+description: Instructions on how to fix common issues.
+icon: wrench
 ---
 
 # VERSE/PC Crashing

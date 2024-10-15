@@ -1,5 +1,6 @@
 ---
 description: How to Fix cloudflare error/crash on Loader
+icon: wrench
 ---
 
 # Cloudflare.Inc Hijack
