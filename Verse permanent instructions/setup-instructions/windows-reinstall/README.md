@@ -4,7 +4,7 @@ description: Windows reinstallation instructions.
 
 # 1️⃣ Windows reinstall
 
-{% hint style="info" %}
+{% hint style="success" %}
 **INFO:** _There are 2 reinstallation methods. Choose which one fits the best in your situation._\
 \
 _FOR <mark style="color:red;">**VALORANT**</mark>, MAKE SURE TO_ [_**FLASH YOUR BIOS**_](flashing-bios-val.md) _BEFORE YOU REINSTALL WINDOWS!_ \
@@ -19,7 +19,7 @@ _<mark style="color:red;">**MAKE SURE VANGUARD IS UNINSTALLED.**</mark>** ****(F
 
 <details>
 
-<summary><em><mark style="background-color:blue;"><strong>WHICH REINSTALLATION SHOULD I CHOOSE?</strong></mark></em></summary>
+<summary><mark style="background-color:blue;"><strong>WHICH REINSTALLATION SHOULD I CHOOSE?</strong></mark></summary>
 
 \
 <mark style="color:green;">**FORTNITE:**</mark>\
@@ -36,7 +36,7 @@ make sure to use the method [RAID Reinstallation.](./#raid-reinstallation-amd-on
 \
 Please note that our RAID Reinstallation guides/videos are for **AMD ONLY**. If You're on Intel and RAID is required for ur spoof, please continue with "Normal Reinstallation" and reach out to our support team to make us aware of the situation.\
 \
-**In case u know how to RAID urself on Intel, please do so.**
+**In case u know how to RAID on Intel, please do so.**
 
 </details>
 
