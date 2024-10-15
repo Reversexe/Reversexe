@@ -101,6 +101,6 @@ _SATA Mode > "RAID" / NVME Mode > "RAID" **| **<mark style="color:red;">**SAVE &
 
 ### WHEN YOU ARE ON <mark style="color:blue;">WINDOWS:</mark>
 
-> <mark style="color:green;">**\[5]**</mark>** On new windows,** check SSD/NVMe serial and it will be changed! Compare with old serial.
+<mark style="color:green;">**\[5]**</mark>** On new windows,** check the SSD/NVMe serial(s) and it will be changed! Compare it with the old serials.
 
 ***
