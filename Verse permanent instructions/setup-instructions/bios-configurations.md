@@ -38,11 +38,12 @@ _**HOW TO **<mark style="color:green;">**EASILY**</mark>** BOOT INTO BIOS**:_ [_
 
 <summary><mark style="color:red;background-color:red;"><strong>WHY IS THIS REQUIRED?</strong></mark></summary>
 
-For an Ethernet connection, we can permanently spoof your MAC address. However, this isn't possible on a Wi-Fi connection (wireless). Therefore, we recommend disabling Wi-Fi in the BIOS if that option is available. Same goes for Bluetooth. It leaves a lot of traces behind.\
+For an Ethernet connection, we can permanently spoof your MAC address. However, this isn't possible on a Wi-Fi connection (wireless). Therefore, we recommend disabling Wi-Fi in the BIOS if that option is available. Same goes for Bluetooth. It leaves traces behind.\
 \
 <mark style="color:yellow;">**IF YOU'RE USING WIFI, AND CAN NOT USE ETHERNET, NO ISSUES:**</mark>\
 `1.` Please attempt to get on an Ethernet connection, since it is important for the spoof.\
-`2.` If that is not an option, use our "WIFI MAC SPOOFER" on the Miscellaneous tab in the loader
+`2.` If u cannot, use our "WIFI MAC SPOOFER" on the Miscellaneous tab in the Verse loader.\
+`3.` Purchase a new Wi-Fi Adapter/USB if applicable if ur using that on ur PC.
 
 </details>
 
