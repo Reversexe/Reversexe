@@ -8,7 +8,7 @@ description: Process Verification.
 
 <details>
 
-<summary>WHAT IS PROCESS VERIFICATION?</summary>
+<summary><strong>WHAT IS PROCESS VERIFICATION?</strong></summary>
 
 _Our professional team will verify if you have done the process correctly, and if you are able to play now. We are able to check that within seconds. Just wait for us._
 
@@ -22,8 +22,8 @@ _Our professional team will verify if you have done the process correctly, and i
 
 > **WAIT FOR US PATIENTLY. **<mark style="color:red;">**YOU ARE NOT ALLOWED TO PLAY BEFORE WE VERIFIED!!**</mark>
 
-{% hint style="info" %}
-_IF YOU STILL PLAY WITHOUT OUR VERIFICATION BECAUSE "IT TOOK TOO LONG" THEN **YOUR REFUND RIGHTS WILL EXPIRE.** THIS IS SOMETHING YOU ACCEPT IN THIS CASE._
+{% hint style="success" %}
+IF YOU STILL PLAY WITHOUT OUR VERIFICATION BECAUSE "IT TOOK TOO LONG" THEN **YOUR REFUND RIGHTS WILL EXPIRE.** THIS IS SOMETHING YOU ACCEPT IN THIS CASE.
 {% endhint %}
 
 ***
