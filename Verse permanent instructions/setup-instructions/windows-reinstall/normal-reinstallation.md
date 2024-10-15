@@ -127,9 +127,9 @@ Now it should output: <mark style="color:green;">**'Succeeded in cleaning the di
 {% hint style="danger" %}
 **Make sure to follow these steps while and after reinstallation:**\
 \
-1\. Make an offline account or a new Microsoft account. Don't login to ur old one.\
+1\. Make an offline account or a new Microsoft account. Don't log in to ur old one.\
 \
-2\. Do not login to <mark style="color:blue;">OneDrive</mark>. <mark style="color:green;">Geforce Experience</mark>, or <mark style="color:blue;">Logitech G Hub</mark>.\
+2\. Do not log in to <mark style="color:blue;">OneDrive, Logitech G Hub,</mark> or <mark style="color:green;">Geforce Experience.</mark>\
 \
 3\. Install: [https://aka.ms/vs/17/release/vc\_redist.x64.exe ](https://aka.ms/vs/17/release/vc\_redist.x64.exe)to prevent errors.
 {% endhint %}
