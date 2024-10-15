@@ -1,5 +1,6 @@
 ---
 description: Instructions for Asus EFI Spoof for Valorant.
+icon: circle-small
 ---
 
 # Asus EFI Spoof
@@ -11,7 +12,7 @@ description: Instructions for Asus EFI Spoof for Valorant.
 2. Select **A/D/E/F** in Verse Loader, and run it! <mark style="background-color:red;">**No Files will be shown inside the drive. That's fine!**</mark>
 
 {% hint style="info" %}
-**Please choose the drive letter assigned to ur partition.** So not all 4, but the letter of ur partition.
+**Please select the drive letter assigned to ur partition.** So not all 4, but the letter of ur partition.
 {% endhint %}
 
 4. Open <mark style="color:blue;">**Powershell**</mark> as admin, write `[Guid]::newGuid()`and see the results.

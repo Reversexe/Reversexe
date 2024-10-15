@@ -10,7 +10,7 @@ description: Instructions for the Asus permanent spoof.
 <mark style="color:red;background-color:red;">**ASUS EFI SPOOF INSTRUCTIONS:**</mark>\
 **MAKE SURE TO RUN 'PERMANENT SPOOF' FIRST.**\
 \
-When u click on **'Asus Spoof'** ur redirected to another page with **'Asus EFI Spoof'. Make sure to run Permanent Spoof first**, continue with the ENTIRE video, and at the end, close the video, do the network unflagging video down below, and then [**\[CONTINUE TO ASUS EFI SPOOF INSTRUCTIONS\].**](asus-efi-spoof.md)
+When u click on **'Asus Spoof'** ur redirected to another page with **'Asus EFI Spoof'. Make sure to run 'Permanent Spoof' first**, continue with the ENTIRE video, and at the end, close the video, do the network unflagging video down below, and then [**\[CONTINUE TO ASUS EFI SPOOF INSTRUCTIONS\].**](asus-efi-spoof.md)
 {% endhint %}
 
 ### <mark style="color:red;background-color:red;">**MAKE SURE TO REMOVE ANY 'USB' ON YOUR PC CONNECTED!**</mark>
@@ -45,8 +45,8 @@ _CHECK THE MAC-CHECKER, IF ALL MACS CHANGED._
 {% endtabs %}
 
 {% hint style="success" %}
-_**TIP:** Mac-Adress not changed? Use "**WIFI MAC SPOOFER**" in the **miscellaneous** tab._\
-_**Still not changed?** Then follow this:_ [_https://streamable.com/p2xfby_](https://streamable.com/p2xfby)
+_**TIP: Mac-Adress not changed?** Use "WIFI MAC SPOOFER" in the **miscellaneous** tab._\
+_<mark style="color:red;">**Still not changed?**</mark>_ _Then follow this video:_ [_https://streamable.com/p2xfby_](https://streamable.com/p2xfby)
 {% endhint %}
 
 {% content-ref url="asus-efi-spoof.md" %}

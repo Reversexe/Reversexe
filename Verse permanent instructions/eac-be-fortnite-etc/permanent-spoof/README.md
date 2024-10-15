@@ -8,7 +8,7 @@ description: Permanent spoof instructions.
 
 <details>
 
-<summary><strong>What is the difference between Normal/Asus/HP?</strong></summary>
+<summary><strong>What is the difference between those?</strong></summary>
 
 <mark style="color:blue;">**ASUS:**</mark> It needs a special spoofing mechanism because it is hard to permanently spoof it. However, Verse can, with just 1 extra step. All other motherboards are just "easy" and **one-click permanently spoofed. So if you're on Asus, choose Asus. Otherwise Normal.**\
 \
