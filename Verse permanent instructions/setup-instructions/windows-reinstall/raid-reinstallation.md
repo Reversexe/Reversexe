@@ -1,5 +1,6 @@
 ---
 description: Works for AMD, not Intel (unless u know what ur doing).
+icon: circle-small
 ---
 
 # RAID Reinstallation

@@ -1,22 +1,23 @@
 ---
 description: Instructions for BIOS flashing VALORANT ONLY.
+icon: circle-small
 ---
 
-# Flashing BIOS  (Valorant)
+# Flashing BIOS  (VAL)
 
 ### BIOS FLASH SHOULD BE DONE BEFORE REINSTALLING WINDOWS
 
 **MAKE SURE TO UNINSTALL **<mark style="color:red;">**VANGUARD**</mark>
 
 {% hint style="warning" %}
-🌟 **Easiness**: <mark style="color:yellow;">**7/10 Doable, not hard**</mark>** | Takes max 15 Minutes.**
+🌟 **Easiness**: <mark style="color:yellow;">**7/10 Doable, not difficult**</mark>** | Takes max 15 Minutes.**
 {% endhint %}
 
 <details>
 
-<summary><strong>BIOS FLASH RECOMMENDATION:</strong></summary>
+<summary><strong>BIOS VERSION SUGGESTION:</strong></summary>
 
-_We recommend **FLASH to ONE older** Bios version available for ur motherboard. We've experienced it professionally, and nothing can go wrong doing that. Plus, we have noticed that the spoofs have a higher success rate with the oldest Bios version._
+We recommend flashing your motherboard to an older BIOS version. Based on our professional experience, this process is completely safe, and we've observed a higher success rate with spoofing when using the previous BIOS version.
 
 </details>
 
@@ -37,7 +38,7 @@ _We recommend **FLASH to ONE older** Bios version available for ur motherboard. 
 \
 **HOW DO YOU CHECK IF YOUR FLASH WAS **<mark style="color:green;">**SUCCESSFUL?**</mark>
 
-<div align="left">
+<div align="center">
 
 <figure><img src="../../.gitbook/assets/bios.png" alt=""><figcaption><p><em><mark style="color:green;"><strong>THE VERSION &#x26; DATE SHOULD BE CHANGED</strong></mark><strong> WHICH CAN BE FOUND AT YOUR SYSTEM INFORMATION</strong></em>                             </p></figcaption></figure>
 
@@ -45,4 +46,6 @@ _We recommend **FLASH to ONE older** Bios version available for ur motherboard. 
 
 ***
 
-#### Now please continue with either "[Normal Reinstallation](./#normal-reinstallation)" or "[Raid Reinstallation](raid-reinstallation.md)".
+{% hint style="info" %}
+#### Now please continue with either "[Normal Reinstallation](normal-reinstallation.md)" or "[Raid Reinstallation](raid-reinstallation.md)".
+{% endhint %}
