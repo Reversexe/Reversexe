@@ -7,7 +7,9 @@ description: Instructions for TPM
 {% hint style="success" %}
 **TPM \[Trusted Computing Module]** 🔐\
 \
-<mark style="color:red;">**Vanguard Anti-cheat**</mark> abuses the TPM chip. Verse has multiple fixes for this. Please attempt them in order from **BYPASS #1** (**2** optional, based on preference), and at the end, **BYPASS #3, if none worked.**
+<mark style="color:red;">**Vanguard Anti-cheat**</mark> abuses the TPM chip. Verse has multiple fixes for this. Please attempt them in order from **BYPASS #1** (**2** optional, based on preference), and at the end, **BYPASS #3, if none worked.**\
+\
+<mark style="background-color:purple;">**USE BYPASS #4 ONLY IF YOU TRIED ALL 3 OTHER BYPASSES BEFORE.**</mark>
 {% endhint %}
 
 <details>
