@@ -70,4 +70,27 @@ _This is the best, most future-proof solution for legitimate players **since any
 
 </details>
 
+<details>
+
+<summary><mark style="background-color:purple;">#4 TPM/HVCI/SECUREBOOT BYPASS (TEMPORARILY)</mark></summary>
+
+\
+**#1** Download the [**Loader**](https://mega.nz/file/ELMWQK5K#ltgQ8cHcxso\_UPaqQNAS4-BN2reeeby9bzXqYwJGSCQ) **for Valorant pop-up removal.**\
+\
+**#2 Load the POPUP Loader and wait for it to output `"Waiting for Valorant".`**\
+\
+**#3 Open Valorant and wait for the pop-up (message box) for TPM/HVCI, etc.**\
+\
+**#4 Once it is there, click `"1"` in the POPUP Loader.**\
+\
+**#5 Wait for confirmation and click `"Ok"` on the error message in Valorant.**\
+\
+**#6 At the end of EACH GAME, Click `"2"` in the POPUP Loader**\
+\
+_<mark style="color:red;background-color:red;">**MAKE SURE TO RUN THIS EVERYTIME BEFORE YOU PLAY VALORANT!!**</mark>_ \
+\
+_<mark style="color:yellow;">**LICENSE KEY IS LIFETIME!!**</mark>_
+
+</details>
+
 ***
