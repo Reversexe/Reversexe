@@ -46,7 +46,7 @@ _This is the most simple bypass. <mark style="color:red;">**This bypass will not
 \
 **#7** Open Valorant, the bypass is temporary. \
 \
-_<mark style="color:red;">**MAKE SURE TO RUN THIS EVERYTIME BEFORE YOU PLAY VALORANT!!**</mark>_ \
+_<mark style="color:red;background-color:red;">**MAKE SURE TO RUN THIS EVERYTIME BEFORE YOU PLAY VALORANT!!**</mark>_ \
 \
 _<mark style="color:yellow;">**LICENSE KEY IS LIFETIME!!**</mark>_
 
@@ -66,7 +66,7 @@ _<mark style="color:yellow;">**LICENSE KEY IS LIFETIME!!**</mark>_
 **Installation difficulty:** <mark style="color:yellow;">**5/10 |**</mark>** Average Price: **<mark style="color:yellow;">**$15**</mark>\
 \ <mark style="color:yellow;">**The installation is not difficult. Make sure to purchase one that works with ur motherboard. Do a little research to find out with ease.**</mark>\
 \
-_This is the best, most future-proof solution for legitimate players, **since any 'bypass' can eventually and unfortunately become detected/patched at some point.** A TPM Chip is therefore the best solution for a lot of people, and really your only choice if no other bypasses work and you really want to get unbanned from Valorant._
+_This is the best, most future-proof solution for legitimate players **since any 'bypass' can eventually and unfortunately become detected/patched at some point.** A TPM Chip is therefore the best solution for a lot of people, and really your only choice if no other bypasses work and you really want to get unbanned from Valorant._
 
 </details>
 
