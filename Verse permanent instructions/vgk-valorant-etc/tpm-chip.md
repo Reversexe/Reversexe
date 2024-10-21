@@ -4,7 +4,7 @@ description: Instructions for TPM
 
 # 🔐 TPM CHIP
 
-{% hint style="warning" %}
+{% hint style="success" %}
 **TPM \[Trusted Computing Module]** 🔐\
 \
 <mark style="color:red;">**Vanguard Anti-cheat**</mark> abuses the TPM chip. Verse has multiple fixes for this. Please attempt them in order from **BYPASS #1** (**2** optional, based on preference), and at the end, **BYPASS #3, if none worked.**
@@ -12,7 +12,7 @@ description: Instructions for TPM
 
 <details>
 
-<summary><mark style="color:blue;background-color:blue;"><strong>#1 TPM BYPASS (TRY ME FIRST)</strong></mark></summary>
+<summary><mark style="background-color:blue;"><strong>#1 TPM BYPASS (TRY ME FIRST)</strong></mark></summary>
 
 \
 **#1** Make sure TPM is <mark style="color:red;">**DISABLED**</mark>.\
@@ -30,7 +30,7 @@ _This is the most simple bypass. <mark style="color:red;">**This bypass will not
 <summary><mark style="background-color:blue;"><strong>#2 TPM BYPASS (TEMPORARILY)</strong></mark></summary>
 
 \
-**#1** Make sure TPM is <mark style="color:green;">**ENABLED**</mark> & "_Ready for use_" within tpm.msc\
+**#1** Make sure TPM is <mark style="color:green;">**ENABLED**</mark> & "READY FOR USE" within tpm.msc\
 \
 **#2** Open CMD (Command prompt) as admin, and write `sc stop wdfilter` & enter\
 \
@@ -40,7 +40,7 @@ _This is the most simple bypass. <mark style="color:red;">**This bypass will not
 \
 **#5** Request a License key for this Loader (**#3)**. <mark style="color:yellow;">**Open a ticket for it.**</mark>\
 \
-**#6** Login with the given License key, and select **"LOAD TPM"** \
+**#6 Login** with the given License key, and select **"LOAD TPM"** \
 \
 **#6** Check tpm.msc and it should be 'failed/corrupted' \
 \
