@@ -15,6 +15,10 @@ layout:
 
 # 👋 Welcome to Verse
 
+## <mark style="background-color:green;">🎉 OUR 24/7 AI CHATBOT SUPPORT IS HERE!</mark>
+
+{% embed url="https://chatgpt.com/g/g-cTRriWcLI-verse-ai-helper" %}
+
 ## <mark style="color:blue;background-color:blue;">WHAT IS THE MOST IMPORTANT THING ABOUT USING A PERMANENT SPOOFER LIKE VERSE?</mark>
 
 ### **THE INSTRUCTIONS THAT COME WITH IT.**  **MAKE SURE TO DO ALL STEPS **<mark style="color:green;background-color:green;">**100% CORRECTLY.**</mark>
