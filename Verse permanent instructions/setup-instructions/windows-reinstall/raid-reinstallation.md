@@ -28,7 +28,7 @@ The reason this reinstallation is recommended, especially for people with a lot 
 
 ***
 
-### HOW TO REINSTALL & SPOOF SSD (BYPASS DISK BAN)
+### <mark style="background-color:blue;">HOW TO REINSTALL & SPOOF SSD (BYPASS DISK BAN)</mark>
 
 {% embed url="https://www.microsoft.com/en-us/software-download/windows10" %}
 
@@ -45,7 +45,7 @@ The reason this reinstallation is recommended, especially for people with a lot 
 
 ***
 
-<mark style="color:green;">**\[1]**</mark> **AMD RAID FILES:** [<mark style="color:blue;">**DOWNLOAD RAID FILES**</mark>](https://shorturl.at/2Rhf1) <mark style="color:blue;background-color:blue;">**<- Put files on the USB.**</mark>\
+<mark style="color:green;">**\[1]**</mark> **AMD RAID FILES:** [<mark style="color:blue;">**DOWNLOAD RAID FILES**</mark>](https://shorturl.at/2Rhf1) <mark style="color:blue;background-color:blue;">**<- PUT FILES ON THE USB.**</mark>\
 _MAKE SURE TO <mark style="background-color:red;">**REMEMBER**</mark> YOUR DISK SERIALS. **MAKE A PHOTO OF THEM ON YOUR PHONE.**_
 
 ### <mark style="background-color:green;">**YOUR USB SHOULD LOOK SIMILAR LIKE THIS SCREENSHOT:**</mark>
@@ -66,18 +66,18 @@ Make sure to download your network drivers (LAN) from your corresponding motherb
 
 ***
 
-<mark style="background-color:green;">**\[2] Once done, and the USB looks similar to the screenshot, restart PC and boot into BIO**</mark><mark style="background-color:green;">S.</mark>\
-_HOW TO <mark style="color:green;">EASILY</mark> BOOT INTO BIOS:_ [_https://youtu.be/mb9X9\_NNxuo?si_](https://youtu.be/mb9X9\_NNxuo?si=reDxO\_Dcnu5e8aFJ)\
+<mark style="background-color:green;">\[</mark><mark style="background-color:green;">**2] ONCE COMPLETE AND USB MATCHES THE SCREENSHOT, RESTART PC AND BOOT INTO BIOS**</mark>\
+_HOW TO <mark style="color:green;">EASILY</mark> BOOT INTO BIOS:_ [_Video tutorial here._](https://youtu.be/mb9X9\_NNxuo?si)\
 \
-<mark style="background-color:green;">**\[3] Disable CSM, & Enable "RAID" in BIOS.**</mark>\
-_Advanced > Integrated peripherals (or) Storage Configuration_\
-_SATA Mode > "RAID" / NVME Mode > "RAID" **| **<mark style="color:red;">**SAVE & EXIT BIOS, Then get back into BIOS again.**</mark>_\
+<mark style="background-color:green;">**\[3] DISABLE CSM, AND ENABLE "RAID" IN BIOS.**</mark>\
+_Advanced > Integrated peripherals (or) Storage Configurations._\
+_SATA Mode > "RAID" / NVME Mode > "RAID" **| **<mark style="color:red;">**SAVE & EXIT BIOS, Get back into BIOS again.**</mark>_\
 \
-<mark style="color:green;">**\[4]**</mark>** Follow** [https://streamable.com/9o2zci](https://streamable.com/9o2zci) (Install Windows 10 **Pro version**)_._
+<mark style="background-color:green;">**\[4] CONTINUE WITH THE REST OF THE RAID SETUP WITH THIS VIDEO GUIDE**</mark>[https://streamable.com/9o2zci](https://streamable.com/9o2zci)  <- Video instructions
 
 ***
 
-* **The installation process starts | **<mark style="color:red;background-color:red;">**MAKE AN OFFLINE ACCOUNT**</mark>
+* **USE WINDOWS 10 PRO | **<mark style="color:red;background-color:red;">**MAKE AN OFFLINE ACCOUNT**</mark>
 
 <figure><img src="../../.gitbook/assets/Offline acc.webp" alt=""><figcaption></figcaption></figure>
 
