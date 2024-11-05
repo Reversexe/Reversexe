@@ -8,9 +8,9 @@ description: Normal reinstallation instructions.
 {% hint style="warning" %}
 <mark style="background-color:orange;">**Reinstalling Windows with a USB is HIGHLY recommended. This is to ensure the disk bans are gone.**</mark>\
 \
-🌟 **Easiness**: <mark style="color:green;">**8/10 VERY EASY**</mark>** | Takes max 15 Minutes.**\
+🌟 **Easiness**: <mark style="color:green;">**8/10 VERY EASY**</mark>** |** 🕒 **15 Minutes Average Time.**\
 \
-<mark style="color:yellow;">**Am I Disk Banned? Here’s How to Tell:**</mark> If many spoofers haven’t worked for you and you've faced multiple bans on the same PC, it's likely to be disk-banned. In this case, we recommend reinstalling using a USB.
+<mark style="color:yellow;">**Am I Disk Banned? Here’s How to Tell:**</mark> If numerous spoofers have failed and u've been banned multiple times on the same PC, it might be a disk ban. In such cases, we suggest reinstalling Windows with a USB like the instructions below.
 {% endhint %}
 
 <details>
