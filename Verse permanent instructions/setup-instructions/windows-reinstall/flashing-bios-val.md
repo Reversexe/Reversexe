@@ -1,6 +1,6 @@
 ---
-description: Instructions for BIOS flashing VALORANT ONLY.
 icon: circle-small
+description: Instructions for BIOS flashing VALORANT ONLY.
 ---
 
 # Flashing BIOS  (VAL)
@@ -38,7 +38,7 @@ We recommend flashing your motherboard to an older BIOS version. Based on our pr
 \
 **HOW DO YOU CHECK IF YOUR FLASH WAS **<mark style="color:green;">**SUCCESSFUL?**</mark>
 
-<div align="center">
+<div align="left">
 
 <figure><img src="../../.gitbook/assets/bios.png" alt=""><figcaption><p><em><mark style="color:green;"><strong>THE VERSION &#x26; DATE SHOULD BE CHANGED</strong></mark><strong> WHICH CAN BE FOUND AT YOUR SYSTEM INFORMATION</strong></em>                             </p></figcaption></figure>
 
@@ -47,5 +47,5 @@ We recommend flashing your motherboard to an older BIOS version. Based on our pr
 ***
 
 {% hint style="info" %}
-#### Now please continue with either "[Normal Reinstallation](normal-reinstallation.md)" or "[Raid Reinstallation](raid-reinstallation.md)".
+NOW CONTINUE WITH [normal-reinstallation.md](normal-reinstallation.md "mention")| [raid-reinstallation.md](raid-reinstallation.md "mention")
 {% endhint %}
