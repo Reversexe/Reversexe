@@ -20,9 +20,9 @@ We recommend you to be on a new account just to be safe and not to risk all your
 ***
 
 {% hint style="warning" %}
-_**NOTE:** It is possible to log in to your Epic account you've been kicked or banned on before to play other games such as ARK, GTA V, and more. That is fine and involves no risks._\
+**Important Notice:** You can log in to your Epic Games account, even if you’ve been kicked or banned, to play games like ARK or GTA V without additional risk.\
 \
-_For <mark style="color:orange;">**RUST**</mark>_ _<mark style="color:orange;">**this is NOT recommended.**</mark> You are not allowed to get on your previous Steam account you've been banned on RUST. You will be banned for "evading" in servers, which is a pain in the ass._
+However, for RUST, <mark style="color:red;">**this is not recommended**</mark> to log back into a Steam account from which you were banned. Doing so may result in additional server bans for "ban evasion".
 {% endhint %}
 
 ***

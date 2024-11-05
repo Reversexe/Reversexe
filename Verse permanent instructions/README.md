@@ -30,7 +30,7 @@ layout:
 This is important so u do not lose the instructions, whenever there is an update.
 
 {% hint style="success" %}
-**READ ME:** Please do all the steps, and do not skip some of them. If u do not understand a step, please reach out to our ticket support. <mark style="color:yellow;">**Check the**</mark> << [**FIXES/ISSUES**](https://verse-solutions.gitbook.io/verseperm/fixes-issues/verse-pc-crashing) **>>** <mark style="color:yellow;">**too, please.**</mark>
+**READ ME:** Please do all the steps, and do not skip some of them. If u do not understand a step, please reach out to our ticket support. <mark style="color:yellow;">**Check the**</mark> << [**FIXES/ISSUES**](broken-reference) **>>** <mark style="color:yellow;">**too, please.**</mark>
 {% endhint %}
 
 ***
