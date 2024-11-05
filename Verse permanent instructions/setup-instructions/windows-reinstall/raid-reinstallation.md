@@ -71,9 +71,10 @@ _HOW TO <mark style="color:green;">EASILY</mark> BOOT INTO BIOS:_ [_Video tutori
 \
 <mark style="background-color:green;">**\[3] DISABLE CSM, AND ENABLE "RAID" IN BIOS.**</mark>\
 _Advanced > Integrated peripherals (or) Storage Configurations._\
-_SATA Mode > "RAID" / NVME Mode > "RAID" **| **<mark style="color:red;">**SAVE & EXIT BIOS, Get back into BIOS again.**</mark>_\
+_SATA Mode > "RAID" / NVME Mode > "RAID" **| **<mark style="color:red;">**SAVE & EXIT BIOS, GET BACK INTO BIOS AGAIN.**</mark>_\
 \
-<mark style="background-color:green;">**\[4] CONTINUE WITH THE REST OF THE RAID SETUP WITH THIS VIDEO GUIDE**</mark>[https://streamable.com/9o2zci](https://streamable.com/9o2zci)  <- Video instructions
+<mark style="background-color:green;">**\[4] CONTINUE WITH THE REST OF THE RAID SETUP WITH THIS VIDEO GUIDE**</mark>\
+[**https://streamable.com/9o2zci**](https://streamable.com/9o2zci) **<- video instructions for RAID setup.**
 
 ***
 
