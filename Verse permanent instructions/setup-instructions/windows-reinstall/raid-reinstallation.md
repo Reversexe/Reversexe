@@ -103,6 +103,6 @@ _SATA Mode > "RAID" / NVME Mode > "RAID" **| **<mark style="color:red;">**SAVE &
 ### WHEN YOU ARE ON <mark style="color:blue;">WINDOWS:</mark>
 
 <mark style="background-color:green;">**\[5] CHECK OLD & NEW DISK SERIALS ON NEW WINDOWS**</mark>\
-Now, use the disk-serialchecker.exe and see if the serials are changed, compare old vs new.
+Now, use the "**disk-serialchecker.exe"** and see if the serials are changed, compare old vs new.
 
 ***

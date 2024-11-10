@@ -10,7 +10,7 @@ description: Normal reinstallation instructions.
 \
 🌟 **Easiness**: <mark style="color:green;">**8/10 VERY EASY**</mark>** |**🕒 **15 Minutes Average Time.**\
 \
-<mark style="color:yellow;">**Am I Disk Banned? Here’s How to Tell:**</mark> If numerous spoofers have failed and u've been banned multiple times on the same PC, it might be a disk ban. In such cases, we suggest reinstalling Windows with a USB like the instructions below. [<mark style="color:yellow;">**IF U DON'T HAVE A USB, READ THIS.**</mark>](https://verse-solutions.gitbook.io/verse-permanent/setup-instructions/windows-reinstall/normal-reinstallation#i-dont-have-a-usb-or-it-looks-too-hard-for-me)
+<mark style="color:yellow;">**Am I Disk Banned? Here’s How to Tell:**</mark> If numerous spoofers have failed and u've been banned multiple times on the same PC, it might be a disk ban. In such cases, we suggest reinstalling Windows with a USB like the instructions below. [<mark style="color:yellow;">**IF U DON'T HAVE A USB, READ THIS.**</mark>](https://verse-solutions.gitbook.io/verse-permanent/setup-instructions/windows-reinstall/normal-reinstallation#i-dont-have-a-usb-what-do-i-do-now-or-it-looks-too-hard-for-me)
 {% endhint %}
 
 <details>
