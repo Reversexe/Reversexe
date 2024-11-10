@@ -22,7 +22,6 @@
   * [HP Permanent Spoof](eac-be-fortnite-etc/permanent-spoof/hp-permanent-spoof.md)
 * [🫂 New Account](eac-be-fortnite-etc/new-account.md)
 * [🌐 Usage of VPN](eac-be-fortnite-etc/usage-of-vpn.md)
-* [Page](eac-be-fortnite-etc/page.md)
 * [🏆 FN Tournaments](eac-be-fortnite-etc/fn-tournaments.md)
 * [🎉 The Ending of Verse!](eac-be-fortnite-etc/the-ending-of-verse.md)
 
