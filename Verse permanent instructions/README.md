@@ -25,7 +25,7 @@ layout:
 
 ***
 
-### <mark style="color:yellow;">SAVE THIS WEBSITE TO YOUR FAVORITES/BOOKMARK</mark>
+### <mark style="color:yellow;">SAVE THIS WEBSITE TO YOUR FAVORITES/BOOKMARK</mark> 🔰
 
 This is important so u do not lose the instructions, whenever there is an update.
 
