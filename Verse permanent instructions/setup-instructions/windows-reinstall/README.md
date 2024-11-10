@@ -29,7 +29,7 @@ Make sure to use [Normal Reinstallation.](normal-reinstallation.md) | <mark styl
 make sure to use the method [RAID Reinstallation.](./#raid-reinstallation-amd-only)\
 \
 <mark style="color:red;">**VALORANT**</mark><mark style="color:red;">:</mark>\
-Make sure to use [Normal Reinstallation.](normal-reinstallation.md) | <mark style="color:red;">**HWID Banned 3+ times**</mark> on the same PC? Then make sure to use the method [RAID Reinstallation.](./#raid-reinstallation-amd-only)\
+Make sure to use [Normal Reinstallation.](normal-reinstallation.md) | <mark style="color:red;">**HWID Banned 2+ times**</mark> on the same PC? Then make sure to use the method [RAID Reinstallation.](./#raid-reinstallation-amd-only)\
 \
 <mark style="color:purple;">**COD SERIES:**</mark>\
 make sure to use the method [RAID Reinstallation.](./#raid-reinstallation-amd-only)\

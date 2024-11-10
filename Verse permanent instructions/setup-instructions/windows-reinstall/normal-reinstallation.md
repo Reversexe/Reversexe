@@ -17,7 +17,7 @@ description: Normal reinstallation instructions.
 
 <summary><mark style="color:red;"><strong>I DONT HAVE A USB</strong></mark><strong> | IT LOOKS TOO HARD FOR ME!</strong></summary>
 
-Believe in the process. It may seem challenging at first with all the images and information, but trust us, it's much simpler than it looks! We encourage you to give it a try. If you need assistance, don't hesitate to contact us in the Discord — we're here to help.\
+Believe in the process. It may seem challenging at first with all the images and information, but trust us, it's much simpler than it looks! We encourage you to give it a try. If you need assistance, don't hesitate to contact us in the Discord.\
 \
 <mark style="color:red;background-color:red;">**Don't have a USB to reinstall with?**</mark> Most cost **$5**, and it's recommended to get one.\
 \
@@ -29,12 +29,16 @@ Believe in the process. It may seem challenging at first with all the images and
 
 {% embed url="https://www.microsoft.com/en-us/software-download/windows10" %}
 
-1. Download Media Creation Tool above, click **"Download Now"**
+1. Download the Media Creation Tool above, click **"Download Now"**
 2. Open the **Media Creation Tool as an administrator**
 3. Select **Create Installation media (USB Flash drive)**
 4. Use all the recommended options & continue & wait for it to finish.
 
-<figure><img src="../../.gitbook/assets/flashdrive.png" alt=""><figcaption></figcaption></figure>
+<div align="left" data-full-width="false">
+
+<figure><img src="../../.gitbook/assets/flashdrive.png" alt="" width="563"><figcaption></figcaption></figure>
+
+</div>
 
 ### <mark style="color:blue;background-color:blue;">**YOUR USB CONTENTS LOOK LIKE THIS NOW:**</mark>
 
@@ -50,7 +54,7 @@ Make sure to download your network drivers (LAN) from your corresponding motherb
 
 ***
 
-5. Hold **SHIFT,** and click **Restart and keep holding SHIFT!**
+5. Hold **SHIFT,** click Restart, **and keep holding SHIFT!**
 
 <div align="left">
 
@@ -60,7 +64,11 @@ Make sure to download your network drivers (LAN) from your corresponding motherb
 
 6. Select **Use a device** and select the USB _<mark style="background-color:blue;">**(Known as "Flash Drive")**</mark>_
 
-<figure><img src="../../.gitbook/assets/select.webp" alt=""><figcaption></figcaption></figure>
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/select.webp" alt="" width="563"><figcaption></figcaption></figure>
+
+</div>
 
 7. Select **Windows 10 Pro** <mark style="color:red;background-color:red;">**(IMPORTANT!)**</mark>
 
@@ -87,9 +95,9 @@ Make sure to download your network drivers (LAN) from your corresponding motherb
 </div>
 
 10. Press **SHIFT + F10** (A CMD will pop up)
-11. Now write `diskpart` into the CMD
-12. Then write `list disk` into the CMD to see all ur drives
-13. Write `select disk 'X'` (X = Disk number) then write `clean` for ALL disks, besides ur USB.
+11. Now write **`diskpart`** into the CMD
+12. Then write **`list disk`** into the CMD to see all ur drives
+13. Write **`select disk 'X'`** (X = Disk number) then write `clean` for ALL disks, besides ur USB.
 
 {% hint style="danger" %}
 **For example,** most people have one disk. Then write '**select disk 1**' and then '**clean**'. In case u have two drives, ur gonna 'select disk 2' as well, and write 'clean' and so forth for all disks.\
@@ -116,18 +124,26 @@ Now it should output: <mark style="color:green;">**'Succeeded in cleaning the di
 15. Select your **main drive** (Unallocated Space) and click **Next**
 16. The installation process should start, <mark style="color:red;background-color:red;">**AND MAKE AN OFFLINE ACCOUNT!**</mark>
 
-<figure><img src="../../.gitbook/assets/Offline acc.webp" alt=""><figcaption></figcaption></figure>
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/Offline acc.webp" alt="" width="563"><figcaption></figcaption></figure>
+
+</div>
 
 17. Turn **OFF** All privacy questions/settings
 
-<figure><img src="../../.gitbook/assets/Turnoff.png" alt=""><figcaption></figcaption></figure>
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/Turnoff.png" alt="" width="563"><figcaption></figcaption></figure>
+
+</div>
 
 ***
 
 {% hint style="danger" %}
 **Make sure to follow these steps while and after reinstallation:**\
 \
-1\. Make an offline account or a new Microsoft account. Don't log in to ur old one.\
+1\. Make an offline account or a new Microsoft account. Don't log in to the old ones.\
 \
 2\. Do not log in to <mark style="color:blue;">OneDrive, Logitech G Hub,</mark> or <mark style="color:green;">Geforce Experience.</mark>\
 \

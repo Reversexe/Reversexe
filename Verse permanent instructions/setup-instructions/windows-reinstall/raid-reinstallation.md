@@ -91,7 +91,7 @@ _SATA Mode > "RAID" / NVME Mode > "RAID" **| **<mark style="color:red;">**SAVE &
 {% hint style="danger" %}
 **Make sure to follow these steps while and after reinstallation:**\
 \
-1\. Make an offline account or a new Microsoft account. Don't log in to ur old one.\
+1\. Make an offline account or a new Microsoft account. Don't log in to the old ones.\
 \
 2\. Do not log in to <mark style="color:blue;">OneDrive, Logitech G Hub,</mark> or <mark style="color:green;">Geforce Experience.</mark>\
 \
