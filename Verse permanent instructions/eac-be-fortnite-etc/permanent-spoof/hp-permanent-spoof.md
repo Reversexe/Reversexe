@@ -9,7 +9,7 @@ description: Instructions for the standard permanent spoof.
 {% hint style="warning" %}
 This process of '**unlocking**' the motherboard has to be done **ONCE**. You do not have to redo it anymore at any other time. Your motherboard will be permanently unlocked to be able to spoof.\
 \
-🌟 **Easiness**: <mark style="color:green;">**8/10 VERY EASY**</mark>** |** 🕒 5 **Minutes Average Time.**
+🌟 **Easiness**: <mark style="color:green;">**8/10 VERY EASY**</mark>** |**🕒 5 **Minutes Average Time.**
 {% endhint %}
 
 1. Plug in a USB to ur computer (Must be 32GB or less, not more)
@@ -20,7 +20,7 @@ This process of '**unlocking**' the motherboard has to be done **ONCE**. You do 
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/+ HOLD SHIFT (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -28,11 +28,11 @@ This process of '**unlocking**' the motherboard has to be done **ONCE**. You do 
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/select.webp" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Untitled design (14).png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 
-8. Just **WAIT** now, and u will see something that **looks like this picture below:**
+7. Just **WAIT** now, and u will see something that **looks like this picture below:**
 
 <div align="left">
 
@@ -91,8 +91,8 @@ _CHECK THE MAC-CHECKER, IF ALL MACS CHANGED._
 {% endtabs %}
 
 {% hint style="success" %}
-**TIP: Mac-Adress not changed?** Use "WIFI MAC SPOOFER" in the **miscellaneous** tab.\
-<mark style="color:red;">**Still not changed?**</mark> Then follow this video: [https://streamable.com/p2xfby](https://streamable.com/p2xfby)
+**TIP: Mac-address not changed?** Use our "WIFI MAC SPOOFER" in the **miscellaneous** tab.\
+<mark style="color:red;background-color:red;">Still not changed?</mark> **`1.`** Disable in BIOS **`2.`** **Or follow this video:** [https://streamable.com/p2xfby](https://streamable.com/p2xfby)
 {% endhint %}
 
 ***

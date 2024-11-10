@@ -16,15 +16,15 @@ description: Instructions for VPN usage.
 
 <summary><strong>WHY IS USING A VPN REQUIRED WITH VERSE?</strong></summary>
 
-Using a VPN is essential for Verse to ensure you don't risk a network ban, as we've seen increasing issues with this. It's crucial to make sure everything works smoothly for you. Just use a VPN for one week, and after that, you can safely turn it off without worry. While we could explain the technicalities, trust us on this - **you're in good hands with Vers**e.\
+Using a VPN is essential for Verse to ensure you don't risk a network ban, as we've seen increasing issues with this. It's crucial to make sure everything works smoothly for you. Just use a VPN for one week, and after that, you can safely turn it off without worry. While we could explain the technicalities, trust us on this - **you're in good hands with Verse, and we know what we're talking about.** 🙌\
 \
-<mark style="color:yellow;">**YES, YOU CAN "MAGICALLY" TURN OFF YOUR VPN AFTER A WEEK.**</mark>
+<mark style="color:yellow;background-color:yellow;">**YES, YOU CAN 'MAGICALLY' TURN OFF YOUR VPN AFTER A WEEK.**</mark>
 
 </details>
 
 ***
 
-### MAKE SURE TO USE <mark style="color:blue;">WINDSCRIBE</mark> VPN ON 'STEALTH MODE'
+### MAKE SURE TO USE <mark style="color:blue;">WINDSCRIBE</mark> VPN ON "STEALTH MODE"
 
 Also, make sure to have the Firewall on "Automatic" and <mark style="color:green;">**enabled.**</mark>
 

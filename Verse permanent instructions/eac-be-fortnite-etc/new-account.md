@@ -13,7 +13,7 @@ description: Instructions for a new account.
 
 <summary><strong>WHY DO I HAVE TO BE ON A NEW ACCOUNT?</strong></summary>
 
-We recommend you to be on a new account just to be safe and not to risk all your hard work. Going on your main account you've been kicked on before brings potential risks with it & we do not recommend it generally. <mark style="color:orange;">**We are also not responsible in case you do.**</mark>
+We recommend you open a new account just to be safe and not risk all your hard work. Going on your main account, which you've been kicked on before, brings potential risks, and we do not recommend it generally. <mark style="color:orange;">**We are also not responsible if you do.**</mark>
 
 </details>
 

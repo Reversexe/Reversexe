@@ -39,7 +39,7 @@ _CHECK THE MAC-CHECKER, IF ALL MACS CHANGED._
 
 {% hint style="success" %}
 **TIP: Mac-address not changed?** Use our "WIFI MAC SPOOFER" in the **miscellaneous** tab.\
-Still not changed? **`1.`**Disable in BIOS **`2.`** Or follow this video: [https://streamable.com/p2xfby](https://streamable.com/p2xfby)
+<mark style="color:red;background-color:red;">Still not changed?</mark> **`1.`** Disable in BIOS **`2.`** **Or follow this video:** [https://streamable.com/p2xfby](https://streamable.com/p2xfby)
 {% endhint %}
 
 ***
