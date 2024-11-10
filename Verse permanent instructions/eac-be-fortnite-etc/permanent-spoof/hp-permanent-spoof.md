@@ -9,7 +9,7 @@ description: Instructions for the standard permanent spoof.
 {% hint style="warning" %}
 This process of '**unlocking**' the motherboard has to be done **ONCE**. You do not have to redo it anymore at any other time. Your motherboard will be permanently unlocked to be able to spoof.\
 \
-🌟 **Easiness**: <mark style="color:green;">**8/10 VERY EASY.**</mark>
+🌟 **Easiness**: <mark style="color:green;">**8/10 VERY EASY**</mark>** |** 🕒 5 **Minutes Average Time.**
 {% endhint %}
 
 1. Plug in a USB to ur computer (Must be 32GB or less, not more)
@@ -26,7 +26,11 @@ This process of '**unlocking**' the motherboard has to be done **ONCE**. You do 
 
 7. Select '**Use a device'** and select the USB _<mark style="background-color:blue;">(Known as "Flash Drive")</mark>_
 
-<figure><img src="../../.gitbook/assets/select.webp" alt=""><figcaption></figcaption></figure>
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/select.webp" alt="" width="563"><figcaption></figcaption></figure>
+
+</div>
 
 8. Just **WAIT** now, and u will see something that **looks like this picture below:**
 
@@ -36,19 +40,19 @@ This process of '**unlocking**' the motherboard has to be done **ONCE**. You do 
 
 </div>
 
-9. Now, after this **WAIT**, it will ask "**Manufacturer mode to unlock mode": **<mark style="color:green;background-color:green;">**CLICK YES!**</mark>
+9. Now, after this **WAIT**, it will ask "**Manufacturer mode to unlock mode":  **<mark style="color:green;background-color:green;">**CLICK YES!**</mark>
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/YES.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Are you sure you want to change Manufacturing Programming Mode to unlock mode.png" alt="" width="525"><figcaption></figcaption></figure>
 
 </div>
 
-10. Now it will boot into Windows again, and the USB can be removed.\
-    <mark style="background-color:yellow;">**Incase Windows does not boot, please remove the USB, and wait.**</mark>
+9. Now it will boot into Windows again, and the USB can be removed.\
+   <mark style="background-color:yellow;">**Incase Windows does not boot, please remove the USB, and wait.**</mark>
 
 {% hint style="danger" %}
-**Make sure there is no BIOS Password enabled.** This will cause the serials not to change.
+**Make sure there is no BIOS Password enabled.** This will cause the serials not to change on HP.
 {% endhint %}
 
 ***
