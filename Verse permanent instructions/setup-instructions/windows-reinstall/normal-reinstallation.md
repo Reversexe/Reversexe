@@ -10,18 +10,18 @@ description: Normal reinstallation instructions.
 \
 🌟 **Easiness**: <mark style="color:green;">**8/10 VERY EASY**</mark>** |**🕒 **15 Minutes Average Time.**\
 \
-<mark style="color:yellow;">**Am I Disk Banned? Here’s How to Tell:**</mark> If numerous spoofers have failed and u've been banned multiple times on the same PC, it might be a disk ban. In such cases, we suggest reinstalling Windows with a USB like the instructions below. [**If u don't have a USB, read this.**](normal-reinstallation.md#i-dont-have-a-usb-or-it-looks-too-hard-for-me)
+<mark style="color:yellow;">**Am I Disk Banned? Here’s How to Tell:**</mark> If numerous spoofers have failed and u've been banned multiple times on the same PC, it might be a disk ban. In such cases, we suggest reinstalling Windows with a USB like the instructions below. [<mark style="color:yellow;">**IF U DON'T HAVE A USB, READ THIS.**</mark>](https://verse-solutions.gitbook.io/verse-permanent/setup-instructions/windows-reinstall/normal-reinstallation#i-dont-have-a-usb-or-it-looks-too-hard-for-me)
 {% endhint %}
 
 <details>
 
-<summary><mark style="color:red;"><strong>I DONT HAVE A USB</strong></mark><strong> | IT LOOKS TOO HARD FOR ME!</strong></summary>
+<summary><mark style="color:red;"><strong>I DONT HAVE A USB - WHAT DO I DO NOW?</strong></mark><strong> |</strong> <strong>IT LOOKS TOO  HARD FOR ME!</strong> 📛</summary>
 
-Believe in the process. It may seem challenging at first with all the images and information, but trust us, it's much simpler than it looks! We encourage you to give it a try. If you need assistance, don't hesitate to contact us in the Discord.\
+Believe in the process. It may seem challenging at first with all the images and information, but trust us, it's much simpler than it looks! We encourage you to give it a try. If you need assistance, don't hesitate to contact us in the Discord. 💚\
 \
 <mark style="color:red;background-color:red;">**Don't have a USB to reinstall with?**</mark> Most cost **$5**, and it's recommended to get one.\
 \
-**Otherwise;** **Reinstall Windows by settings** > remove everything > Cloud download > <mark style="color:blue;">**Change settings**</mark> > Clean data <mark style="color:green;">\[YES]</mark> / Delete files from all drives <mark style="color:green;">\[YES]</mark> / Download Windows <mark style="color:green;">\[YES]</mark> > Confirm & next and wait. This could take 4 to 5 hours.
+**Otherwise;** **Reinstall Windows by settings** > remove everything > Cloud download > <mark style="color:blue;">**Change settings**</mark> > Clean data <mark style="color:green;">\[</mark><mark style="color:green;">**YES**</mark><mark style="color:green;">]</mark> / Delete files from all drives <mark style="color:green;">\[</mark><mark style="color:green;">**YES**</mark><mark style="color:green;">]</mark> / Download Windows <mark style="color:green;">\[</mark><mark style="color:green;">**YES**</mark><mark style="color:green;">]</mark> > Confirm & next and wait. This could take 4 to 5 hours.
 
 </details>
 
@@ -45,7 +45,7 @@ Believe in the process. It may seem challenging at first with all the images and
 <figure><img src="../../.gitbook/assets/USB insides.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
-**NOTE:** When reinstalling Windows, most modern systems will automatically detect and install basic Ethernet drivers, so ur connection will work fine right after the installation. \
+**NOTE:** When reinstalling Windows, most modern systems will automatically detect and install basic Ethernet drivers, so ur connection will work fine right after the installation. ✅\
 \
 <mark style="color:red;background-color:red;">**However, in certain cases it might be needed to manually download and install network drivers:**</mark>\
 \
@@ -95,9 +95,9 @@ Make sure to download your network drivers (LAN) from your corresponding motherb
 </div>
 
 10. Press **SHIFT + F10** (A CMD will pop up)
-11. Now write **`diskpart`** into the CMD
-12. Then write **`list disk`** into the CMD to see all ur drives
-13. Write **`select disk 'X'`** (X = Disk number) then write `clean` for ALL disks, besides ur USB.
+11. Now write **`diskpart`** into the CMD 💬
+12. Then write **`list disk`** into the CMD to see all ur drives 💬
+13. Write **`select disk 'X'`** (X = Disk number) then write **`clean`** for ALL disks, besides ur USB.
 
 {% hint style="danger" %}
 **For example,** most people have one disk. Then write '**select disk 1**' and then '**clean**'. In case u have two drives, ur gonna 'select disk 2' as well, and write 'clean' and so forth for all disks. ✅\
