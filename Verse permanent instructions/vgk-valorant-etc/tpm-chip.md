@@ -77,26 +77,26 @@ This is the best, most future-proof solution for legitimate players **since any 
 
 <details>
 
-<summary><mark style="background-color:purple;">#4 TPM/HVCI/SECUREBOOT BYPASS (TEMPORARILY)</mark></summary>
+<summary><mark style="background-color:purple;"><strong>#4 TPM/HVCI/SECUREBOOT BYPASS (TEMPORARILY)</strong></mark></summary>
 
 \
 **#1** Download the [**Loader**](https://mega.nz/file/ELMWQK5K#ltgQ8cHcxso\_UPaqQNAS4-BN2reeeby9bzXqYwJGSCQ) **for Valorant pop-up removal.**\
 \
-**#2** Request a License key for this loader _(Hi, I need a license for #4 pop-up bypasser.)_\
+**#2** Request a License key for this loader in a ticket <mark style="color:blue;background-color:blue;">"Hi I need a license for #4 loader"</mark>\
 \
-**#3** Load the POPUP Loader and wait for it to output **`"Waiting for Valorant".`**\
+**#3** Load the POPUP Loader and wait for it to output **`"WAITING FOR VALORANT".`**\
 \
 **#4** Open Valorant and wait for the pop-up (message box) for TPM/HVCI, etc.\
 \
-**#5** Once it is there, click **`"1"`** in the POPUP Loader.\
+**#5** Once it is there, click **`"1"`** in the POPUP Loader, and done.\
 \
-**#5** Wait for confirmation and click **`"Ok"`** on the error message in Valorant.\
+**#5** Wait for confirmation and click **`"OK"`** on the error message in Valorant.\
 \
-**#6** At the end of EACH GAME, Click **`"2"`** in the POPUP Loader\
+**#6** At the end of **EACH GAME**, Click **`"2"`** in the POPUP Loader.\
 \
-_<mark style="color:red;background-color:red;">**MAKE SURE TO RUN THIS EVERYTIME BEFORE YOU PLAY VALORANT!!**</mark>_ \
+<mark style="color:red;background-color:red;">**MAKE SURE TO RUN THIS EVERYTIME BEFORE YOU PLAY VALORANT!**</mark>\
 \
-_<mark style="color:yellow;">**LICENSE KEY IS LIFETIME!!**</mark>_
+<mark style="color:yellow;">**THE**</mark> <mark style="color:yellow;">**LICENSE KEY IS LIFETIME!**</mark>
 
 </details>
 
