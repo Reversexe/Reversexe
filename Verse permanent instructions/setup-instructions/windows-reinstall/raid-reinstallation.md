@@ -20,7 +20,7 @@ description: RAID reinstallation instructions.
 
 <summary>WHY IS THIS <mark style="color:green;"><strong>HIGHLY RECOMMENDED?</strong></mark></summary>
 
-The reason this reinstallation is recommended, especially for people with a lot of HWID bans on their PC, is because this reinstallation method changes your SSD/NVMe serials too. This is an important factor and almost **a 99% guaranteed successful spoof.**\
+The reason this reinstallation is recommended, especially for people with a lot of HWID bans on their PC, is because this reinstallation method changes your disk drive serials too. This is an important factor and almost **a 99% guaranteed successful spoof.**\
 \
 <mark style="color:red;background-color:red;">**Reminder: this is for AMD ONLY, Unless u know what ur doing on Intel.**</mark>
 

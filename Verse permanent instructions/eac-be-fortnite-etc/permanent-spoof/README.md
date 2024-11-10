@@ -10,9 +10,9 @@ description: Permanent spoof instructions.
 
 <summary><strong>What is the difference between those?</strong></summary>
 
-<mark style="color:blue;">**ASUS:**</mark> It needs a special spoofing mechanism because it is hard to permanently spoof it. However, Verse can, with just 1 extra step. All other motherboards are just "easy" and **one-click permanently spoofed. So if you're on Asus, choose Asus. Otherwise Normal.**\
+<mark style="color:blue;">**ASUS:**</mark> It needs a special spoofing mechanism because it is hard to permanently spoof it. However, Verse can, with just 1 extra step. All other motherboards are just "easy" and **one-click permanently spoofed. So if you're on Asus, choose Asus. Otherwise choose the normal  permanent spoof option.**\
 \
-<mark style="color:yellow;">**HP:**</mark> These motherboards should be unlocked before they're able to get spoofed. A USB is required for this, and the process is VERY simple. **Verse is one of the only spoofers that is able to permanently spoof HP.** Follow the HP Unlock steps first. [**(See HP Permanent**)](hp-permanent-spoof.md)
+<mark style="color:yellow;">**HP:**</mark> These motherboards should be unlocked before they're able to get spoofed. A USB is required for this, and the process is simple. **Verse is one of the only spoofers that is able to permanently spoof HP.** Follow the HP Unlock steps first. [**(See HP Permanent**)](hp-permanent-spoof.md)
 
 </details>
 
