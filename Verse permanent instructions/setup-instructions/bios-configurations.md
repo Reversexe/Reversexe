@@ -6,11 +6,11 @@ description: Instructions on settings within BIOS.
 
 ## <mark style="color:red;">GO TO BIOS & FOLLOW THE STEPS:</mark>
 
-_**HOW TO **<mark style="color:green;">**EASILY**</mark>** BOOT INTO BIOS**:_ [_YOUTUBE TUTORIAL HERE!_](https://youtu.be/mb9X9\_NNxuo?si)
+_**HOW TO **<mark style="color:green;">**EASILY**</mark>** BOOT INTO BIOS**:_ [_**YOUTUBE TUTORIAL HERE!**_](https://youtu.be/mb9X9\_NNxuo?si)
 
 ***
 
-### <mark style="color:blue;">DISABLE TPM IN BIOS:</mark>
+### <mark style="color:blue;background-color:blue;">DISABLE TPM IN BIOS:</mark>
 
 **DISABLE TRUSTED COMPUTING MODULE:**
 
@@ -38,11 +38,11 @@ _**HOW TO **<mark style="color:green;">**EASILY**</mark>** BOOT INTO BIOS**:_ [_
 
 <summary><mark style="color:red;background-color:red;"><strong>WHY IS THIS REQUIRED?</strong></mark></summary>
 
-For an Ethernet connection, we can permanently spoof your MAC address. However, this isn't possible on a Wi-Fi connection (wireless). Therefore, we highly recommend disabling Wi-Fi in the BIOS if that option is available. Same goes for Bluetooth. It leaves traces behind.\
+For an Ethernet connection, we can permanently spoof your MAC address. However, this isn't possible on a Wi-Fi connection (wireless). Therefore, we highly recommend disabling Wi-Fi in the BIOS if that option is available. The same goes for Bluetooth. It leaves traces behind that EAC/Vanguard (and sometimes BE) scan.\
 \
 <mark style="color:yellow;">**IF YOU'RE USING WIFI, AND CAN NOT USE ETHERNET, NO ISSUES:**</mark>\
 `1.` Please try to get on an Ethernet connection, since it is important for the spoof.\
-`2.` If u can't, use our "WIFI MAC SPOOFER" on the Miscellaneous tab in the loader.\
+`2.` If u can't, use our "**WIFI MAC SPOOFER**" on the Miscellaneous tab in the loader.\
 `3.` Purchase a new Wi-Fi Adapter/USB (if applicable) if ur using that on ur PC.
 
 </details>
