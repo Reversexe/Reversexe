@@ -21,7 +21,7 @@ layout:
 
 ## <mark style="color:blue;background-color:blue;">WHAT IS THE MOST IMPORTANT THING ABOUT USING A PERMANENT SPOOFER LIKE VERSE?</mark>
 
-### **THE INSTRUCTIONS THAT COME WITH IT.**  **MAKE SURE TO DO ALL STEPS  **<mark style="color:green;background-color:green;">**100% CORRECTLY.**</mark>&#x20;
+### **\~ THE INSTRUCTIONS THAT COME WITH IT.**  **MAKE SURE TO DO ALL STEPS  **<mark style="color:green;background-color:green;">**100% CORRECTLY.**</mark>&#x20;
 
 ***
 
