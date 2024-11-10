@@ -20,7 +20,7 @@ description: RAID reinstallation instructions.
 
 <summary>WHY IS THIS <mark style="color:green;"><strong>HIGHLY RECOMMENDED?</strong></mark></summary>
 
-The reason this reinstallation is recommended, especially for people with a lot of HWID bans on their PC, is because this reinstallation method changes your SSD/NVMe serials as well. This is an important factor and almost **a 99% guaranteed successful spoof.**\
+The reason this reinstallation is recommended, especially for people with a lot of HWID bans on their PC, is because this reinstallation method changes your SSD/NVMe serials too. This is an important factor and almost **a 99% guaranteed successful spoof.**\
 \
 <mark style="color:red;background-color:red;">**Reminder: this is for AMD ONLY, Unless u know what ur doing on Intel.**</mark>
 
@@ -46,7 +46,7 @@ The reason this reinstallation is recommended, especially for people with a lot 
 ***
 
 <mark style="color:green;">**\[1]**</mark> **AMD RAID FILES:** [<mark style="color:blue;">**DOWNLOAD RAID FILES**</mark>](https://shorturl.at/2Rhf1) <mark style="color:blue;background-color:blue;">**<- PUT FILES ON THE USB.**</mark>\
-_MAKE SURE TO <mark style="background-color:red;">**REMEMBER**</mark> YOUR DISK SERIALS. **MAKE A PHOTO OF THEM ON YOUR PHONE.**_
+_MAKE SURE TO _ _<mark style="background-color:red;">**REMEMBER**</mark>  YOUR DISK SERIALS. **MAKE A PHOTO OF THEM ON YOUR PHONE.**_
 
 ### <mark style="background-color:green;">**YOUR USB SHOULD LOOK SIMILAR LIKE THIS SCREENSHOT:**</mark>
 
@@ -67,7 +67,7 @@ Make sure to download your network drivers (LAN) from your corresponding motherb
 ***
 
 <mark style="background-color:green;">\[</mark><mark style="background-color:green;">**2] ONCE COMPLETE AND USB MATCHES THE SCREENSHOT, RESTART PC AND BOOT INTO BIOS**</mark>\
-_HOW TO <mark style="color:green;">EASILY</mark> BOOT INTO BIOS:_ [_Video tutorial here._](https://youtu.be/mb9X9\_NNxuo?si)\
+_HOW TO <mark style="color:green;">EASILY</mark> BOOT INTO BIOS:_ [_**Video tutorial here.**_](https://youtu.be/mb9X9\_NNxuo?si)\
 \
 <mark style="background-color:green;">**\[3] DISABLE CSM, AND ENABLE "RAID" IN BIOS.**</mark>\
 _Advanced > Integrated peripherals (or) Storage Configurations._\
@@ -102,6 +102,8 @@ _SATA Mode > "RAID" / NVME Mode > "RAID" **| **<mark style="color:red;">**SAVE &
 
 ### WHEN YOU ARE ON <mark style="color:blue;">WINDOWS:</mark>
 
-<mark style="color:green;">**\[5]**</mark>** On new windows,** check the SSD/NVMe serial and it will be changed! Compare with the old serial
+**\[5] **<mark style="background-color:green;">**CHECK OLD & NEW DISK SERIALS ON NEW WINDOWS**</mark>
+
+Now, use the disk-serialchecker.exe and see if the serials are changed, compare old vs new.
 
 ***

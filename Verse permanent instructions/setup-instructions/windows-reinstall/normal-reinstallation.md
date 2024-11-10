@@ -62,7 +62,7 @@ Make sure to download your network drivers (LAN) from your corresponding motherb
 
 </div>
 
-6. Select **Use a device** and select the USB _<mark style="background-color:blue;">**(Known as "Flash Drive")**</mark>_
+6. Select **Use a device** and select the USB <mark style="background-color:blue;">**(Known as "Flash Drive")**</mark>
 
 <div align="left">
 
