@@ -20,15 +20,19 @@ This process of '**unlocking**' the motherboard has to be done **ONCE**. You do 
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/+ HOLD SHIFT (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
-7. Select '**Use a device'** and select the USB _<mark style="background-color:blue;">(Known as "Flash Drive")</mark>_
+1. Select '**Use a device'** and select the USB <mark style="background-color:blue;">**(Known as "Flash Drive")**</mark>
 
-<figure><img src="../../.gitbook/assets/select.webp" alt=""><figcaption></figcaption></figure>
+<div align="left">
 
-8. Just **WAIT** now, and u will see something that **looks like this picture below:**
+<figure><img src="../../.gitbook/assets/Untitled design (14).png" alt="" width="563"><figcaption></figcaption></figure>
+
+</div>
+
+7. Just **WAIT** now, and u will see something that **looks like this picture below:**
 
 <div align="left">
 
@@ -40,15 +44,15 @@ This process of '**unlocking**' the motherboard has to be done **ONCE**. You do 
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/YES.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Are you sure you want to change Manufacturing Programming Mode to unlock mode.png" alt="" width="525"><figcaption></figcaption></figure>
 
 </div>
 
-10. Now it will boot into Windows again, and the USB can be removed.\
-    <mark style="background-color:yellow;">**Incase Windows does not boot, please remove the USB, and wait.**</mark>
+9. Now it will boot into Windows again, and the USB can be removed.\
+   <mark style="background-color:yellow;">**Incase Windows does not boot, please remove the USB, and wait.**</mark>
 
 {% hint style="danger" %}
-**Make sure there is no BIOS Password enabled.** This will cause the serials not to change.
+**Make sure there is no BIOS Password enabled.** This will cause the serials not to change on HP.
 {% endhint %}
 
 ***
@@ -87,8 +91,8 @@ _CHECK THE MAC-CHECKER, IF ALL MACS CHANGED._
 {% endtabs %}
 
 {% hint style="success" %}
-**TIP:** Mac-Adress not changed? Use "WIFI MAC SPOOFER" in the **miscellaneous** tab.\
-<mark style="color:red;">**Still not changed?**</mark> Then follow this: [https://streamable.com/p2xfby](https://streamable.com/p2xfby)
+**TIP: Mac-address not changed?** Use our "WIFI MAC SPOOFER" in the **miscellaneous** tab.\
+<mark style="color:red;background-color:red;">Still not changed?</mark> **`1.`** [Disable in BIOS](https://verse-solutions.gitbook.io/verse-permanent/setup-instructions/bios-configurations#turn-off-wifi-and-bluetooth-required) **`2.`** **Or follow this video:** [https://streamable.com/p2xfby](https://streamable.com/p2xfby)
 {% endhint %}
 
 ***

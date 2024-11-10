@@ -1,6 +1,6 @@
 ---
-description: Instructions for Asus EFI Spoof for Valorant.
 icon: circle-small
+description: Instructions for Asus EFI Spoof for Valorant.
 ---
 
 # Asus EFI Spoof
@@ -12,7 +12,7 @@ icon: circle-small
 2. Select **A/D/E/F** in Verse Loader, and run it! <mark style="background-color:red;">**No Files will be shown inside the drive. That's fine!**</mark>
 
 {% hint style="info" %}
-**Please select the drive letter assigned to ur partition.** So not all 4, but the letter of ur partition.
+**Please select the drive letter assigned to the partition.** So not all four, but the letter of the partition.
 {% endhint %}
 
 4. Open <mark style="color:blue;">**Powershell**</mark> as admin, write `[Guid]::newGuid()`and see the results.
@@ -53,10 +53,10 @@ icon: circle-small
 13. Click save and exit bios again, we are done now. **You will boot EFI spoofed.**
 
 {% hint style="warning" %}
-_**Note: This process is important for Asus users.** You would **ALWAYS** have to boot Windows from the A/D/E/F Partition. You cannot play Valorant without it. Sadly, there is no other way for this, other than buying a new non-Asus motherboard. **(TIP: Never buy Asus again. It's dogshit for spoofing**!)_
+**Note: This process is important for Asus users.** You would **ALWAYS** have to boot Windows from the A/D/E/F Partition. You cannot play Valorant without it. Sadly, there is no other way for this, other than buying a new non-Asus motherboard. **(TIP: Never buy Asus again. It's dogshit for spoofing**!)
 {% endhint %}
 
-### <mark style="color:red;background-color:red;">ONCE ON WINDOWS, DO THIS LAST VERY IMPORTANT STEP!!</mark>
+### <mark style="color:red;background-color:red;">ONCE ON WINDOWS, DO THIS LAST VERY IMPORTANT STEP!!</mark> 💢💢
 
 Download the **'cleanup.exe'** file, and run it as admin **(CMD will pop up for one second, that's it.)**
 

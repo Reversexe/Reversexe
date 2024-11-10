@@ -38,8 +38,8 @@ _CHECK THE MAC-CHECKER, IF ALL MACS CHANGED._
 {% endtabs %}
 
 {% hint style="success" %}
-**TIP:** Mac-Adress not changed? Use "WIFI MAC SPOOFER" in the **miscellaneous** tab.\
-<mark style="color:red;">**Still not changed?**</mark> Then follow this: [https://streamable.com/p2xfby](https://streamable.com/p2xfby)
+**TIP: Mac-address not changed?** Use our "WIFI MAC SPOOFER" in the **miscellaneous** tab.\
+<mark style="color:red;background-color:red;">Still not changed?</mark> **`1.`** [Disable in BIOS](https://verse-solutions.gitbook.io/verse-permanent/setup-instructions/bios-configurations#turn-off-wifi-and-bluetooth-required) **`2.`** **Or follow this video:** [https://streamable.com/p2xfby](https://streamable.com/p2xfby)
 {% endhint %}
 
 ***

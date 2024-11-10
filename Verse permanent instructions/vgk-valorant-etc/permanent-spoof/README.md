@@ -8,11 +8,11 @@ description: Permanently spoof your computer
 
 <details>
 
-<summary><strong>What is the difference between them?</strong></summary>
+<summary><strong>Difference between Normal, Asus, and HP explained here</strong> ♻️</summary>
 
-_<mark style="color:blue;">**ASUS:**</mark>_ _It needs a special spoofing mechanism because it is hard to permanently spoof it. However, Verse can, with just 1 extra step. All other motherboards are just "easy" and **one-click permanently spoofed. So if you're on Asus, choose Asus. Otherwise Normal.**_\
+<mark style="color:blue;">**ASUS:**</mark> It needs a special spoofing mechanism because it is hard to permanently spoof it. However, Verse can, with just 1 extra step. All other motherboards are just "easy" and **one-click permanently spoofed. So if you're on Asus, choose Asus Perm Spoof. Otherwise, choose the Normal Permanent Spoof option.**\
 \
-_<mark style="color:yellow;">**HP:**</mark>_ _These motherboards should be unlocked before they're able to get spoofed. A USB is required for this, and the process is VERY easy. **Verse is one of the only spoofers that is able to permanently spoof HP.** Follow the HP Unlock steps first._ [_(See HP Permanent)_](broken-reference)
+<mark style="color:yellow;">**HP:**</mark> These motherboards should be unlocked before they're able to get spoofed. A USB is required for this, and the process is simple. **Verse is one of the only spoofers that is able to permanently spoof HP.** Follow the HP Unlock steps first. [**(See HP Permanent**)](hp-permanent-spoof.md)
 
 </details>
 
@@ -33,8 +33,8 @@ _<mark style="color:yellow;">**HP:**</mark>_ _These motherboards should be unloc
 ***
 
 {% hint style="success" %}
-**TIP:** Mac-Adress not changed? Use "WIFI MAC SPOOFER" in the **miscellaneous** tab.\
-<mark style="color:red;">**Still not changed?**</mark> Then follow this: [https://streamable.com/p2xfby](https://streamable.com/p2xfby)
+**TIP: Mac-address not changed?** Use our "WIFI MAC SPOOFER" in the **miscellaneous** tab.\
+<mark style="color:red;background-color:red;">Still not changed?</mark> **`1.`** [Disable in BIOS](https://verse-solutions.gitbook.io/verse-permanent/setup-instructions/bios-configurations#turn-off-wifi-and-bluetooth-required) **`2.`** **Or follow this video:** [https://streamable.com/p2xfby](https://streamable.com/p2xfby)
 {% endhint %}
 
 {% content-ref url="../../fixes-issues/serials-not-changing.md" %}

@@ -29,28 +29,28 @@ _This is the most simple bypass. <mark style="color:red;">**This bypass will not
 
 <details>
 
-<summary><mark style="background-color:blue;"><strong>#2 TPM BYPASS (TEMPORARILY)</strong></mark></summary>
+<summary><mark style="background-color:blue;"><strong>#</strong></mark><del><mark style="background-color:blue;"><strong>2 TPM BYPASS (TEMPORARILY)</strong></mark></del></summary>
 
 \
-**#1** Make sure TPM is <mark style="color:green;">**ENABLED**</mark> & "READY FOR USE" within tpm.msc\
+~~**#1** Make sure TPM is <mark style="color:green;">**ENABLED**</mark> & "READY FOR USE" within tpm.msc~~\
 \
-**#2** Open CMD (Command prompt) as admin, and write `sc stop wdfilter` & enter\
+~~**#2** Open CMD (Command prompt) as admin, and write `sc stop wdfilter` & enter~~\
 \
-**#3** Open Powershell as admin, and write `Clear-tpm` & `Disable-TPMAutoProvisioning`\
+~~**#3** Open Powershell as admin, and write `Clear-tpm` & `Disable-TPMAutoProvisioning`~~\
 \
-**#4** Download: [**https://shorturl.at/BUjiZ**](https://shorturl.at/BUjiZ) (TPM Temp Loader) & run it\
+~~**#4** Download: \[outdated for now] (TPM Temp Loader) & run it~~\
 \
-**#5** Request a License key for this Loader (**#3)**. <mark style="color:yellow;">**Open a ticket for it.**</mark>\
+~~**#5** Request a License key for this Loader (**#3)**. <mark style="color:yellow;">**Open a ticket for it.**</mark>~~\
 \
-**#6 Login** with the given License key, and select **"LOAD TPM"** \
+~~**#6 Login** with the given License key, and select **"LOAD TPM"**~~ \
 \
-**#6** Check tpm.msc and it should be 'failed/corrupted' \
+~~**#6** Check tpm.msc and it should be 'failed/corrupted'~~ \
 \
-**#7** Open Valorant, the bypass is temporary. \
+~~**#7** Open Valorant, the bypass is temporary.~~ \
 \
-_<mark style="color:red;background-color:red;">**MAKE SURE TO RUN THIS EVERYTIME BEFORE YOU PLAY VALORANT!!**</mark>_ \
+~~_<mark style="color:red;background-color:red;">**MAKE SURE TO RUN THIS EVERYTIME BEFORE YOU PLAY VALORANT!!**</mark>_~~ \
 \
-_<mark style="color:yellow;">**LICENSE KEY IS LIFETIME!!**</mark>_
+~~_<mark style="color:yellow;">**LICENSE KEY IS LIFETIME!!**</mark>_~~
 
 </details>
 
@@ -66,9 +66,12 @@ _<mark style="color:yellow;">**LICENSE KEY IS LIFETIME!!**</mark>_
 **#3** Install the new TPM chip before downloading Valorant, after woofing.\
 \
 **Installation difficulty:** <mark style="color:yellow;">**5/10 |**</mark>** Average Price: **<mark style="color:yellow;">**$15**</mark>\
-\ <mark style="color:yellow;">**The installation is not difficult. Make sure to purchase one that works with ur motherboard. Do a little research to find out with ease.**</mark>\
+\ <mark style="color:yellow;">**The installation is not difficult. Make sure to purchase one that works with ur motherboard. Do a little research to find out with ease.**</mark> ✅\
 \
-_This is the best, most future-proof solution for legitimate players **since any 'bypass' can eventually and unfortunately become detected/patched at some point.** A TPM Chip is therefore the best solution for a lot of people, and really your only choice if no other bypasses work and you really want to get unbanned from Valorant._
+[**Find a TPM Module**](https://docs.cleanban.com/additional-guides/find-a-tpm-module) \~ Cleanban credits.\
+[**Install a TPM Module**](https://docs.cleanban.com/additional-guides/install-tpm-module) \~ Cleanban credits. (Simple, takes less than 5 minutes)\
+\
+This is the best, most future-proof solution for legitimate players **since any 'bypass' can eventually and unfortunately become detected/patched at some point.** A TPM Chip is therefore the best solution for a lot of people, and really your only choice if no other bypasses work and you really want to get unbanned from Valorant.
 
 </details>
 
