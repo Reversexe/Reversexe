@@ -54,23 +54,23 @@ Make sure to download your network drivers (LAN) from your corresponding motherb
 
 ***
 
-5. Hold **SHIFT,** click Restart, **and keep holding SHIFT!**
+5. Restart the computer, and **hold shift** at the same time.
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/+ HOLD SHIFT (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
-6. Select **Use a device** and select the USB <mark style="background-color:blue;">**(Known as "Flash Drive")**</mark>
+5. Select **Use a device** and select the USB <mark style="background-color:blue;">**(Known as "Flash Drive")**</mark>
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/select.webp" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Untitled design (14).png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 
-7. Select **Windows 10 Pro** <mark style="color:red;background-color:red;">**(IMPORTANT!)**</mark>
+5. Select **Windows 10 Pro** <mark style="color:red;background-color:red;">**(IMPORTANT!)**</mark>
 
 <div align="left">
 
@@ -100,7 +100,7 @@ Make sure to download your network drivers (LAN) from your corresponding motherb
 13. Write **`select disk 'X'`** (X = Disk number) then write `clean` for ALL disks, besides ur USB.
 
 {% hint style="danger" %}
-**For example,** most people have one disk. Then write '**select disk 1**' and then '**clean**'. In case u have two drives, ur gonna 'select disk 2' as well, and write 'clean' and so forth for all disks.\
+**For example,** most people have one disk. Then write '**select disk 1**' and then '**clean**'. In case u have two drives, ur gonna 'select disk 2' as well, and write 'clean' and so forth for all disks. ✅\
 \
 Flash drives (USB) usually have a smaller size compared to internal hard drives or SSDs, and are likely the last drive listed! **DO NOT CLEAN YOUR FLASH DRIVE (USB)!** <mark style="color:red;background-color:red;">**Still Unsure? Please contact us.**</mark>
 {% endhint %}
