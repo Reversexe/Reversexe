@@ -1,5 +1,5 @@
 ---
-icon: circle-small
+icon: arrows-rotate-reverse
 description: Normal reinstallation instructions.
 ---
 

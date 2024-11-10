@@ -7,12 +7,12 @@ description: Windows reinstallation instructions.
 {% hint style="success" %}
 **INFO:** There are 2 reinstallation methods. Choose which one fits the best in your situation.\
 \
-_FOR <mark style="color:red;">**VALORANT**</mark>, MAKE SURE TO_ [_**FLASH YOUR BIOS**_](flashing-bios-val.md) _BEFORE YOU REINSTALL WINDOWS!_ \
+_FOR <mark style="color:red;">**VALORANT**</mark>, MAKE SURE TO_ [_**FLASH YOUR BIOS**_](flashing-bios-valo.md) _BEFORE YOU REINSTALL WINDOWS!_ \
 _<mark style="color:red;">**MAKE SURE VANGUARD IS UNINSTALLED.**</mark>** ****(FLASHING BIOS = ONLY FOR VALORANT)**_
 {% endhint %}
 
-{% content-ref url="flashing-bios-val.md" %}
-[flashing-bios-val.md](flashing-bios-val.md)
+{% content-ref url="flashing-bios-valo.md" %}
+[flashing-bios-valo.md](flashing-bios-valo.md)
 {% endcontent-ref %}
 
 ***

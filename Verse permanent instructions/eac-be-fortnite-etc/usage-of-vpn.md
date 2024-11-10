@@ -10,7 +10,7 @@ description: Instructions for VPN usage.
 
 > <mark style="color:green;">**IPVANISH - Most locations & Free with Verse VIP**</mark>
 
-> [<mark style="color:purple;">**Mysteriumdark**</mark>](https://www.mysteriumdark.com/) <mark style="color:purple;">**-**</mark>** Known to work on Rust. (Residential, **<mark style="color:red;">**ONLY**</mark>** recommended for Rust)**
+> [<mark style="color:purple;">**Mysteriumdark**</mark>](https://www.mysteriumdark.com/) <mark style="color:purple;">**-**</mark> <mark style="color:purple;">**Known to work on Rust.**</mark>** (RESIDENTIAL IP **<mark style="color:red;">**ONLY**</mark>** FOR RUST)**
 
 <details>
 

@@ -1,5 +1,5 @@
 ---
-icon: circle-small
+icon: arrows-rotate-reverse
 description: RAID reinstallation instructions.
 ---
 

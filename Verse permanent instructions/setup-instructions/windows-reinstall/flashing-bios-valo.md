@@ -1,9 +1,9 @@
 ---
-icon: circle-small
+icon: wrench
 description: Instructions for BIOS flashing VALORANT ONLY.
 ---
 
-# Flashing BIOS  (VAL)
+# Flashing BIOS  (VALO)
 
 ### BIOS FLASH SHOULD BE DONE BEFORE REINSTALLING WINDOWS
 

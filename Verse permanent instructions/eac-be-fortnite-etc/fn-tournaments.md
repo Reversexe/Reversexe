@@ -13,7 +13,7 @@ description: Instructions for Fortnite Tournaments.
 
 ## <mark style="color:red;">ONLY IF</mark> TOURNAMENTS <mark style="color:red;">DO NOT WORK</mark> FOR YOU:
 
-MAKE SURE TO RUN THE 'FN TOURNAMENT FIX' (WILL GIVE DIFFERENT SERIALS)
+MAKE SURE TO RUN THE "**FN TOURNAMENT FIX**" (WILL GIVE DIFFERENT SERIALS) ❗️
 
 <div align="left">
 
