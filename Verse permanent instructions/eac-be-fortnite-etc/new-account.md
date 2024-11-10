@@ -13,7 +13,7 @@ description: Instructions for a new account.
 
 <summary><strong>WHY DO I HAVE TO BE ON A NEW ACCOUNT?</strong> 🎭</summary>
 
-It is advisable to open a new account to ensure security and protect your spoof. Using your primary (main) account, especially if it has faced issues before (like kicks), carries potential risks. <mark style="color:orange;">**Please note that we cannot assume responsibility if you choose to proceed with this.**</mark>
+It is advisable to open a new account to ensure security and protect your spoof. Using your primary (main) account, especially if it has faced issues before (like kicks), carries potential risks. <mark style="color:orange;">**Please note that we cannot assume responsibility if you choose to proceed with this - Refund rights expire too.**</mark>
 
 </details>
 
@@ -22,7 +22,7 @@ It is advisable to open a new account to ensure security and protect your spoof.
 {% hint style="warning" %}
 **Important Notice:** You can log in to your Epic Games account, even if you’ve been kicked or banned, to play games like ARK or GTA V, Fivem, without additional risk, and then switch back.\
 \
-However, for **RUST**, <mark style="color:red;">**this is not recommended**</mark> to log back into a Steam account from which you were banned. Doing so may result in additional server bans for "ban evasion", which is a pain in the ass.
+For **RUST**, <mark style="color:red;">**logging back into a Steam account from which you were banned is not recommended**</mark>. Doing so may result in additional server bans for "ban evasion", which is a pain in the ass.
 {% endhint %}
 
 ***
