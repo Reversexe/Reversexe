@@ -13,7 +13,7 @@ description: RAID reinstallation instructions.
 ### THIS WAY OF REINSTALLING <mark style="color:green;">IS HIGHLY RECOMMENDED!</mark>
 
 {% hint style="warning" %}
-🌟 **Easiness**: <mark style="color:yellow;">**7/10 Doable, Not Hard**</mark>** |** 🕒 **15 Minutes Average Time.**
+🌟 **Easiness**: <mark style="color:yellow;">**7/10 Doable, Not Hard**</mark>** |**🕒 **15 Minutes Average Time.**
 {% endhint %}
 
 <details>

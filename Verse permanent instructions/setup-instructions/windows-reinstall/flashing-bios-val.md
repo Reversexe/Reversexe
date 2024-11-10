@@ -10,14 +10,14 @@ description: Instructions for BIOS flashing VALORANT ONLY.
 **MAKE SURE TO UNINSTALL **<mark style="color:red;">**VANGUARD**</mark>
 
 {% hint style="warning" %}
-🌟 **Easiness**: <mark style="color:yellow;">**7/10 Doable, Not Hard**</mark>** |** 🕒 **15 Minutes Average Time.**
+🌟 **Easiness**: <mark style="color:yellow;">**7/10 Doable, Not Hard**</mark>** |**🕒 **15 Minutes Average Time.**
 {% endhint %}
 
 <details>
 
 <summary><strong>BIOS VERSION SUGGESTION:</strong></summary>
 
-We suggest downgrading your motherboard to an earlier released BIOS version. In our professional experience, this process is safe, and we've seen better spoofing success rates using the previous version before the version your motherboard has right now.
+We suggest downgrading your motherboard to an earlier BIOS version. In our professional experience, this process is safe, and we've seen better spoofing success rates using the previous version before the version your motherboard has right now.
 
 </details>
 
