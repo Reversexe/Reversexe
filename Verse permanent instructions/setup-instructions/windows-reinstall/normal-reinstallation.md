@@ -82,7 +82,7 @@ Make sure to download your network drivers (LAN) from your corresponding motherb
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image.avif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.avif" alt="" width="525"><figcaption></figcaption></figure>
 
 </div>
 

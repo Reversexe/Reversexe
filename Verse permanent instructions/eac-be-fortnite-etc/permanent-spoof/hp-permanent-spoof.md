@@ -24,7 +24,7 @@ This process of '**unlocking**' the motherboard has to be done **ONCE**. You do 
 
 </div>
 
-7. Select '**Use a device'** and select the USB _<mark style="background-color:blue;">(Known as "Flash Drive")</mark>_
+7. Select '**Use a device'** and select the USB <mark style="background-color:blue;">(Known as "Flash Drive")</mark>
 
 <div align="left">
 
