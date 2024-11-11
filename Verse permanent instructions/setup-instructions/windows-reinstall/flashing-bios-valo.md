@@ -36,5 +36,5 @@ We suggest downgrading your motherboard to an earlier BIOS version. In our profe
 ***
 
 {% hint style="info" %}
-NOW CONTINUE WITH [normal-reinstallation.md](normal-reinstallation.md "mention") | [raid-reinstallation.md](raid-reinstallation.md "mention")
+NOW CONTINUE WITH [normal-reinstallation.md](normal-reinstallation.md "mention") | [raid-reinstallation.md](raid-reinstallation.md "mention")⚙️
 {% endhint %}
