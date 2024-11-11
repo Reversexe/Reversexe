@@ -52,7 +52,7 @@ This process of '**unlocking**' the motherboard has to be done **ONCE**. You do 
    <mark style="background-color:yellow;">**Incase Windows does not boot, please remove the USB, and wait.**</mark>
 
 {% hint style="danger" %}
-**Make sure there is no BIOS Password enabled.** This will cause the serials not to change on HP.
+**Make sure there is no BIOS Password enabled.** 🔐 This will cause the serials not to change on HP.
 {% endhint %}
 
 ***
