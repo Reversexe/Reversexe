@@ -1,8 +1,9 @@
 ---
 description: Download the Verse Loader.
+icon: folder-arrow-down
 ---
 
-# 3️⃣ Verse Download
+# Verse Download
 
 ## DOWNLOAD VERSE <mark style="color:purple;">\[ VERSION 4.56 ]</mark>
 

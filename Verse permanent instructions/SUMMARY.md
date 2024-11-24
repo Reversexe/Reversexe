@@ -6,12 +6,12 @@
 
 ## SETUP INSTRUCTIONS
 
-* [1️⃣ Windows reinstall](setup-instructions/windows-reinstall/README.md)
+* [Windows reinstall](setup-instructions/windows-reinstall/README.md)
   * [Flashing BIOS  (VALO)](setup-instructions/windows-reinstall/flashing-bios-valo.md)
   * [Normal reinstallation](setup-instructions/windows-reinstall/normal-reinstallation.md)
   * [RAID Reinstallation](setup-instructions/windows-reinstall/raid-reinstallation.md)
-* [2️⃣ BIOS Configurations](setup-instructions/bios-configurations.md)
-* [3️⃣ Verse Download](setup-instructions/verse-download.md)
+* [BIOS Configurations](setup-instructions/bios-configurations.md)
+* [Verse Download](setup-instructions/verse-download.md)
 
 ## EAC/BE \[FORTNITE, ETC]
 

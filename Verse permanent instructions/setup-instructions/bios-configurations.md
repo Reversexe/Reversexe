@@ -1,12 +1,13 @@
 ---
 description: Instructions on settings within BIOS.
+icon: power-off
 ---
 
-# 2️⃣ BIOS Configurations
+# BIOS Configurations
 
 ## <mark style="color:red;">GO TO BIOS & FOLLOW THE STEPS:</mark>
 
-_**HOW TO **<mark style="color:green;">**EASILY**</mark>** BOOT INTO BIOS**:_ [_**YOUTUBE TUTORIAL HERE!**_](https://youtu.be/mb9X9\_NNxuo?si)
+_**HOW TO&#x20;**<mark style="color:green;">**EASILY**</mark>**&#x20;BOOT INTO BIOS**:_ [_**YOUTUBE TUTORIAL HERE!**_](https://youtu.be/mb9X9_NNxuo?si)
 
 ***
 
