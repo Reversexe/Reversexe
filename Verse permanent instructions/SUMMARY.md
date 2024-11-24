@@ -15,7 +15,7 @@
 
 ## EAC/BE \[FORTNITE, ETC]
 
-* [4️⃣ Permanent Spoof](eac-be-fortnite-etc/permanent-spoof/README.md)
+* [Permanent Spoof](eac-be-fortnite-etc/permanent-spoof/README.md)
   * [Normal Permanent Spoof](eac-be-fortnite-etc/permanent-spoof/normal-permanent-spoof.md)
   * [Asus Perm Spoof](eac-be-fortnite-etc/permanent-spoof/asus-perm-spoof/README.md)
     * [Asus EFI Spoof](eac-be-fortnite-etc/permanent-spoof/asus-perm-spoof/asus-efi-spoof.md)
@@ -27,7 +27,7 @@
 
 ## VGK \[VALORANT, ETC]
 
-* [4️⃣ Permanent Spoof](vgk-valorant-etc/permanent-spoof/README.md)
+* [Permanent Spoof](vgk-valorant-etc/permanent-spoof/README.md)
   * [Normal Permanent Spoof](vgk-valorant-etc/permanent-spoof/normal-permanent-spoof.md)
   * [Asus Perm Spoof](vgk-valorant-etc/permanent-spoof/asus-perm-spoof/README.md)
     * [Asus EFI Spoof](vgk-valorant-etc/permanent-spoof/asus-perm-spoof/asus-efi-spoof.md)
@@ -38,7 +38,7 @@
 
 ## RICOCHET \[COD, ETC]
 
-* [4️⃣ Permanent Spoof](ricochet-cod-etc/permanent-spoof/README.md)
+* [Permanent Spoof](ricochet-cod-etc/permanent-spoof/README.md)
   * [Normal Permanent Spoof](ricochet-cod-etc/permanent-spoof/normal-permanent-spoof.md)
   * [Asus Perm Spoof](ricochet-cod-etc/permanent-spoof/asus-perm-spoof/README.md)
     * [Asus EFI Spoof](ricochet-cod-etc/permanent-spoof/asus-perm-spoof/asus-efi-spoof.md)

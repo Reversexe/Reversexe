@@ -1,8 +1,9 @@
 ---
 description: Permanently spoof your computer
+icon: fingerprint
 ---
 
-# 4️⃣ Permanent Spoof
+# Permanent Spoof
 
 ### <mark style="color:green;">NORMAL</mark> SPOOFING, <mark style="color:blue;">ASUS</mark> SPOOFING & <mark style="color:yellow;">HP</mark> SPOOFING GUIDE:
 
@@ -12,7 +13,7 @@ description: Permanently spoof your computer
 
 _<mark style="color:blue;">**ASUS:**</mark>_ _It needs a special spoofing mechanism because it is hard to permanently spoof it. However, Verse can, with just 1 extra step. All other motherboards are just "easy" and **one-click permanently spoofed. So if you're on Asus, choose Asus. Otherwise Normal.**_\
 \
-_<mark style="color:yellow;">**HP:**</mark>_ _These motherboards should be unlocked before they're able to get spoofed. A USB is required for this, and the process is VERY easy. **Verse is one of the only spoofers that is able to permanently spoof HP.** Follow the HP Unlock steps first._ [_(See HP Permanent)_](broken-reference)
+&#xNAN;_<mark style="color:yellow;">**HP:**</mark>_ _These motherboards should be unlocked before they're able to get spoofed. A USB is required for this, and the process is VERY easy. **Verse is one of the only spoofers that is able to permanently spoof HP.** Follow the HP Unlock steps first._ [_(See HP Permanent)_](broken-reference)
 
 </details>
 

@@ -1,8 +1,9 @@
 ---
 description: Permanent spoof instructions.
+icon: fingerprint
 ---
 
-# 4️⃣ Permanent Spoof
+# Permanent Spoof
 
 ### <mark style="color:green;">NORMAL</mark> SPOOFING, <mark style="color:blue;">ASUS</mark> SPOOFING & <mark style="color:yellow;">HP</mark> SPOOFING GUIDE:
 
