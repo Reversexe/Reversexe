@@ -13,7 +13,7 @@ description: RAID reinstallation instructions.
 ### THIS WAY OF REINSTALLING <mark style="color:green;">IS HIGHLY RECOMMENDED!</mark>
 
 {% hint style="warning" %}
-🌟 **Easiness**: <mark style="color:yellow;">**7/10 Doable, Not Hard**</mark>** |**🕒 **15 Minutes Average Time.**
+🌟 **Easiness**: <mark style="color:yellow;">**7/10 Doable, Not Hard**</mark>**&#x20;|**&#xD83D;� **15 Minutes Average Time.**
 {% endhint %}
 
 <details>
@@ -37,24 +37,16 @@ The reason this reinstallation is recommended, especially for people with a lot 
 * Select **Create Installation media (USB Flash drive)**
 * Use all the recommended options & continue & wait for it to finish.
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/flashdrive.png" alt="" width="563"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/flashdrive.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 ***
 
-<mark style="color:green;">**\[1]**</mark> **AMD RAID FILES:** [<mark style="color:blue;">**DOWNLOAD RAID FILES**</mark>](https://shorturl.at/2Rhf1) <mark style="color:blue;background-color:blue;">**<- PUT FILES ON THE USB.**</mark>\
-_MAKE SURE TO _ _<mark style="background-color:red;">**REMEMBER**</mark>   YOUR DISK SERIALS. **MAKE A PHOTO OF THEM ON YOUR PHONE.**_
+<mark style="color:green;">**\[1]**</mark> **AMD RAID FILES:** [<mark style="color:blue;">**DOWNLOAD RAID FILES**</mark>](https://mega.nz/file/CYB0mbwZ#xepaer-LVzZpKJEMo67QDr0nITYlkJK_-GSb0AWV2dA) <mark style="color:blue;background-color:blue;">**<- PUT FILES ON THE USB.**</mark>\
+&#xNAN;_&#x4D;AKE SURE TO&#x20;_&#x20;_<mark style="background-color:red;">**REMEMBER**</mark>   YOUR DISK SERIALS. **MAKE A PHOTO OF THEM ON YOUR PHONE.**_
 
 ### <mark style="background-color:green;">**YOUR USB SHOULD LOOK SIMILAR LIKE THIS SCREENSHOT:**</mark>
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/result.png" alt=""><figcaption><p>                                                                                                          </p></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/result.png" alt=""><figcaption><p>                                                                                                          </p></figcaption></figure></div>
 
 {% hint style="danger" %}
 **NOTE:** When reinstalling Windows, most modern systems will automatically detect and install basic Ethernet drivers, so ur connection will work fine right after the installation. ✅\
@@ -67,18 +59,18 @@ Make sure to download your network drivers (LAN) from your corresponding motherb
 ***
 
 <mark style="background-color:green;">\[</mark><mark style="background-color:green;">**2] ONCE COMPLETE AND USB MATCHES THE SCREENSHOT, RESTART PC AND BOOT INTO BIOS**</mark>\
-_**HOW TO **<mark style="color:green;">**EASILY**</mark>** BOOT INTO BIOS**:_ [_**Video tutorial here.**_](https://youtu.be/mb9X9\_NNxuo?si)\
+&#xNAN;_**HOW TO&#x20;**<mark style="color:green;">**EASILY**</mark>**&#x20;BOOT INTO BIOS**:_ [_**Video tutorial here.**_](https://youtu.be/mb9X9_NNxuo?si)\
 \
 <mark style="background-color:green;">**\[3] DISABLE CSM, AND ENABLE "RAID" IN BIOS.**</mark>\
-_Advanced > Integrated peripherals (or) Storage Configurations._\
-_SATA Mode > "RAID" / NVME Mode > "RAID" **| **<mark style="color:red;">**SAVE & EXIT BIOS, GET BACK INTO BIOS AGAIN.**</mark>_\
+&#xNAN;_&#x41;dvanced > Integrated peripherals (or) Storage Configurations._\
+_SATA Mode > "RAID" / NVME Mode > "RAID" **|&#x20;**<mark style="color:red;">**SAVE & EXIT BIOS, GET BACK INTO BIOS AGAIN.**</mark>_\
 \
 <mark style="background-color:green;">**\[4] CONTINUE WITH THE REST OF THE RAID SETUP WITH THIS VIDEO GUIDE**</mark>\
 [**https://streamable.com/9o2zci**](https://streamable.com/9o2zci) **<- video instructions for RAID setup.**
 
 ***
 
-* **USE WINDOWS 10 PRO | **<mark style="color:red;background-color:red;">**MAKE AN OFFLINE ACCOUNT**</mark>
+* **USE WINDOWS 10 PRO |&#x20;**<mark style="color:red;background-color:red;">**MAKE AN OFFLINE ACCOUNT**</mark>
 
 <figure><img src="../../.gitbook/assets/Offline acc.webp" alt=""><figcaption></figcaption></figure>
 
@@ -95,7 +87,7 @@ _SATA Mode > "RAID" / NVME Mode > "RAID" **| **<mark style="color:red;">**SAVE &
 \
 2\. Do not log in to <mark style="color:blue;">OneDrive, Logitech G Hub,</mark> or <mark style="color:green;">Geforce Experience.</mark>\
 \
-3\. Install: [https://aka.ms/vs/17/release/vc\_redist.x64.exe ](https://aka.ms/vs/17/release/vc\_redist.x64.exe)to prevent errors.
+3\. Install: [https://aka.ms/vs/17/release/vc\_redist.x64.exe ](https://aka.ms/vs/17/release/vc_redist.x64.exe)to prevent errors.
 {% endhint %}
 
 ***
