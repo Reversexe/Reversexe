@@ -7,9 +7,9 @@ description: Instructions for the standard permanent spoof.
 ### <mark style="color:yellow;background-color:yellow;">FOLLOW THESE STEPS FIRST BEFORE TUTORIAL VIDEO</mark>
 
 {% hint style="warning" %}
-This process of '**unlocking**' the motherboard has to be done **ONCE**. You do not have to redo it anymore at any other time. Your motherboard will be permanently unlocked to be able to spoof.\
+This process of '**unlocking**' the motherboard has to be done **ONCE**. You do not have to redo it anymore. Your motherboard will be permanently unlocked to be able to spoof.\
 \
-🌟 **Easiness**: <mark style="color:green;">**8/10 VERY EASY**</mark>**&#x20;|**&#xD83D;� 5 **Minutes Average Time.**
+🌟 **Easiness**: <mark style="color:green;">**8/10 VERY EASY**</mark>**&#x20;|** 5 **Minutes Average Time.** 🕒
 {% endhint %}
 
 1. Plug in a USB to ur computer (Must be 32GB or less, not more)
@@ -36,7 +36,7 @@ This process of '**unlocking**' the motherboard has to be done **ONCE**. You do 
    <mark style="background-color:yellow;">**Incase Windows does not boot, please remove the USB, and wait.**</mark>
 
 {% hint style="danger" %}
-**Make sure there is no BIOS Password enabled.** 🔐 This will cause the serials not to change on HP.
+**Make sure there is no BIOS Password enabled.** 🔐 This will cause the serials not to change on HP. If "Manufacturer mode" does not show up, flash ur BIOS to one older version.
 {% endhint %}
 
 ***
