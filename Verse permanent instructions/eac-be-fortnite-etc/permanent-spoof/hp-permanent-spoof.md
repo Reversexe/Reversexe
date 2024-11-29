@@ -33,10 +33,10 @@ This process of '**unlocking**' the motherboard has to be done **ONCE**. You do 
 <div align="left"><figure><img src="../../.gitbook/assets/Are you sure you want to change Manufacturing Programming Mode to unlock mode.png" alt="" width="525"><figcaption></figcaption></figure></div>
 
 9. Now it will boot into Windows again, and the USB can be removed.\
-   <mark style="background-color:yellow;">**Incase Windows does not boot, please remove the USB, and wait.**</mark>
+   <mark style="background-color:yellow;">**In case Windows does not boot, please remove the USB, and wait.**</mark>
 
 {% hint style="danger" %}
-**Make sure there is no BIOS Password enabled.** 🔐 This will cause the serials not to change on HP. If "Manufacturer mode" does not show up, flash ur BIOS to one older version.
+**Make sure there is no BIOS Password enabled.** 🔐 This will cause the serials not to change on HP. If "Manufacturer mode" doesn't show up, flash ur BIOS to an older version.
 {% endhint %}
 
 ***

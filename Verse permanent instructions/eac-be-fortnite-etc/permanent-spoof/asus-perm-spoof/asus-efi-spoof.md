@@ -31,9 +31,7 @@ description: Instructions for Asus EFI Spoof for Valorant.
 4. Click '**save and exit'** bios again, we are done now. <mark style="color:green;background-color:green;">**You will Boot EFI-Spoofed.**</mark>
 
 {% hint style="warning" %}
-**Note: This process is important for Asus users.** You would **ALWAYS** have to boot Windows from the A/D/E/F Partition. You cannot play your game without it. Sadly, there is no other way for this, other than buying a new non-Asus motherboard. \
-\
-&#xNAN;**(TIP: Never buy Asus again. It's dogshit for spoofing**!) 💩
+**Note: This process is important for Asus users.** You would **ALWAYS** have to boot Windows from the A/D/E/F Partition. You cannot play your game without it. Sadly, there is no other way for this, other than buying a new non-Asus motherboard.&#x20;
 {% endhint %}
 
 ***
