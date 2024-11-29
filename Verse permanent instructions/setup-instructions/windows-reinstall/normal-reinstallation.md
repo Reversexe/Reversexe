@@ -6,11 +6,11 @@ description: Normal reinstallation instructions.
 # Normal reinstallation
 
 {% hint style="warning" %}
-<mark style="background-color:orange;">**Reinstalling Windows with a USB is HIGHLY recommended. This is to ensure the disk bans are gone.**</mark>\
+<mark style="background-color:orange;">**Reinstalling Windows with a USB is HIGHLY recommended to ensure disk bans are gone.**</mark>\
 \
-🌟 **Easiness**: <mark style="color:green;">**8/10 VERY EASY**</mark>** |**🕒 **15 Minutes Average Time.**\
+🌟 **Easiness**: <mark style="color:green;">**8/10 VERY EASY**</mark>**&#x20;|**&#xD83D;� **15 Minutes Average Time.**\
 \
-<mark style="color:yellow;">**Am I Disk Banned? Here’s How to Tell:**</mark> If numerous spoofers have failed and u've been banned multiple times on the same PC, it might be a disk ban. In such cases, we suggest reinstalling Windows with a USB like the instructions below. [<mark style="color:yellow;">**IF U DON'T HAVE A USB, READ THIS.**</mark>](https://verse-solutions.gitbook.io/verse-permanent/setup-instructions/windows-reinstall/normal-reinstallation#i-dont-have-a-usb-what-do-i-do-now-or-it-looks-too-hard-for-me)
+<mark style="color:yellow;">**Am I Disk Banned? Here’s How to Tell:**</mark> If numerous spoofers have failed and u've been banned multiple times on the same PC, it might be a disk ban. In such cases, we do suggest reinstalling Windows with a USB like the instructions below.
 {% endhint %}
 
 <details>
@@ -34,65 +34,41 @@ Believe in the process. It may seem challenging at first with all the images and
 3. Select **Create Installation media (USB Flash drive)**
 4. Use all the recommended options & continue & wait for it to finish.
 
-<div align="left" data-full-width="false">
-
-<figure><img src="../../.gitbook/assets/flashdrive.png" alt="" width="563"><figcaption></figcaption></figure>
-
-</div>
+<div align="left" data-full-width="false"><figure><img src="../../.gitbook/assets/flashdrive.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 ### <mark style="color:blue;background-color:blue;">**YOUR USB CONTENTS LOOK LIKE THIS NOW:**</mark>
 
 <figure><img src="../../.gitbook/assets/USB insides.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
-**NOTE:** When reinstalling Windows, most modern systems will automatically detect and install basic Ethernet drivers, so ur connection will work fine right after the installation. ✅\
+**NOTE:** When reinstalling Windows, most modern systems will automatically detect and install basic Ethernet drivers, so ur connection will work fine after the installation. ✅\
 \
-<mark style="color:red;background-color:red;">**However, in certain cases it might be needed to manually download and install network drivers:**</mark>\
+<mark style="background-color:red;">**In some cases, you may need to manually download and install network drivers.**</mark>\
 \
-Make sure to download your network drivers (LAN) from your corresponding motherboard model. So for example "Asus B550 Network drivers" on Google, and put them in the USB drive. You can skip this step since this is just a precaution, but there is a small risk of no connection after reinstallation.
+Make sure to download your network drivers (LAN) from your corresponding motherboard model. So for example "Asus B550 Network drivers" on Google, and put them in the USB drive. You can skip this step since this is just a precaution, but there is a small risk of no connection after Windows reinstallation.
 {% endhint %}
 
 ***
 
 5. Restart the computer, and **hold shift** at the same time.
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/+ HOLD SHIFT (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/+ HOLD SHIFT (1).png" alt=""><figcaption></figcaption></figure></div>
 
 5. Select **Use a device** and select the USB <mark style="background-color:blue;">**(Known as "Flash Drive")**</mark>
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/Untitled design (14).png" alt="" width="563"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/Untitled design (14).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 5. Select **Windows 10 Pro** <mark style="color:red;background-color:red;">**(IMPORTANT!)**</mark>
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>
 
 8. Select **"I don't have a product key"** (No worries about this)
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image.avif" alt="" width="525"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image.avif" alt="" width="525"><figcaption></figcaption></figure></div>
 
 9. **Select Custom:** Install Windows Only (advanced)
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure></div>
 
 10. Press **SHIFT + F10** (A CMD will pop up)
 11. Now write **`diskpart`** into the CMD 💬
@@ -107,36 +83,20 @@ Flash drives (USB) usually have a smaller size compared to internal hard drives 
 
 Now it should output: <mark style="color:green;">**'Succeeded in cleaning the disk'**</mark> or something related to <mark style="color:green;">**'success'**</mark>
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure></div>
 
 14. Close the CMD and click **Refresh**
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure></div>
 
 15. Select your **main drive** (Unallocated Space) and click **Next**
 16. The installation process should start, <mark style="color:red;background-color:red;">**AND MAKE AN OFFLINE ACCOUNT!**</mark>
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/Offline acc.webp" alt="" width="563"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/Offline acc.webp" alt="" width="563"><figcaption></figcaption></figure></div>
 
 17. Turn **OFF** All privacy questions/settings
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/Turnoff.png" alt="" width="563"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/Turnoff.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 ***
 
@@ -147,7 +107,7 @@ Now it should output: <mark style="color:green;">**'Succeeded in cleaning the di
 \
 2\. Do not log in to <mark style="color:blue;">OneDrive, Logitech G Hub,</mark> or <mark style="color:green;">Geforce Experience.</mark>\
 \
-3\. Install: [https://aka.ms/vs/17/release/vc\_redist.x64.exe ](https://aka.ms/vs/17/release/vc\_redist.x64.exe)to prevent errors.
+3\. Install: [https://aka.ms/vs/17/release/vc\_redist.x64.exe ](https://aka.ms/vs/17/release/vc_redist.x64.exe)to prevent errors.
 {% endhint %}
 
 ***

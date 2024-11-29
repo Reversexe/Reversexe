@@ -7,10 +7,10 @@ description: Instructions for BIOS flashing VALORANT ONLY.
 
 ### BIOS FLASH SHOULD BE DONE BEFORE REINSTALLING WINDOWS
 
-**MAKE SURE TO UNINSTALL **<mark style="color:red;">**VANGUARD**</mark>
+**MAKE SURE TO UNINSTALL&#x20;**<mark style="color:red;">**VANGUARD**</mark>
 
 {% hint style="warning" %}
-🌟 **Easiness**: <mark style="color:yellow;">**7/10 Doable, Not Hard**</mark>** |**🕒 **15 Minutes Average Time.**
+🌟 **Easiness**: <mark style="color:yellow;">**7/10 Doable, Not Hard**</mark>**&#x20;|**&#xD83D;� **15 Minutes Average Time.**
 {% endhint %}
 
 <details>
@@ -23,7 +23,7 @@ We suggest downgrading your motherboard to an earlier BIOS version. In our profe
 
 ***
 
-> **ASUS:** [**How To Flash BIos On Asus**](https://youtu.be/Em7SRaG3L\_0?si=pzdHZjNo\_Fu0bAI)
+> **ASUS:** [**How To Flash BIos On Asus**](https://youtu.be/Em7SRaG3L_0?si=pzdHZjNo_Fu0bAI)
 
 > **ASROCK:** [**How To Flash Bios On Asrock**](https://youtu.be/dUCWRqOdLUw?si=1kA5ER1vzcgV3Npg)
 
@@ -36,5 +36,5 @@ We suggest downgrading your motherboard to an earlier BIOS version. In our profe
 ***
 
 {% hint style="info" %}
-NOW CONTINUE WITH [normal-reinstallation.md](normal-reinstallation.md "mention") | [raid-reinstallation.md](raid-reinstallation.md "mention")⚙️
+Now continue with [normal-reinstallation.md](normal-reinstallation.md "mention") | [raid-reinstallation.md](raid-reinstallation.md "mention") ⚙️
 {% endhint %}

@@ -1,12 +1,12 @@
 ---
-description: Windows reinstallation instructions.
 icon: windows
+description: Windows reinstallation instructions.
 ---
 
 # Windows reinstall
 
 {% hint style="success" %}
-**INFO:** There are 2 reinstallation methods. Choose which one fits the best in your situation.\
+**INFO:** There are 2 reinstallation methods. Choose which one fits the best for you.\
 \
 _FOR <mark style="color:red;">**VALORANT**</mark>, MAKE SURE TO_ [_**FLASH YOUR BIOS**_](flashing-bios-valo.md) _BEFORE YOU REINSTALL WINDOWS!_ \
 &#xNAN;_<mark style="color:red;">**MAKE SURE VANGUARD IS UNINSTALLED.**</mark>**&#x20;****(FLASHING BIOS = ONLY FOR VALORANT)**_
