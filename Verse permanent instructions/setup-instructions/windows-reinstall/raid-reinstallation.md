@@ -13,7 +13,7 @@ description: RAID reinstallation instructions.
 ### THIS WAY OF REINSTALLING <mark style="color:green;">IS HIGHLY RECOMMENDED!</mark>
 
 {% hint style="warning" %}
-🌟 **Easiness**: <mark style="color:yellow;">**7/10 Doable, Not Hard**</mark>**&#x20;|**&#xD83D;� **15 Minutes Average Time.**
+🌟 **Easiness**: <mark style="color:yellow;">**7/10 Doable, Not Hard**</mark>**&#x20;|** **15 Minutes Average Time.** 🕒
 {% endhint %}
 
 <details>
@@ -22,7 +22,7 @@ description: RAID reinstallation instructions.
 
 The reason this reinstallation is recommended, especially for people with a lot of HWID bans on their PC, is because this reinstallation method changes your disk drive serials too. This is an important factor and almost **a 99% successful spoof at the end.**\
 \
-<mark style="color:red;background-color:red;">**Reminder: This guide is for AMD ONLY, unless u know what ur doing on Intel.**</mark> 💢&#x20;
+<mark style="color:red;background-color:red;">**Reminder: This guide is for AMD ONLY, unless u know what ur doing on Intel.**</mark> <mark style="background-color:red;">💢</mark>
 
 </details>
 
@@ -32,7 +32,7 @@ The reason this reinstallation is recommended, especially for people with a lot 
 
 {% embed url="https://www.microsoft.com/en-us/software-download/windows10" %}
 
-* Download Media Creation Tool above, click **"Download Now"**
+* Download the Media Creation Tool above, click **"Download Now"**
 * Open the **Media Creation Tool as an administrator**
 * Select **Create Installation media (USB Flash drive)**
 * Use all the recommended options & continue & wait for it to finish.
@@ -49,11 +49,11 @@ The reason this reinstallation is recommended, especially for people with a lot 
 <div align="left"><figure><img src="../../.gitbook/assets/result.png" alt=""><figcaption><p>                                                                                                          </p></figcaption></figure></div>
 
 {% hint style="danger" %}
-**NOTE:** When reinstalling Windows, most modern systems will automatically detect and install basic Ethernet drivers, so ur connection will work fine right after the installation. ✅\
+**NOTE:** When reinstalling Windows, most modern systems will automatically detect and install basic Ethernet drivers, so ur connection will work fine after the installation. ✅\
 \
-<mark style="color:red;background-color:red;">**However, in certain cases it might be needed to manually download and install network drivers:**</mark>\
+<mark style="background-color:red;">**In some cases, you may need to manually download and install network drivers.**</mark>\
 \
-Make sure to download your network drivers (LAN) from your corresponding motherboard model. So for example "Asus B550 Network drivers" on Google, and put them in the USB drive. You can skip this step since this is just a precaution, but there is a small risk of no connection after reinstallation.
+Make sure to download your network drivers (LAN) from your corresponding motherboard model. So for example "Asus B550 Network drivers" on Google, and put them in the USB drive. You can skip this step since this is just a precaution, but there is a small risk of no connection after Windows reinstallation. 🌐
 {% endhint %}
 
 ***
