@@ -7,7 +7,7 @@ description: Instructions for a new account.
 ### **READ OUR INFORMATION REGARDING NEW ACCOUNTS:**
 
 * <mark style="color:green;">**BE ON A NEW ACCOUNT FOR THE MAXIMUM SUCCESS RATE**</mark>
-* **FORTNITE TOURNAMENTS WORK **<mark style="color:yellow;">**30%**</mark>** BETTER ON A FRESH ACCOUNT (NOT BOUGHT)**
+* **FORTNITE TOURNAMENTS WORK&#x20;**<mark style="color:yellow;">**30%**</mark>**&#x20;BETTER ON A FRESH ACCOUNT (NOT BOUGHT)**
 
 <details>
 
@@ -20,9 +20,9 @@ It is advisable to open a new account to ensure security and protect your spoof.
 ***
 
 {% hint style="warning" %}
-**Important Notice:** You can log in to your Epic Games account, even if you’ve been kicked or banned, to play games like ARK or GTA V, Fivem, without additional risk, and then switch back.\
+**Important Notice:** You can log in to your Epic Games account, even if you’ve been kicked or banned, to play games like ARK or GTA V, Fivem, without additional risk, and then switch back. (We don't recommend playing Fortnite on an old account)\
 \
-For **RUST**, <mark style="color:red;">**logging back into a Steam account from which you were banned is not recommended**</mark>. Doing so may result in additional server bans for "ban evasion", which is a pain in the ass.
+For **RUST**, <mark style="color:red;">**logging back into a Steam account from which you were banned is not recommended**</mark>. Doing so may result in additional server bans for "ban evasion".
 {% endhint %}
 
 ***
