@@ -12,7 +12,7 @@ description: Instructions for Asus EFI Spoof for Valorant.
 2. Select **A/D/E/F** in the loader, and run it! <mark style="background-color:red;">**No files will be shown on the drive. That's fine!**</mark>
 
 {% hint style="info" %}
-**Select the drive letter of the partition. Not all four**, but the letter of the partition.
+**Select the drive letter of the partition, n**ot all four, just one which is the letter of the partition.
 {% endhint %}
 
 3. Now set up **A/D/E/F** Partition as **Boot Priority #1** and **Windows Boot Manager as #2.**
