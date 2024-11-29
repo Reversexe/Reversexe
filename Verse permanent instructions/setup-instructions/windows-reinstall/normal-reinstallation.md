@@ -6,11 +6,11 @@ description: Normal reinstallation instructions.
 # Normal reinstallation
 
 {% hint style="warning" %}
-<mark style="background-color:orange;">**Reinstalling Windows with a USB is HIGHLY recommended to ensure disk bans are gone.**</mark>\
+<mark style="background-color:orange;">**Reinstalling Windows with a USB is HIGHLY recommended to remove disk bans.**</mark>\
 \
 🌟 **Easiness**: <mark style="color:green;">**8/10 VERY EASY**</mark>**&#x20;|**&#xD83D;� **15 Minutes Average Time.**\
 \
-<mark style="color:yellow;">**Am I Disk Banned? Here’s How to Tell:**</mark> If numerous spoofers have failed and u've been banned multiple times on the same PC, it might be a disk ban. In such cases, we do suggest reinstalling Windows with a USB like the instructions below.
+**Am I Disk Banned? Here’s how to tell:** If numerous spoofers have failed and u've been banned multiple times on the same PC, it might be a disk ban. In such cases, we do suggest reinstalling Windows with a USB like the instructions below.
 {% endhint %}
 
 <details>
@@ -76,9 +76,10 @@ Make sure to download your network drivers (LAN) from your corresponding motherb
 13. Write **`select disk 'X'`** (X = Disk number) then write **`clean`** for ALL disks, besides ur USB.
 
 {% hint style="danger" %}
-**For example,** most people have one disk. Then write '**select disk 1**' and then '**clean**'. In case u have two drives, ur gonna 'select disk 2' as well, and write 'clean' and so forth for all disks. ✅\
+**For example,** most people have one disk. Then write '**select disk 1**' and then '**clean**'. In case u have two drives, ur gonna 'select disk 2', and write 'clean' and so forth. ✅\
 \
-Flash drives (USB) usually have a smaller size compared to internal hard drives or SSDs, and are likely the last drive listed! **DO NOT CLEAN YOUR FLASH DRIVE (USB)!** <mark style="color:red;background-color:red;">**Still Unsure? Please contact us.**</mark>
+Flash drives (USB) usually have a smaller size compared to internal hard drives or SSDs, and are likely the last drive listed! **DO NOT CLEAN YOUR FLASH DRIVE (USB)!** \
+<mark style="color:red;background-color:red;">**Still Unsure? Please contact us.**</mark>
 {% endhint %}
 
 Now it should output: <mark style="color:green;">**'Succeeded in cleaning the disk'**</mark> or something related to <mark style="color:green;">**'success'**</mark>
