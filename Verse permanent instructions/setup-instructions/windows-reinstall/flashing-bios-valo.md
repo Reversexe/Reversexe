@@ -10,7 +10,7 @@ description: Instructions for BIOS flashing VALORANT ONLY.
 **MAKE SURE TO UNINSTALL&#x20;**<mark style="color:red;">**VANGUARD**</mark>
 
 {% hint style="warning" %}
-🌟 **Easiness**: <mark style="color:yellow;">**7/10 Doable, Not Hard**</mark>**&#x20;|**&#xD83D;� **15 Minutes Average Time.**
+🌟 **Easiness**: <mark style="color:yellow;">**7/10 Doable, Not Hard**</mark>**&#x20;|** **15 Minutes Average Time.** 🕒
 {% endhint %}
 
 <details>

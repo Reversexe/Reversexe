@@ -8,9 +8,9 @@ description: Normal reinstallation instructions.
 {% hint style="warning" %}
 <mark style="background-color:orange;">**Reinstalling Windows with a USB is HIGHLY recommended to remove disk bans.**</mark>\
 \
-🌟 **Easiness**: <mark style="color:green;">**8/10 VERY EASY**</mark>**&#x20;|**&#xD83D;� **15 Minutes Average Time.**\
+🌟 **Easiness**: <mark style="color:green;">**8/10 VERY EASY**</mark>**&#x20;|** **15 Minutes Average Time.** 🕒\
 \
-**Am I Disk Banned? Here’s how to tell:** If numerous spoofers have failed and u've been banned multiple times on the same PC, it might be a disk ban. In such cases, we do suggest reinstalling Windows with a USB like the instructions below.
+<mark style="color:yellow;">**Am I Disk Banned? Here’s how to tell:**</mark> If numerous spoofers have failed and u've been banned multiple times on the same PC, it might be a disk ban. In such cases, we do suggest reinstalling Windows with a USB like the instructions below.
 {% endhint %}
 
 <details>
@@ -45,7 +45,7 @@ Believe in the process. It may seem challenging at first with all the images and
 \
 <mark style="background-color:red;">**In some cases, you may need to manually download and install network drivers.**</mark>\
 \
-Make sure to download your network drivers (LAN) from your corresponding motherboard model. So for example "Asus B550 Network drivers" on Google, and put them in the USB drive. You can skip this step since this is just a precaution, but there is a small risk of no connection after Windows reinstallation.
+Make sure to download your network drivers (LAN) from your corresponding motherboard model. So for example "Asus B550 Network drivers" on Google, and put them in the USB drive. You can skip this step since this is just a precaution, but there is a small risk of no connection after Windows reinstallation. 🌐
 {% endhint %}
 
 ***
@@ -79,7 +79,8 @@ Make sure to download your network drivers (LAN) from your corresponding motherb
 **For example,** most people have one disk. Then write '**select disk 1**' and then '**clean**'. In case u have two drives, ur gonna 'select disk 2', and write 'clean' and so forth. ✅\
 \
 Flash drives (USB) usually have a smaller size compared to internal hard drives or SSDs, and are likely the last drive listed! **DO NOT CLEAN YOUR FLASH DRIVE (USB)!** \
-<mark style="color:red;background-color:red;">**Still Unsure? Please contact us.**</mark>
+\
+<mark style="color:red;background-color:red;">**Still Unsure? Please contact us to solve it together.**</mark> <mark style="background-color:red;">🤝</mark>
 {% endhint %}
 
 Now it should output: <mark style="color:green;">**'Succeeded in cleaning the disk'**</mark> or something related to <mark style="color:green;">**'success'**</mark>
