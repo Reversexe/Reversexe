@@ -10,7 +10,7 @@ description: Instructions for the Asus permanent spoof.
 <mark style="color:red;background-color:red;">**ASUS EFI SPOOF INSTRUCTIONS:**</mark>\
 **MAKE SURE TO RUN 'PERMANENT SPOOF' FIRST.**\
 \
-When u click on **'Asus Spoof'** ur redirected to another page with **'Asus EFI Spoof'. Make sure to run 'Permanent Spoof' first**, continue with the ENTIRE video, and at the end, close the video, do the network unflagging video down below, and then [**\[CONTINUE TO ASUS EFI SPOOF INSTRUCTIONS\].**](asus-efi-spoof.md)
+When u click on **'Asus Spoof'** ur redirected to another page with **'Asus EFI Spoof'. Make sure to run 'Permanent Spoof' first**, continue with the ENTIRE video, and at the end, close the video, do the network unflagging video down below, and then after ALL steps, [**\[CONTINUE TO ASUS EFI SPOOF INSTRUCTIONS\].**](asus-efi-spoof.md)
 {% endhint %}
 
 ### <mark style="color:red;background-color:red;">**MAKE SURE TO REMOVE ANY 'USB' ON YOUR PC CONNECTED!**</mark>
@@ -18,7 +18,7 @@ When u click on **'Asus Spoof'** ur redirected to another page with **'Asus EFI 
 * <mark style="background-color:blue;">**Watch:**</mark> [**VERSE TUTORIAL VIDEO HERE**](https://bit.ly/instructions-video)
 * _**A like, subscribe, & comment would be..**_ _<mark style="color:yellow;">**verse-tacular!**</mark> ❤️_
 
-### <mark style="color:purple;">**WATCH THIS VIDEO AFTER:**</mark>** (NETWORK UNFLAGGING)**
+### <mark style="color:purple;">**WATCH THIS VIDEO AFTER:**</mark>**&#x20;(NETWORK UNFLAGGING)**
 
 {% embed url="https://streamable.com/k3mll0" %}
 
@@ -46,7 +46,7 @@ _CHECK THE MAC-CHECKER, IF ALL MACS CHANGED._
 
 {% hint style="success" %}
 **TIP: Mac-address not changed?** Use our "WIFI MAC SPOOFER" in the **miscellaneous** tab.\
-<mark style="color:red;background-color:red;">Still not changed?</mark> **`1.`** [Disable in BIOS](https://verse-solutions.gitbook.io/verse-permanent/setup-instructions/bios-configurations#turn-off-wifi-and-bluetooth-required) **`2.`** **Or follow this video:** [https://streamable.com/p2xfby](https://streamable.com/p2xfby)
+<mark style="color:red;background-color:red;">Still not changed?</mark> **`1.`** [Disable in BIOS](https://verse-solutions.gitbook.io/verse-permanent/setup-instructions/bios-configurations#turn-off-wifi-and-bluetooth-required) **`2.`** **Or follow:** [https://streamable.com/p2xfby](https://streamable.com/p2xfby)
 {% endhint %}
 
 {% content-ref url="asus-efi-spoof.md" %}

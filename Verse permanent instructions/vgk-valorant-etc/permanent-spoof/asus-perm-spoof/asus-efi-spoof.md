@@ -12,7 +12,7 @@ description: Instructions for Asus EFI Spoof for Valorant.
 2. Select **A/D/E/F** in Verse Loader, and run it! <mark style="background-color:red;">**No Files will be shown inside the drive. That's fine!**</mark>
 
 {% hint style="info" %}
-**Please select the drive letter assigned to the partition.** So not all four, but the letter of the partition.
+**Select the drive letter of the partition,** not all four, just the letter of the partition.
 {% endhint %}
 
 4. Open <mark style="color:blue;">**Powershell**</mark> as admin, write `[Guid]::newGuid()`and see the results.
@@ -22,11 +22,7 @@ description: Instructions for Asus EFI Spoof for Valorant.
    Secure boot mode can be found under "**Boot configuration"** <mark style="background-color:red;">**(Don't have it? That's fine!)**</mark>
 8. Ensure all Default keys are installed. If it shows **"0"** at all, click **"Install Default Keys".**
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/savv.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/savv.png" alt=""><figcaption></figcaption></figure></div>
 
 ***
 
@@ -53,10 +49,10 @@ description: Instructions for Asus EFI Spoof for Valorant.
 13. Click save and exit bios again, we are done now. **You will boot EFI spoofed.**
 
 {% hint style="warning" %}
-**Note: This process is important for Asus users.** You would **ALWAYS** have to boot Windows from the A/D/E/F Partition. You cannot play Valorant without it. Sadly, there is no other way for this, other than buying a new non-Asus motherboard. **(TIP: Never buy Asus again. It's dogshit for spoofing**!)
+**Note: This process is important for Asus users.** You would **ALWAYS** have to boot Windows from the A/D/E/F Partition. You cannot play Valorant without it. Sadly, there is no other way for this, other than buying a new non-Asus motherboard.
 {% endhint %}
 
-### <mark style="color:red;background-color:red;">ONCE ON WINDOWS, DO THIS LAST VERY IMPORTANT STEP!!</mark> 💢💢
+### <mark style="color:red;background-color:red;">ONCE ON WINDOWS, DO THIS LAST VERY IMPORTANT STEP!!</mark> <mark style="background-color:red;">💢💢</mark>
 
 Download the **'cleanup.exe'** file, and run it as admin **(CMD will pop up for one second, that's it.)**
 
