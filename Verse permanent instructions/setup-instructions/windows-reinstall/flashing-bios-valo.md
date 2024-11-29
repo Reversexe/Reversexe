@@ -15,7 +15,7 @@ description: Instructions for BIOS flashing VALORANT ONLY.
 
 <details>
 
-<summary><strong>BIOS VERSION SUGGESTION:</strong></summary>
+<summary><strong>BIOS VERSION SUGGESTION:</strong> 🔄</summary>
 
 We suggest downgrading your motherboard to an earlier BIOS version. In our professional experience, this process is safe, and we've seen better spoofing success rates using the previous version before the version your motherboard has right now.
 

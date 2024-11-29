@@ -9,7 +9,7 @@ description: Instructions for the standard permanent spoof.
 {% hint style="warning" %}
 This process of '**unlocking**' the motherboard has to be done **ONCE**. You do not have to redo it anymore. Your motherboard will be permanently unlocked to be able to spoof.\
 \
-🌟 **Easiness**: <mark style="color:green;">**8/10 VERY EASY**</mark>**&#x20;|** 5 **Minutes Average Time.** 🕒
+🌟 **Easiness**: <mark style="color:green;">**8/10 VERY EASY**</mark>**&#x20;|** **5 Minutes Average Time.** 🕒
 {% endhint %}
 
 1. Plug in a USB to ur computer (Must be 32GB or less, not more)
