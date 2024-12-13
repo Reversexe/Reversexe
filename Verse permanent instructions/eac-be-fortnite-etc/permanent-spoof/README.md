@@ -23,6 +23,10 @@ description: Permanent spoof instructions.
 [normal-permanent-spoof.md](normal-permanent-spoof.md)
 {% endcontent-ref %}
 
+{% hint style="warning" %}
+T**he chassis's serial `"Default string"` is fine and will remain red.**
+{% endhint %}
+
 {% content-ref url="asus-perm-spoof/" %}
 [asus-perm-spoof](asus-perm-spoof/)
 {% endcontent-ref %}
