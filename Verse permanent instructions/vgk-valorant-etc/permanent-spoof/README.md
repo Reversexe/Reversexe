@@ -23,6 +23,10 @@ description: Permanently spoof your computer
 [normal-permanent-spoof.md](normal-permanent-spoof.md)
 {% endcontent-ref %}
 
+{% hint style="warning" %}
+**The chassis's serial&#x20;**<mark style="background-color:blue;">**< Default string >**</mark>**&#x20;is fine and will remain red.**
+{% endhint %}
+
 {% content-ref url="asus-perm-spoof/" %}
 [asus-perm-spoof](asus-perm-spoof/)
 {% endcontent-ref %}
