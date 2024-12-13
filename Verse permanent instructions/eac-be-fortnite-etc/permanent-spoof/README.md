@@ -24,7 +24,7 @@ description: Permanent spoof instructions.
 {% endcontent-ref %}
 
 {% hint style="warning" %}
-T**he chassis's serial `"Default string"` is fine and will remain red.**
+**The chassis's serial&#x20;**<mark style="background-color:blue;">**"Default string"**</mark>**&#x20;is fine and will remain red.**
 {% endhint %}
 
 {% content-ref url="asus-perm-spoof/" %}
