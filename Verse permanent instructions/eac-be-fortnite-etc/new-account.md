@@ -1,8 +1,9 @@
 ---
 description: Instructions for a new account.
+icon: square-user
 ---
 
-# 🫂 New Account
+# New Account
 
 ### **READ OUR INFORMATION REGARDING NEW ACCOUNTS:**
 
