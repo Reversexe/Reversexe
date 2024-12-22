@@ -20,7 +20,7 @@
   * [Asus Perm Spoof](eac-be-fortnite-etc/permanent-spoof/asus-perm-spoof/README.md)
     * [Asus EFI Spoof](eac-be-fortnite-etc/permanent-spoof/asus-perm-spoof/asus-efi-spoof.md)
   * [HP Permanent Spoof](eac-be-fortnite-etc/permanent-spoof/hp-permanent-spoof.md)
-* [New Account](eac-be-fortnite-etc/new-account.md)
+* [🎭 New Account](eac-be-fortnite-etc/new-account.md)
 * [🌐 Usage of VPN](eac-be-fortnite-etc/usage-of-vpn.md)
 * [🏆 FN Tournaments](eac-be-fortnite-etc/fn-tournaments.md)
 * [🎉 The Ending of Verse!](eac-be-fortnite-etc/the-ending-of-verse.md)
@@ -32,7 +32,7 @@
   * [Asus Perm Spoof](vgk-valorant-etc/permanent-spoof/asus-perm-spoof/README.md)
     * [Asus EFI Spoof](vgk-valorant-etc/permanent-spoof/asus-perm-spoof/asus-efi-spoof.md)
   * [HP Permanent Spoof](vgk-valorant-etc/permanent-spoof/hp-permanent-spoof.md)
-* [New Account](vgk-valorant-etc/new-account.md)
+* [🎭 New Account](vgk-valorant-etc/new-account.md)
 * [🔐 TPM CHIP](vgk-valorant-etc/tpm-chip.md)
 * [🎉 The Ending!](vgk-valorant-etc/the-ending.md)
 
@@ -43,7 +43,7 @@
   * [Asus Perm Spoof](ricochet-cod-etc/permanent-spoof/asus-perm-spoof/README.md)
     * [Asus EFI Spoof](ricochet-cod-etc/permanent-spoof/asus-perm-spoof/asus-efi-spoof.md)
   * [HP Permanent Spoof](ricochet-cod-etc/permanent-spoof/hp-permanent-spoof.md)
-* [New Account](ricochet-cod-etc/new-account.md)
+* [🎭 New Account](ricochet-cod-etc/new-account.md)
 * [🎉 The Ending of Verse!](ricochet-cod-etc/the-ending-of-verse.md)
 
 ## ⚒️ FIXES/ISSUES
