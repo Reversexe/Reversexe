@@ -7,7 +7,7 @@ description: Instructions for TPM
 {% hint style="success" %}
 **TPM \[Trusted Computing Module]** 🔐\
 \
-<mark style="color:red;">**Vanguard Anti-cheat**</mark> abuses the TPM chip. We **do not** have a fix for this at the moment.\
+<mark style="color:red;">**Vanguard Anti-cheat**</mark> abuses the TPM chip. We **do not** have a fix for this at the moment. We're working on it, **there is no ETA.**\
 \
 <mark style="background-color:purple;">**#3 TPM BYPASS IS RECOMMENDED.**</mark>
 {% endhint %}
