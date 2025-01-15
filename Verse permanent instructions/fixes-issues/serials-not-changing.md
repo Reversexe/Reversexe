@@ -1,13 +1,21 @@
 ---
-description: How to Fix serials not changing.
 icon: wrench
+description: How to Fix serials not changing.
 ---
 
 # Serials not changing
 
+### <mark style="background-color:blue;">FIRST TRY THIS:</mark>
+
+* Download Verse Helper.exe, run it as admin and select fallback value one. **Now re-woof.**
+
+{% hint style="warning" %}
+**NOTE:** If this approach fails, please return the fallback value to zero. ✅
+{% endhint %}
+
 ### ON <mark style="color:blue;">ASUS:</mark>
 
-* Run Permanent spoof, and after that Asus spoof.
+* Run Permanent spoof, and after that Asus EFI/Backup.
 * Make sure all Anti-Virus is disabled, also after PC restart.
 * Make sure no services such as task schedular are disabled.
 * Don't be on custom windows, that can cause a lot of issues.
