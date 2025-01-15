@@ -7,7 +7,7 @@ description: How to Fix serials not changing.
 
 ### <mark style="background-color:blue;">FIRST TRY THIS:</mark>
 
-* Download Verse Helper.exe, run it as admin and select fallback value one. **Now re-woof.**
+* **Download:** [Verse Helper.exe,](https://mega.nz/file/aARgSIBT#22yahzKkhXXx80ODG4y6L2b680MoGmy89DwfuZ6eBWA) run it as admin, and select fallback value one. **Now re-woof.**
 
 {% hint style="warning" %}
 **NOTE:** If this approach fails, please return the fallback value to zero. ✅
@@ -26,3 +26,5 @@ description: How to Fix serials not changing.
 * Make sure all Anti-Virus is disabled, also after PC restart.
 * Don't be on custom windows, that can cause a lot of issues.
 * Your Motherboard is not supported for this version (open ticket)
+
+***

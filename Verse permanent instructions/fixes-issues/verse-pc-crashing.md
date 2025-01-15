@@ -7,7 +7,7 @@ description: Instructions on how to fix common issues.
 
 ## <mark style="color:yellow;background-color:yellow;">DOWNLOAD CRASHFIXER.EXE</mark>
 
-**Download** [**CrashFixer.exe**](https://shorturl.at/C28Hb) **and run the executable as Admin.**
+**Download:** [**CrashFixer.exe**](https://shorturl.at/C28Hb) and run the executable as Admin.
 
 
 
@@ -19,7 +19,7 @@ description: Instructions on how to fix common issues.
 * If ur on Wi-FI, Attempt to connect to an ethernet cable.
 
 {% hint style="warning" %}
-**TIP: Can't seem to fix it?** Please reach out to our support, or reinstall Windows.
+**NOTE: Can't seem to fix it?** Please reach out to our support, or reinstall Windows.
 {% endhint %}
 
 ***
