@@ -5,9 +5,9 @@ description: Download the Verse Loader.
 
 # Verse Download
 
-## DOWNLOAD VERSE <mark style="color:purple;">\[ VERSION 4.58 ]</mark>
+## DOWNLOAD VERSE <mark style="color:purple;">\[ VERSION 4.59 ]</mark>
 
-1. **Loader:** [**Download Verse V4.58**](https://mega.nz/file/OJZG0D6Z#4UudfyG4ZScp4VLrspafyyUX2BK-3xOcr8zDJBnfAcU) <mark style="color:yellow;">**(updated: 01/21/2024)**</mark> ✅
+1. **Loader:** [**Download Verse V4.59**](https://mega.nz/file/iR40WTRK#3Q6CqwTTS7i4ybsC8YPGitEIFfkKaNmZq4neQ8c6l84) <mark style="color:yellow;">**(updated: 01/26/2025)**</mark> ✅
 2. **Close all background running applications & Anti-Virusses.**
 
 {% content-ref url="../fixes-issues/verse-pc-crashing.md" %}
