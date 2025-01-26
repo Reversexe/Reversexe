@@ -1,6 +1,6 @@
 ---
 icon: circle-small
-description: Instructions for Asus EFI Spoof for Valorant.
+description: Instructions for Asus EFI Spoof for Fortnite.
 ---
 
 # Asus EFI Spoof
