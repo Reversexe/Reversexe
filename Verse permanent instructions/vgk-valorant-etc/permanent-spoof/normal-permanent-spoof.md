@@ -44,6 +44,6 @@ _CHECK THE MAC-CHECKER, IF ALL MACS CHANGED._
 
 ***
 
-{% content-ref url="../../fixes-issues/serials-not-changing.md" %}
-[serials-not-changing.md](../../fixes-issues/serials-not-changing.md)
+{% content-ref url="../../troubleshooting/serials-not-changing.md" %}
+[serials-not-changing.md](../../troubleshooting/serials-not-changing.md)
 {% endcontent-ref %}

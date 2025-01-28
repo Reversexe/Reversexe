@@ -17,7 +17,7 @@ description: Instructions for Asus EFI Spoof for Valorant.
 3. Now set up **(A/D/E/F)** Partition as **Boot priority #1** and **Windows Boot Manager as #2.**
 
 <mark style="background-color:red;">**The Partition should be called "UEFI OS" / "UEFI Partition 1". (UEFI ALWAYS)**</mark>\
-_**HOW TO **<mark style="color:green;">**EASILY**</mark>** BOOT INTO BIOS**:_ [_https://youtu.be/mb9X9\_NNxuo?si_](https://youtu.be/mb9X9\_NNxuo?si=reDxO\_Dcnu5e8aFJ) _| **Select Advanced Mode**_
+&#xNAN;_**HOW TO&#x20;**<mark style="color:green;">**EASILY**</mark>**&#x20;BOOT INTO BIOS**:_ [_https://youtu.be/mb9X9\_NNxuo?si_](https://youtu.be/mb9X9_NNxuo?si=reDxO_Dcnu5e8aFJ) _| **Select Advanced Mode**_
 
 <figure><img src="../../../.gitbook/assets/Boot order.jpg" alt=""><figcaption></figcaption></figure>
 

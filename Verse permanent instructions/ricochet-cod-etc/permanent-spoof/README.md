@@ -1,9 +1,9 @@
 ---
-description: Permanently spoof your computer
 icon: fingerprint
+description: Permanently spoof your computer
 ---
 
-# Permanent Spoof
+# 💻 Permanent Spoof
 
 ### <mark style="color:green;">NORMAL</mark> SPOOFING, <mark style="color:blue;">ASUS</mark> SPOOFING & <mark style="color:yellow;">HP</mark> SPOOFING GUIDE:
 
@@ -37,6 +37,6 @@ _<mark style="color:blue;">**ASUS:**</mark>_ _It needs a special spoofing mechan
 _**NOTE:**_ _Ethernet is required for COD. You cannot use WIFI and spoof for COD series._
 {% endhint %}
 
-{% content-ref url="../../fixes-issues/serials-not-changing.md" %}
-[serials-not-changing.md](../../fixes-issues/serials-not-changing.md)
+{% content-ref url="../../troubleshooting/serials-not-changing.md" %}
+[serials-not-changing.md](../../troubleshooting/serials-not-changing.md)
 {% endcontent-ref %}

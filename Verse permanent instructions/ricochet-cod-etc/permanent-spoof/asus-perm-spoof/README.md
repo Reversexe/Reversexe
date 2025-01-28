@@ -24,7 +24,7 @@ When u click on **'Asus Spoof'** ur redirected to another page with **'Asus EFI 
 * <mark style="background-color:blue;">**Watch:**</mark> [**VERSE TUTORIAL VIDEO HERE**](https://bit.ly/instructions-video)
 * _**A like, subscribe, & comment would be..**_ _<mark style="color:yellow;">**verse-tacular!**</mark> ❤️_
 
-### <mark style="color:purple;">**WATCH THIS VIDEO AFTER:**</mark>** (NETWORK UNFLAGGING)**
+### <mark style="color:purple;">**WATCH THIS VIDEO AFTER:**</mark>**&#x20;(NETWORK UNFLAGGING)**
 
 {% embed url="https://streamable.com/k3mll0" %}
 
@@ -38,7 +38,7 @@ _SEND US YOUR OLD SERIALS BY A SCREENSHOT OF THE 'DEVICE' TAB WITHIN VERSE_
 {% endtab %}
 
 {% tab title="SERIALS CHANGED?" %}
-C_HECK IF **ALL** SERIALS CHANGED, NO EXCEPTIONS._
+&#x43;_&#x48;ECK IF **ALL** SERIALS CHANGED, NO EXCEPTIONS._
 {% endtab %}
 
 {% tab title="MAC SPOOF?" %}
@@ -56,6 +56,6 @@ _**NOTE:**_ _**Ethernet** is required for COD. You **cannot** use WIFI and spoof
 
 ***
 
-{% content-ref url="../../../fixes-issues/serials-not-changing.md" %}
-[serials-not-changing.md](../../../fixes-issues/serials-not-changing.md)
+{% content-ref url="../../../troubleshooting/serials-not-changing.md" %}
+[serials-not-changing.md](../../../troubleshooting/serials-not-changing.md)
 {% endcontent-ref %}

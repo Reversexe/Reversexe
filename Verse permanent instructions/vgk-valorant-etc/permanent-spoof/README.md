@@ -3,7 +3,7 @@ icon: fingerprint
 description: Permanently spoof your computer
 ---
 
-# Permanent Spoof
+# 💻 Permanent Spoof
 
 ### <mark style="color:green;">NORMAL</mark> SPOOFING, <mark style="color:blue;">ASUS</mark> SPOOFING & <mark style="color:yellow;">HP</mark> SPOOFING GUIDE:
 
@@ -42,6 +42,6 @@ description: Permanently spoof your computer
 <mark style="color:red;background-color:red;">Still not changed?</mark> **`1.`** [Disable in BIOS](https://verse-solutions.gitbook.io/verse-permanent/setup-instructions/bios-configurations#turn-off-wifi-and-bluetooth-required) **`2.`** **Or follow:** [https://streamable.com/p2xfby](https://streamable.com/p2xfby)
 {% endhint %}
 
-{% content-ref url="../../fixes-issues/serials-not-changing.md" %}
-[serials-not-changing.md](../../fixes-issues/serials-not-changing.md)
+{% content-ref url="../../troubleshooting/serials-not-changing.md" %}
+[serials-not-changing.md](../../troubleshooting/serials-not-changing.md)
 {% endcontent-ref %}

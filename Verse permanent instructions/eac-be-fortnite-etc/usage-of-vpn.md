@@ -4,13 +4,13 @@ description: Instructions for VPN usage.
 
 # 🌐 Usage of VPN
 
-**USE A VPN FOR ONE WEEK ON EAC/BE **<mark style="color:red;">**\[**</mark>** **<mark style="color:red;background-color:red;">**REQUIRED**</mark>** **<mark style="color:red;">**]**</mark>
+**USE A VPN FOR ONE WEEK ON EAC/BE&#x20;**<mark style="color:red;">**\[**</mark>**&#x20;**<mark style="color:red;background-color:red;">**REQUIRED**</mark>**&#x20;**<mark style="color:red;">**]**</mark>
 
 > <mark style="color:blue;">**WINDSCRIBE - 0 Packet loss &**</mark> [<mark style="color:blue;">**Free 10GB Trial**</mark>](https://windscribe.com/features/use-for-free/)
 
 > <mark style="color:green;">**IPVANISH - Most locations & Free with Verse VIP**</mark>
 
-> [<mark style="color:purple;">**Mysteriumdark**</mark>](https://www.mysteriumdark.com/) <mark style="color:purple;">**-**</mark> <mark style="color:purple;">**Known to work on Rust.**</mark>** (RESIDENTIAL IP **<mark style="color:red;">**ONLY**</mark>** FOR RUST)**
+> [<mark style="color:purple;">**Mysteriumdark**</mark>](https://www.mysteriumdark.com/) <mark style="color:purple;">**-**</mark> <mark style="color:purple;">**Known to work on Rust.**</mark>**&#x20;(RESIDENTIAL IP&#x20;**<mark style="color:red;">**ONLY**</mark>**&#x20;FOR RUST)**
 
 <details>
 
@@ -28,11 +28,7 @@ Using a VPN is essential for Verse to ensure you don't risk a network ban, as we
 
 Also, make sure to have the Firewall on "Automatic" and <mark style="color:green;">**enabled.**</mark>
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/Windscribes-Protocol-options.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/Windscribes-Protocol-options.png" alt=""><figcaption></figcaption></figure></div>
 
 ***
 
@@ -41,7 +37,7 @@ Also, make sure to have the Firewall on "Automatic" and <mark style="color:green
 * **〖🎭〗eccounts:** [**CLICK ME TO BUY A VERY CHEAP VPN**<mark style="color:blue;">**!**</mark> ](https://discord.com/channels/1267985769394339920/1267986898761154601)**(Discord link)**
 
 {% hint style="danger" %}
-**TIP: **<mark style="color:red;">**DO NOT USE NORDVPN/PROTONVPN.**</mark>** THESE WILL NOT WORK.** \
+**TIP:&#x20;**<mark style="color:red;">**DO NOT USE NORDVPN/PROTONVPN.**</mark>**&#x20;THESE WILL NOT WORK.** \
 **YOU NEED A VPN WITH "DOUBLE-HOP" ENCRYPTION. (THE ONES WE LISTED/SELL**_**)**_
 {% endhint %}
 

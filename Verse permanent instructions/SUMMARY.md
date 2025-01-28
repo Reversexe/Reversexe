@@ -46,8 +46,8 @@
 * [🎭 New Account](ricochet-cod-etc/new-account.md)
 * [🎉 The Ending of Verse!](ricochet-cod-etc/the-ending-of-verse.md)
 
-## ⚒️ FIXES/ISSUES
+## TROUBLESHOOTING
 
-* [VERSE/PC Crashing](fixes-issues/verse-pc-crashing.md)
-* [Cloudflare.Inc Hijack](fixes-issues/cloudflare.inc-hijack.md)
-* [Serials not changing](fixes-issues/serials-not-changing.md)
+* [VERSE/PC Crashing](troubleshooting/verse-pc-crashing.md)
+* [Cloudflare.Inc Hijack](troubleshooting/cloudflare.inc-hijack.md)
+* [Serials not changing](troubleshooting/serials-not-changing.md)

@@ -18,11 +18,7 @@ This process of '**unlocking**' the motherboard has to be done **ONCE**. You do 
 4. Select USB Letter in the Loader, and run '**HP** **Unlock**'! <mark style="background-color:red;">**No Files will be shown inside ur USB!!**</mark>
 5. After success, Hold **SHIFT**, click **Restart, and keep holding SHIFT!**
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image.webp" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image.webp" alt=""><figcaption></figcaption></figure></div>
 
 7. Select '**Use a device'** and select the USB _<mark style="background-color:blue;">(Known as "Flash Drive")</mark>_
 
@@ -30,19 +26,11 @@ This process of '**unlocking**' the motherboard has to be done **ONCE**. You do 
 
 8. Just **WAIT** now, and u will see something that **looks like this picture below:**
 
-<div align="left">
+<div align="left"><figure><img src="../../.gitbook/assets/startup.png" alt=""><figcaption></figcaption></figure></div>
 
-<figure><img src="../../.gitbook/assets/startup.png" alt=""><figcaption></figcaption></figure>
+9. Now, after this **WAIT**, it will ask "**Manufacturer mode to unlock mode":&#x20;**<mark style="color:green;background-color:green;">**CLICK YES!**</mark>
 
-</div>
-
-9. Now, after this **WAIT**, it will ask "**Manufacturer mode to unlock mode": **<mark style="color:green;background-color:green;">**CLICK YES!**</mark>
-
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/YES.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/YES.png" alt=""><figcaption></figcaption></figure></div>
 
 10. Now it will boot into Windows again, and the USB can be removed.\
     <mark style="background-color:yellow;">**Incase Windows does not boot, please remove the USB, and wait.**</mark>
@@ -60,7 +48,7 @@ This process of '**unlocking**' the motherboard has to be done **ONCE**. You do 
 * <mark style="background-color:blue;">**Watch:**</mark> [**VERSE TUTORIAL VIDEO HERE**](https://bit.ly/instructions-video)
 * _**A like, subscribe, & comment would be..**_ _<mark style="color:yellow;">**verse-tacular!**</mark> ❤️_
 
-### <mark style="color:purple;">**WATCH THIS VIDEO AFTER:**</mark>** (NETWORK UNFLAGGING)**
+### <mark style="color:purple;">**WATCH THIS VIDEO AFTER:**</mark>**&#x20;(NETWORK UNFLAGGING)**
 
 {% embed url="https://streamable.com/k3mll0" %}
 
@@ -92,6 +80,6 @@ _**NOTE:**_ _**Ethernet** is required for COD. You **cannot** use WIFI and spoof
 
 ***
 
-{% content-ref url="../../fixes-issues/serials-not-changing.md" %}
-[serials-not-changing.md](../../fixes-issues/serials-not-changing.md)
+{% content-ref url="../../troubleshooting/serials-not-changing.md" %}
+[serials-not-changing.md](../../troubleshooting/serials-not-changing.md)
 {% endcontent-ref %}
