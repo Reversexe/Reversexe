@@ -2,7 +2,7 @@
 
 ## WELCOME
 
-* [👋 Welcome to Verse](README.md)
+* [👋 NEW INSTRUCTIONS](README.md)
 
 ## SETUP INSTRUCTIONS
 
