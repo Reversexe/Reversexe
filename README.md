@@ -2,8 +2,7 @@
 - 👀 I’m interested in Windows User mode & Kernel!
 - 🌱 I’m currently learning how to paste (joke)
 - 📫 How to reach me: discord server ticket.
-- 😄 Pronouns: IOCTLS
-- ⚡ Fun fact: BLM, Democrat, Vegan, Stop oil, Climate change, LTBTQ!!
+- 😄 Pronouns: IOCTLS (she/her)
 
 <!---
 Reversexe/Reversexe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
